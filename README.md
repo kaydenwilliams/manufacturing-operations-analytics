@@ -1,4 +1,4 @@
-# Manufacturing Operations Analytics
+# Manufacturing Operations Analysis
 
 ## Overview
 A manufacturer exports data from three ERP systems — production logs, defect reports, and downtime incidents. The goal is to identify which factories underperform, what causes defects, and where production time is being lost.
