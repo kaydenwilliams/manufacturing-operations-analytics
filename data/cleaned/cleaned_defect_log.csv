@@ -1,0 +1,1079 @@
+date,factory,product_line,defect_count,batch_size,defect_reason
+2023-03-13,Factory A,PW-4000,3.0,100.0,Human Error
+2023-01-02,Factory E,,2.0,,Assembly Error
+2022-11-14,Factory C,Industrial-X,17.0,257.0,Assembly Error
+2022-07-04,Factory B,Commercial-Pro,15.0,149.0,
+2022-10-20,Factory C,PW-3000,31.0,142.0,Material Defect
+2022-12-19,Factory C,Industrial-X,33.0,60.0,Material Defect
+2023-04-21,Factory D,,13.0,218.0,
+2023-06-04,Factory A,,7.0,296.0,
+2023-04-04,Factory A,PW-2000,10.0,110.0,Machine Malfunction
+2022-11-25,Factory D,Commercial-Pro,6.0,135.0,Assembly Error
+2023-10-11,Factory E,PW-4000,6.0,283.0,Human Error
+2023-01-08,Factory C,,22.0,254.0,Machine Malfunction
+2022-04-03,Factory B,,5.0,220.0,Quality Control Failure
+,Factory E,PW-4000,10.0,260.0,Material Defect
+2023-01-22,Factory D,PW-2000,14.0,292.0,Supplier Issue
+2022-11-01,Factory B,Industrial-X,10.0,179.0,Machine Malfunction
+2022-01-24,Factory D,,33.0,103.0,Supplier Issue
+2022-05-01,Factory A,PW-3000,10.0,229.0,Assembly Error
+2023-02-10,Factory D,PW-4000,8.0,132.0,Human Error
+2023-07-25,Factory A,PW-2000,14.0,298.0,Human Error
+2022-11-04,Factory D,PW-3000,37.0,143.0,Assembly Error
+2022-05-25,Factory E,PW-3000,14.0,265.0,Assembly Error
+2022-12-10,Factory E,Industrial-X,11.0,251.0,
+2023-09-02,Factory E,Industrial-X,9.0,62.0,Material Defect
+2023-11-21,Factory C,PW-2000,39.0,,Material Defect
+2022-10-06,Factory E,PW-4000,8.0,163.0,Material Defect
+2022-11-30,Factory C,,35.0,135.0,Assembly Error
+2022-05-24,Factory B,PW-2000,15.0,251.0,Material Defect
+2023-01-18,Factory E,PW-2000,3.0,95.0,Quality Control Failure
+2022-07-16,Factory D,PW-4000,15.0,248.0,Machine Malfunction
+2023-02-20,Factory C,,21.0,109.0,Material Defect
+2023-02-12,Factory E,Industrial-X,5.0,216.0,Supplier Issue
+2023-12-22,Factory E,PW-2000,4.0,173.0,Assembly Error
+2022-05-23,Factory D,,31.0,158.0,Supplier Issue
+2023-10-12,Factory D,PW-3000,35.0,101.0,Assembly Error
+2023-07-20,Factory C,Commercial-Pro,25.0,295.0,Material Defect
+2022-09-23,Factory B,Commercial-Pro,7.0,138.0,Material Defect
+2022-01-23,Factory C,PW-4000,24.0,154.0,Quality Control Failure
+2022-09-17,Factory B,,3.0,60.0,Assembly Error
+2022-12-23,Factory D,PW-2000,24.0,210.0,Assembly Error
+2022-10-19,Factory C,PW-2000,35.0,221.0,Assembly Error
+2022-05-15,Factory B,PW-4000,1.0,273.0,
+2022-04-01,Factory E,PW-4000,14.0,118.0,
+2022-03-02,Factory A,PW-4000,10.0,275.0,Supplier Issue
+2023-09-09,Factory C,PW-2000,12.0,285.0,Material Defect
+2022-01-31,Factory E,Commercial-Pro,6.0,57.0,Supplier Issue
+2023-02-05,Factory B,,14.0,251.0,Quality Control Failure
+2023-06-29,Factory C,PW-4000,35.0,249.0,Machine Malfunction
+2022-12-13,Factory A,PW-4000,10.0,60.0,Material Defect
+2022-10-15,Factory C,Industrial-X,6.0,169.0,Material Defect
+2023-10-02,Factory C,Commercial-Pro,7.0,,Material Defect
+2022-05-11,Factory C,Industrial-X,13.0,134.0,Human Error
+2022-03-02,Factory E,PW-3000,13.0,130.0,Quality Control Failure
+2022-04-12,Factory D,PW-4000,24.0,164.0,Material Defect
+2023-07-25,Factory A,PW-4000,1.0,211.0,Material Defect
+2022-01-04,Factory C,PW-4000,34.0,127.0,Material Defect
+2022-12-30,Factory B,Commercial-Pro,14.0,294.0,
+2023-06-26,Factory C,PW-3000,30.0,202.0,
+2022-02-07,Factory C,PW-2000,39.0,78.0,Assembly Error
+2023-12-26,Factory E,PW-2000,13.0,254.0,Machine Malfunction
+2022-06-02,Factory C,,33.0,244.0,Machine Malfunction
+2022-11-13,Factory D,,13.0,95.0,Assembly Error
+2023-06-05,Factory E,Industrial-X,7.0,272.0,
+2022-09-06,Factory D,,8.0,287.0,Supplier Issue
+2022-06-02,Factory C,PW-2000,29.0,135.0,Supplier Issue
+2022-03-26,Factory E,PW-2000,11.0,91.0,Assembly Error
+2023-10-27,Factory E,PW-2000,10.0,87.0,Material Defect
+2023-04-06,Factory E,PW-4000,2.0,273.0,Material Defect
+2023-05-28,Factory C,PW-4000,18.0,141.0,Quality Control Failure
+2023-02-02,Factory B,Commercial-Pro,10.0,262.0,Quality Control Failure
+2023-09-22,Factory A,,6.0,93.0,Supplier Issue
+2023-06-11,Factory A,Commercial-Pro,9.0,101.0,Machine Malfunction
+2023-12-25,Factory D,Industrial-X,32.0,231.0,Machine Malfunction
+2022-08-14,Factory D,Industrial-X,28.0,66.0,Assembly Error
+2023-10-23,Factory E,PW-4000,10.0,262.0,Human Error
+2022-12-01,Factory A,PW-3000,8.0,76.0,Assembly Error
+2023-12-13,Factory A,PW-3000,6.0,263.0,Human Error
+2023-11-11,Factory E,Industrial-X,2.0,116.0,Quality Control Failure
+2022-03-13,Factory E,PW-3000,11.0,105.0,Human Error
+2022-11-07,Factory E,,6.0,61.0,Quality Control Failure
+2023-09-07,Factory C,PW-3000,39.0,277.0,
+2023-11-25,Factory D,PW-4000,33.0,184.0,Supplier Issue
+2022-12-26,Factory D,PW-2000,10.0,80.0,Material Defect
+2022-12-21,Factory C,PW-2000,32.0,134.0,Human Error
+2023-01-30,Factory C,Commercial-Pro,27.0,230.0,Human Error
+2023-11-29,Factory A,Commercial-Pro,14.0,283.0,Material Defect
+2023-05-26,Factory C,PW-4000,16.0,132.0,Machine Malfunction
+2022-07-09,Factory E,Commercial-Pro,2.0,129.0,Quality Control Failure
+,Factory C,PW-2000,37.0,62.0,Machine Malfunction
+,Factory C,PW-4000,40.0,284.0,Human Error
+2022-03-23,Factory C,,39.0,258.0,Material Defect
+2022-05-31,Factory E,Industrial-X,2.0,140.0,Machine Malfunction
+2022-08-29,Factory D,Industrial-X,31.0,76.0,Machine Malfunction
+2022-06-21,Factory A,PW-3000,7.0,299.0,Material Defect
+2023-05-09,Factory B,PW-3000,2.0,167.0,Quality Control Failure
+2022-08-13,Factory C,PW-4000,33.0,128.0,Human Error
+2022-09-13,Factory C,PW-4000,21.0,136.0,Supplier Issue
+2022-08-01,Factory E,Commercial-Pro,13.0,287.0,Supplier Issue
+2023-01-24,Factory D,PW-2000,33.0,229.0,Material Defect
+2023-01-06,Factory C,PW-2000,34.0,105.0,Supplier Issue
+2022-02-20,Factory D,PW-4000,8.0,136.0,Quality Control Failure
+2023-03-28,Factory E,PW-2000,1.0,72.0,Machine Malfunction
+2023-07-06,Factory A,PW-3000,6.0,243.0,Assembly Error
+2022-01-05,Factory C,PW-3000,39.0,120.0,Assembly Error
+2023-09-08,Factory A,Industrial-X,3.0,217.0,Assembly Error
+2023-11-15,Factory B,PW-3000,1.0,261.0,
+2022-10-14,Factory A,PW-2000,10.0,140.0,Material Defect
+2023-04-10,Factory D,PW-4000,31.0,67.0,Material Defect
+2022-09-19,Factory A,,3.0,170.0,Assembly Error
+2023-09-21,Factory E,Commercial-Pro,6.0,211.0,Human Error
+2023-08-05,Factory E,PW-2000,3.0,96.0,Material Defect
+2022-10-12,Factory C,PW-2000,14.0,250.0,Machine Malfunction
+2023-05-08,Factory E,PW-4000,7.0,59.0,Assembly Error
+2023-09-13,Factory C,PW-3000,30.0,180.0,Material Defect
+2022-03-10,Factory C,PW-2000,18.0,133.0,Assembly Error
+2023-04-09,Factory A,Commercial-Pro,5.0,205.0,Material Defect
+2023-01-12,Factory D,Industrial-X,12.0,292.0,Human Error
+2023-05-04,Factory A,PW-4000,11.0,136.0,Assembly Error
+2022-05-11,Factory A,PW-3000,5.0,271.0,Quality Control Failure
+2022-09-23,Factory B,Industrial-X,13.0,252.0,Supplier Issue
+2023-05-29,Factory A,Commercial-Pro,5.0,85.0,Material Defect
+2022-04-16,Factory E,,6.0,248.0,Assembly Error
+2023-12-20,Factory A,PW-4000,2.0,227.0,Quality Control Failure
+2023-10-08,Factory D,PW-2000,8.0,59.0,
+2023-02-01,Factory A,Commercial-Pro,1.0,269.0,Material Defect
+2022-12-26,Factory C,,14.0,251.0,Assembly Error
+2023-04-25,Factory E,PW-3000,15.0,284.0,Machine Malfunction
+2022-10-11,Factory B,Industrial-X,8.0,198.0,Human Error
+2023-11-09,Factory E,,6.0,83.0,Quality Control Failure
+2022-09-13,Factory D,PW-3000,18.0,267.0,Machine Malfunction
+2022-02-12,Factory E,Industrial-X,1.0,276.0,Human Error
+2023-01-12,Factory D,PW-3000,9.0,86.0,
+,Factory B,PW-3000,6.0,256.0,Quality Control Failure
+,Factory A,PW-2000,12.0,275.0,Material Defect
+2022-03-03,Factory C,Commercial-Pro,18.0,131.0,Assembly Error
+2023-09-11,Factory E,Commercial-Pro,4.0,86.0,Material Defect
+,Factory A,PW-4000,7.0,251.0,Quality Control Failure
+2022-04-23,Factory C,PW-3000,35.0,138.0,
+2023-07-23,Factory E,PW-2000,10.0,256.0,
+2023-11-04,Factory C,,38.0,104.0,Assembly Error
+2023-09-12,Factory C,PW-2000,10.0,154.0,Human Error
+2022-08-22,Factory C,PW-4000,26.0,100.0,Human Error
+2022-08-14,Factory A,PW-3000,5.0,186.0,
+2022-04-11,Factory A,,14.0,120.0,Supplier Issue
+2023-08-10,Factory B,PW-4000,7.0,245.0,Material Defect
+2023-10-01,Factory B,PW-3000,1.0,175.0,Machine Malfunction
+2023-05-23,Factory D,Commercial-Pro,13.0,184.0,Material Defect
+2023-04-25,Factory E,Industrial-X,1.0,243.0,Machine Malfunction
+2022-03-02,Factory A,Industrial-X,9.0,84.0,Human Error
+2022-10-07,Factory E,Commercial-Pro,8.0,255.0,Quality Control Failure
+2023-04-05,Factory C,,32.0,286.0,Supplier Issue
+2023-03-03,Factory E,,5.0,294.0,Assembly Error
+2022-10-05,Factory C,PW-2000,14.0,,Material Defect
+2023-08-22,Factory B,,11.0,150.0,Machine Malfunction
+2023-09-16,Factory E,PW-4000,11.0,54.0,Material Defect
+2022-12-17,Factory D,PW-3000,14.0,158.0,Quality Control Failure
+2023-12-26,Factory C,PW-2000,34.0,129.0,Assembly Error
+2023-09-01,Factory A,Commercial-Pro,12.0,206.0,Human Error
+2023-06-28,Factory A,PW-2000,9.0,179.0,Assembly Error
+2022-02-06,Factory C,,8.0,97.0,Quality Control Failure
+2022-08-26,Factory D,PW-2000,39.0,144.0,Human Error
+2023-05-18,Factory B,PW-3000,6.0,65.0,Supplier Issue
+2023-09-11,Factory B,PW-4000,5.0,96.0,Assembly Error
+2022-10-07,Factory D,PW-2000,34.0,57.0,
+2022-08-16,Factory A,PW-4000,13.0,226.0,Material Defect
+2022-06-22,Factory E,Commercial-Pro,2.0,113.0,Quality Control Failure
+2023-06-02,Factory A,Commercial-Pro,6.0,112.0,
+2023-01-30,Factory C,Industrial-X,25.0,222.0,
+2023-07-27,Factory D,PW-2000,21.0,79.0,Material Defect
+2023-02-15,Factory D,PW-4000,8.0,134.0,Material Defect
+2023-02-20,Factory C,PW-4000,15.0,271.0,Quality Control Failure
+2023-10-29,Factory C,PW-2000,15.0,215.0,Quality Control Failure
+2023-07-16,Factory D,PW-4000,19.0,54.0,Assembly Error
+,Factory D,PW-4000,31.0,80.0,Material Defect
+2023-02-04,Factory C,PW-2000,5.0,254.0,Assembly Error
+2022-02-26,Factory A,PW-4000,2.0,259.0,
+2022-12-29,Factory B,PW-4000,14.0,258.0,
+2023-06-09,Factory A,Industrial-X,12.0,110.0,Machine Malfunction
+2022-12-12,Factory C,PW-2000,22.0,141.0,Human Error
+2023-08-27,Factory B,Commercial-Pro,15.0,108.0,Material Defect
+2022-06-16,Factory A,PW-4000,12.0,134.0,
+2023-10-08,Factory C,PW-3000,13.0,61.0,
+2023-02-02,Factory D,Industrial-X,11.0,275.0,
+2022-01-27,Factory D,PW-3000,13.0,201.0,Material Defect
+2023-11-15,Factory B,PW-4000,6.0,262.0,Assembly Error
+2022-10-17,Factory D,PW-3000,27.0,271.0,Supplier Issue
+2022-04-08,Factory B,PW-2000,6.0,157.0,Quality Control Failure
+2022-12-06,Factory E,,15.0,178.0,Material Defect
+2023-02-21,Factory E,PW-2000,14.0,193.0,Assembly Error
+2023-04-28,Factory A,Industrial-X,12.0,252.0,Material Defect
+2022-02-22,Factory E,PW-3000,3.0,298.0,Human Error
+2023-06-06,Factory D,Industrial-X,26.0,69.0,Material Defect
+2023-09-12,Factory D,PW-3000,33.0,208.0,Quality Control Failure
+2023-05-30,Factory D,PW-3000,9.0,213.0,Human Error
+2022-06-29,Factory B,Commercial-Pro,5.0,73.0,Human Error
+2022-08-21,Factory D,PW-3000,36.0,282.0,
+,Factory B,PW-4000,10.0,146.0,
+2023-08-01,Factory D,PW-4000,6.0,58.0,Material Defect
+2023-03-05,Factory E,PW-4000,15.0,158.0,Machine Malfunction
+2022-12-15,Factory A,PW-3000,14.0,,
+2022-09-30,Factory B,,1.0,54.0,Quality Control Failure
+2023-02-16,Factory C,Industrial-X,18.0,143.0,Machine Malfunction
+2023-02-12,Factory E,Industrial-X,15.0,287.0,Material Defect
+2023-07-29,Factory A,Industrial-X,15.0,84.0,Machine Malfunction
+2023-07-20,Factory C,PW-3000,28.0,196.0,Quality Control Failure
+2023-02-28,Factory A,PW-2000,11.0,216.0,Machine Malfunction
+2023-08-28,Factory B,PW-2000,10.0,,Material Defect
+2022-07-07,Factory A,Commercial-Pro,4.0,,Material Defect
+2023-04-28,Factory B,Industrial-X,10.0,271.0,Assembly Error
+2022-02-15,Factory A,PW-2000,1.0,177.0,Material Defect
+2023-03-23,Factory A,PW-3000,7.0,274.0,Material Defect
+2023-02-04,Factory C,Commercial-Pro,14.0,108.0,Supplier Issue
+2023-01-14,Factory D,Industrial-X,27.0,128.0,Machine Malfunction
+,Factory A,,7.0,263.0,Assembly Error
+2023-09-19,Factory E,PW-2000,8.0,288.0,
+2022-08-13,Factory D,PW-4000,6.0,295.0,Material Defect
+2022-03-18,Factory B,PW-3000,5.0,219.0,Supplier Issue
+2023-06-25,Factory A,PW-3000,6.0,97.0,Supplier Issue
+2022-11-03,Factory E,PW-3000,10.0,,Supplier Issue
+2022-05-01,Factory C,PW-4000,29.0,54.0,Supplier Issue
+2023-04-28,Factory D,,10.0,272.0,Assembly Error
+2022-11-05,Factory D,PW-3000,28.0,65.0,Human Error
+2022-01-09,Factory D,Commercial-Pro,20.0,195.0,Assembly Error
+2023-08-05,Factory D,Industrial-X,35.0,254.0,Machine Malfunction
+2022-02-28,Factory C,PW-4000,27.0,68.0,Assembly Error
+2022-05-15,Factory D,PW-2000,5.0,71.0,
+2022-12-27,Factory D,PW-2000,31.0,97.0,
+2022-10-06,Factory D,Commercial-Pro,36.0,63.0,Quality Control Failure
+2023-08-17,Factory A,,1.0,115.0,Material Defect
+2022-11-22,Factory A,PW-3000,3.0,163.0,Assembly Error
+2022-09-19,Factory D,Industrial-X,39.0,121.0,
+2023-03-18,Factory C,PW-2000,38.0,270.0,Material Defect
+2023-11-04,Factory B,,4.0,296.0,Machine Malfunction
+2023-01-16,Factory D,Commercial-Pro,13.0,228.0,Supplier Issue
+2023-04-12,Factory E,Industrial-X,11.0,163.0,Quality Control Failure
+2023-02-03,Factory E,Industrial-X,1.0,292.0,Machine Malfunction
+2022-06-05,Factory A,PW-3000,1.0,260.0,Quality Control Failure
+2023-11-30,Factory A,PW-3000,5.0,,
+2022-07-28,Factory C,,18.0,242.0,
+2023-06-08,Factory E,PW-3000,15.0,84.0,Supplier Issue
+2022-12-03,Factory D,PW-4000,7.0,116.0,Machine Malfunction
+2023-02-15,Factory A,PW-4000,11.0,297.0,Material Defect
+2022-01-02,Factory C,Industrial-X,21.0,66.0,Supplier Issue
+2022-09-26,Factory A,,10.0,83.0,Quality Control Failure
+2023-01-15,Factory B,PW-2000,10.0,169.0,Material Defect
+2023-04-09,Factory B,Industrial-X,9.0,82.0,Material Defect
+2022-04-07,Factory E,,4.0,143.0,Assembly Error
+2022-05-15,Factory E,Commercial-Pro,1.0,127.0,Machine Malfunction
+2022-08-20,Factory A,,4.0,119.0,Material Defect
+2023-07-06,Factory A,PW-3000,3.0,178.0,Material Defect
+2023-03-08,Factory E,,1.0,230.0,Assembly Error
+2022-08-12,Factory D,PW-4000,35.0,89.0,Human Error
+2023-01-10,Factory C,,18.0,74.0,Supplier Issue
+2023-10-05,Factory B,Commercial-Pro,8.0,62.0,Assembly Error
+2022-05-28,Factory A,PW-4000,5.0,220.0,Material Defect
+2022-01-06,Factory B,PW-2000,6.0,87.0,
+2023-06-07,Factory C,PW-3000,40.0,280.0,Assembly Error
+,Factory D,PW-2000,13.0,,Human Error
+2023-12-17,Factory A,PW-3000,10.0,119.0,
+2023-08-11,Factory A,Commercial-Pro,10.0,235.0,Material Defect
+2022-01-03,Factory E,PW-4000,3.0,240.0,Material Defect
+2023-08-29,Factory D,PW-3000,39.0,88.0,Assembly Error
+2023-09-04,Factory E,PW-4000,13.0,151.0,Quality Control Failure
+2023-05-02,Factory C,PW-3000,28.0,280.0,Assembly Error
+2022-02-10,Factory E,PW-4000,4.0,124.0,
+2023-12-11,Factory B,PW-2000,3.0,164.0,Assembly Error
+2022-10-09,Factory C,PW-3000,18.0,254.0,Assembly Error
+2022-06-07,Factory D,Industrial-X,18.0,218.0,
+2022-12-10,Factory D,PW-4000,16.0,,
+2023-02-19,Factory A,PW-3000,14.0,190.0,Quality Control Failure
+2023-10-29,Factory E,Industrial-X,14.0,247.0,Machine Malfunction
+2022-10-01,Factory D,PW-3000,19.0,51.0,Human Error
+2022-06-26,Factory D,Commercial-Pro,29.0,273.0,Material Defect
+2023-01-17,Factory C,PW-4000,19.0,115.0,
+2022-12-16,Factory A,PW-2000,9.0,193.0,
+2023-03-21,Factory D,Industrial-X,31.0,111.0,Material Defect
+2023-11-24,Factory B,PW-4000,2.0,289.0,
+2023-09-13,Factory C,Industrial-X,35.0,86.0,Assembly Error
+2022-03-05,Factory B,PW-2000,9.0,89.0,Supplier Issue
+2023-11-07,Factory A,Industrial-X,12.0,53.0,Quality Control Failure
+2022-01-20,Factory C,,29.0,75.0,Assembly Error
+2023-08-14,Factory B,Industrial-X,13.0,252.0,
+,Factory B,PW-3000,4.0,267.0,Material Defect
+2022-03-16,Factory E,PW-4000,15.0,234.0,Quality Control Failure
+2022-04-30,Factory C,,21.0,131.0,Human Error
+2023-08-28,Factory E,,8.0,242.0,Quality Control Failure
+2022-09-20,Factory C,Commercial-Pro,32.0,169.0,Material Defect
+2022-07-29,Factory C,Commercial-Pro,21.0,235.0,Supplier Issue
+2023-05-23,Factory A,,12.0,192.0,Machine Malfunction
+2022-03-22,Factory C,Industrial-X,27.0,103.0,
+2023-02-22,Factory A,PW-3000,3.0,99.0,
+2022-11-15,Factory C,PW-4000,14.0,185.0,Assembly Error
+2022-09-23,Factory A,Industrial-X,4.0,137.0,Quality Control Failure
+2022-10-08,Factory D,Industrial-X,32.0,300.0,Assembly Error
+2023-03-29,Factory A,,10.0,248.0,Machine Malfunction
+2022-12-18,Factory C,PW-2000,28.0,54.0,Machine Malfunction
+2023-04-17,Factory B,PW-3000,12.0,86.0,Human Error
+2022-06-10,Factory D,Commercial-Pro,31.0,161.0,Supplier Issue
+2022-04-19,Factory C,Industrial-X,12.0,241.0,Assembly Error
+,Factory B,PW-4000,1.0,268.0,Material Defect
+2022-04-13,Factory E,Commercial-Pro,6.0,236.0,Material Defect
+2023-04-13,Factory B,,13.0,216.0,Quality Control Failure
+2022-11-15,Factory B,Commercial-Pro,5.0,241.0,Material Defect
+2022-04-30,Factory D,Commercial-Pro,31.0,95.0,Material Defect
+2022-11-16,Factory B,Industrial-X,14.0,51.0,Assembly Error
+2022-02-22,Factory E,PW-4000,11.0,170.0,Material Defect
+2023-04-19,Factory D,,22.0,94.0,Machine Malfunction
+2023-04-05,Factory E,PW-2000,14.0,298.0,Material Defect
+2023-04-23,Factory D,PW-4000,25.0,216.0,Material Defect
+2022-12-20,Factory D,,20.0,199.0,Machine Malfunction
+2023-10-13,Factory E,Commercial-Pro,13.0,152.0,Assembly Error
+2022-12-05,Factory D,,37.0,90.0,Material Defect
+2022-05-29,Factory B,,6.0,205.0,Human Error
+2023-08-25,Factory B,PW-2000,12.0,286.0,Material Defect
+2023-06-23,Factory D,PW-2000,19.0,140.0,Assembly Error
+2022-01-23,Factory C,PW-4000,33.0,199.0,Quality Control Failure
+2023-03-10,Factory B,Industrial-X,12.0,249.0,
+2023-12-04,Factory E,Industrial-X,4.0,289.0,Supplier Issue
+2022-08-22,Factory D,PW-2000,40.0,140.0,Material Defect
+2023-01-23,Factory C,,10.0,145.0,Supplier Issue
+2023-03-11,Factory B,PW-4000,2.0,81.0,Machine Malfunction
+2023-10-03,Factory A,PW-4000,4.0,212.0,Material Defect
+2022-11-07,Factory E,Industrial-X,11.0,70.0,Material Defect
+2022-05-31,Factory D,PW-3000,9.0,294.0,Material Defect
+2023-09-03,Factory E,PW-3000,12.0,251.0,Machine Malfunction
+2022-02-17,Factory E,PW-3000,4.0,232.0,Assembly Error
+2022-07-30,Factory A,Commercial-Pro,13.0,212.0,Quality Control Failure
+2022-07-10,Factory C,,29.0,200.0,
+2023-01-22,Factory D,Industrial-X,9.0,236.0,Material Defect
+2022-03-09,Factory A,PW-2000,11.0,112.0,Material Defect
+2022-11-30,Factory C,,26.0,136.0,Material Defect
+2022-06-16,Factory B,PW-4000,7.0,138.0,
+2022-07-27,Factory A,,2.0,,Human Error
+2022-02-13,Factory C,Commercial-Pro,34.0,102.0,Assembly Error
+2022-11-04,Factory B,PW-3000,4.0,189.0,Material Defect
+2023-10-01,Factory E,Commercial-Pro,8.0,230.0,Quality Control Failure
+2023-02-23,Factory E,PW-4000,8.0,239.0,Assembly Error
+2023-10-22,Factory D,Industrial-X,8.0,130.0,Material Defect
+2022-12-13,Factory D,,10.0,88.0,Supplier Issue
+2022-01-30,Factory A,Industrial-X,3.0,210.0,Material Defect
+2022-03-13,Factory E,,10.0,147.0,Material Defect
+2022-10-31,Factory D,PW-4000,25.0,156.0,Supplier Issue
+2022-06-13,Factory E,Commercial-Pro,3.0,50.0,Human Error
+2023-04-17,Factory E,,6.0,206.0,
+2023-01-27,Factory B,PW-3000,1.0,70.0,Machine Malfunction
+2022-06-16,Factory E,PW-2000,7.0,121.0,Assembly Error
+2023-11-04,Factory E,,3.0,75.0,Material Defect
+2022-02-07,Factory B,PW-4000,9.0,159.0,Human Error
+2022-07-09,Factory A,,9.0,74.0,Human Error
+2023-08-30,Factory D,PW-4000,39.0,,Supplier Issue
+2023-11-03,Factory D,PW-4000,37.0,206.0,Quality Control Failure
+2022-05-01,Factory D,PW-3000,8.0,170.0,Assembly Error
+2022-05-17,Factory D,PW-4000,28.0,153.0,Material Defect
+2023-11-24,Factory B,,11.0,61.0,Material Defect
+2023-01-02,Factory A,,9.0,81.0,Supplier Issue
+2023-12-17,Factory A,PW-4000,11.0,254.0,Human Error
+2022-04-25,Factory B,PW-4000,12.0,203.0,Supplier Issue
+2022-06-04,Factory C,PW-2000,8.0,180.0,Human Error
+2023-08-20,Factory A,,13.0,297.0,Quality Control Failure
+,Factory A,PW-2000,2.0,115.0,Quality Control Failure
+2023-06-28,Factory B,Industrial-X,8.0,287.0,Human Error
+2022-02-28,Factory E,PW-4000,6.0,91.0,Quality Control Failure
+2022-03-26,Factory B,Industrial-X,9.0,284.0,Material Defect
+2022-01-17,Factory A,Industrial-X,13.0,181.0,Supplier Issue
+2023-06-25,Factory A,,4.0,58.0,Assembly Error
+2023-07-01,Factory E,,7.0,61.0,Assembly Error
+2023-03-31,Factory D,,39.0,156.0,Supplier Issue
+2023-09-08,Factory C,,13.0,61.0,Machine Malfunction
+2023-06-09,Factory D,PW-2000,32.0,,Assembly Error
+2022-06-12,Factory E,Commercial-Pro,13.0,164.0,Assembly Error
+2023-11-10,Factory D,Commercial-Pro,23.0,116.0,Quality Control Failure
+2023-05-05,Factory D,PW-3000,31.0,82.0,Assembly Error
+2022-02-16,Factory E,PW-3000,8.0,64.0,Assembly Error
+2022-01-22,Factory C,PW-2000,37.0,282.0,Machine Malfunction
+2022-05-25,Factory B,,15.0,122.0,Human Error
+2023-08-29,Factory C,PW-2000,10.0,236.0,Quality Control Failure
+2022-01-05,Factory B,PW-2000,3.0,92.0,Material Defect
+2023-02-17,Factory B,Industrial-X,5.0,162.0,Assembly Error
+2022-09-02,Factory B,PW-4000,11.0,217.0,Material Defect
+2023-03-17,Factory B,,2.0,240.0,Quality Control Failure
+2023-06-10,Factory C,PW-4000,20.0,120.0,Material Defect
+2023-04-19,Factory C,,21.0,272.0,Quality Control Failure
+2023-07-07,Factory A,PW-2000,15.0,217.0,Machine Malfunction
+2023-08-01,Factory E,,4.0,170.0,Assembly Error
+2023-07-15,Factory D,Industrial-X,5.0,145.0,Assembly Error
+2023-01-22,Factory B,PW-3000,8.0,167.0,Assembly Error
+2023-08-18,Factory B,Industrial-X,14.0,287.0,Machine Malfunction
+2023-09-11,Factory D,PW-4000,10.0,199.0,Human Error
+2023-01-02,Factory E,Commercial-Pro,3.0,92.0,Quality Control Failure
+2022-11-08,Factory D,Industrial-X,20.0,204.0,Machine Malfunction
+2023-01-19,Factory D,PW-3000,5.0,235.0,Assembly Error
+2023-05-09,Factory E,PW-4000,4.0,252.0,Supplier Issue
+2023-07-11,Factory C,PW-3000,32.0,247.0,Material Defect
+2023-06-10,Factory C,PW-3000,21.0,193.0,Supplier Issue
+2023-12-16,Factory D,PW-4000,32.0,245.0,Assembly Error
+2023-08-25,Factory E,,8.0,282.0,Human Error
+2023-11-13,Factory D,Commercial-Pro,13.0,64.0,Assembly Error
+2022-03-09,Factory C,Industrial-X,35.0,149.0,Supplier Issue
+2022-02-09,Factory C,Industrial-X,14.0,61.0,Quality Control Failure
+2022-12-20,Factory B,PW-3000,7.0,206.0,Assembly Error
+2023-01-16,Factory A,PW-4000,2.0,245.0,Material Defect
+2022-04-18,Factory B,Industrial-X,6.0,269.0,Material Defect
+2023-03-22,Factory D,,29.0,284.0,
+2022-07-21,Factory A,PW-2000,7.0,211.0,Assembly Error
+2023-11-09,Factory D,PW-3000,19.0,113.0,Quality Control Failure
+2023-04-20,Factory D,Commercial-Pro,33.0,230.0,Material Defect
+2022-06-07,Factory C,,7.0,106.0,Material Defect
+2023-03-09,Factory B,PW-3000,6.0,202.0,Quality Control Failure
+2022-09-27,Factory E,Commercial-Pro,5.0,,Material Defect
+2022-08-24,Factory A,Commercial-Pro,11.0,235.0,Supplier Issue
+2023-04-19,Factory C,,38.0,176.0,Material Defect
+2023-06-07,Factory B,PW-3000,8.0,84.0,
+2023-12-01,Factory E,PW-2000,9.0,293.0,Supplier Issue
+2023-08-21,Factory E,PW-4000,9.0,147.0,Material Defect
+2022-03-06,Factory D,,15.0,285.0,
+2022-03-10,Factory D,Industrial-X,27.0,268.0,Material Defect
+2023-08-16,Factory A,Industrial-X,1.0,131.0,Supplier Issue
+2023-03-15,Factory E,,13.0,51.0,Assembly Error
+2022-12-12,Factory A,Industrial-X,13.0,175.0,Human Error
+2022-10-28,Factory B,PW-3000,13.0,,Material Defect
+2023-12-15,Factory A,PW-4000,15.0,126.0,Material Defect
+,Factory B,Commercial-Pro,2.0,174.0,Material Defect
+2023-12-18,Factory D,,18.0,96.0,
+,Factory D,PW-3000,25.0,186.0,Supplier Issue
+2022-10-14,Factory B,PW-2000,4.0,214.0,Quality Control Failure
+2023-03-16,Factory D,Industrial-X,37.0,127.0,Machine Malfunction
+2023-02-06,Factory B,Industrial-X,15.0,173.0,Machine Malfunction
+2023-12-29,Factory E,Commercial-Pro,11.0,210.0,Material Defect
+2022-04-23,Factory E,PW-3000,3.0,259.0,Human Error
+2023-03-27,Factory D,PW-4000,14.0,189.0,Machine Malfunction
+2022-04-11,Factory A,PW-2000,3.0,269.0,Material Defect
+2023-12-14,Factory E,Commercial-Pro,11.0,128.0,Machine Malfunction
+2022-02-16,Factory E,PW-2000,6.0,238.0,Human Error
+2022-06-11,Factory A,PW-2000,9.0,121.0,
+2022-02-19,Factory D,Commercial-Pro,26.0,241.0,Machine Malfunction
+2022-11-17,Factory B,,3.0,282.0,Quality Control Failure
+2023-10-17,Factory A,PW-3000,4.0,55.0,Material Defect
+2023-07-31,Factory A,Commercial-Pro,12.0,195.0,Material Defect
+2022-04-25,Factory B,PW-3000,14.0,159.0,Assembly Error
+2022-09-30,Factory D,PW-4000,11.0,150.0,Machine Malfunction
+2023-05-01,Factory B,Industrial-X,9.0,108.0,Material Defect
+,Factory C,,24.0,176.0,Supplier Issue
+2023-11-11,Factory D,PW-2000,32.0,203.0,Assembly Error
+2022-08-14,Factory C,PW-2000,9.0,262.0,Quality Control Failure
+2023-01-26,Factory C,PW-4000,10.0,297.0,Machine Malfunction
+2022-11-15,Factory D,Industrial-X,7.0,84.0,
+,Factory C,Commercial-Pro,37.0,116.0,Machine Malfunction
+2022-12-26,Factory C,Industrial-X,21.0,94.0,Supplier Issue
+2023-12-31,Factory C,Industrial-X,26.0,234.0,Human Error
+2023-03-30,Factory C,PW-4000,36.0,,Human Error
+2022-11-24,Factory C,Industrial-X,22.0,96.0,Quality Control Failure
+2022-04-14,Factory C,PW-3000,20.0,107.0,Machine Malfunction
+2023-02-25,Factory A,PW-4000,8.0,129.0,Material Defect
+2022-09-05,Factory B,PW-2000,11.0,127.0,Assembly Error
+,Factory E,PW-3000,3.0,176.0,Assembly Error
+2023-11-22,Factory C,PW-2000,39.0,123.0,Assembly Error
+2023-01-03,Factory B,Industrial-X,4.0,127.0,Material Defect
+2023-10-10,Factory C,Commercial-Pro,7.0,224.0,Supplier Issue
+2022-08-06,Factory C,PW-3000,12.0,160.0,Supplier Issue
+2023-09-30,Factory D,PW-3000,22.0,92.0,Material Defect
+2023-11-07,Factory C,PW-2000,31.0,232.0,Machine Malfunction
+2022-09-06,Factory D,Commercial-Pro,8.0,232.0,Material Defect
+2022-11-14,Factory C,PW-4000,28.0,254.0,Assembly Error
+2023-05-29,Factory C,PW-3000,32.0,159.0,Supplier Issue
+2022-01-30,Factory B,Industrial-X,9.0,115.0,Human Error
+2022-02-01,Factory C,PW-4000,17.0,274.0,Assembly Error
+2023-11-01,Factory C,PW-4000,22.0,67.0,Quality Control Failure
+2023-12-09,Factory D,PW-2000,20.0,270.0,Assembly Error
+2022-12-14,Factory C,PW-3000,38.0,141.0,
+2022-03-01,Factory E,PW-4000,15.0,,Machine Malfunction
+2022-09-09,Factory B,Industrial-X,14.0,55.0,Machine Malfunction
+2022-12-05,Factory B,,4.0,118.0,Assembly Error
+2022-10-05,Factory C,PW-4000,10.0,185.0,Material Defect
+2023-03-04,Factory C,Commercial-Pro,25.0,230.0,
+2023-10-30,Factory A,,4.0,236.0,Human Error
+2022-06-08,Factory C,PW-4000,38.0,284.0,
+2023-02-16,Factory C,PW-4000,5.0,85.0,Material Defect
+2022-07-18,Factory E,PW-3000,3.0,176.0,
+2022-06-06,Factory A,Industrial-X,15.0,277.0,Assembly Error
+2022-11-18,Factory C,Industrial-X,33.0,179.0,Supplier Issue
+2023-01-20,Factory D,Industrial-X,10.0,188.0,Machine Malfunction
+2023-04-03,Factory D,PW-4000,39.0,63.0,Quality Control Failure
+2023-01-30,Factory A,Commercial-Pro,4.0,116.0,Supplier Issue
+2022-12-04,Factory D,Industrial-X,23.0,85.0,Machine Malfunction
+2023-01-13,Factory A,PW-4000,9.0,194.0,Assembly Error
+2023-08-23,Factory E,,10.0,96.0,Supplier Issue
+,Factory E,,8.0,228.0,Material Defect
+2022-06-22,Factory D,Industrial-X,38.0,56.0,Material Defect
+2023-09-19,Factory D,PW-4000,29.0,264.0,Material Defect
+2022-07-10,Factory A,,2.0,59.0,Assembly Error
+2022-04-15,Factory A,PW-2000,11.0,277.0,Material Defect
+2022-10-30,Factory B,Commercial-Pro,13.0,219.0,Assembly Error
+2022-06-03,Factory A,,9.0,70.0,Human Error
+2022-07-14,Factory E,PW-4000,13.0,203.0,Material Defect
+2022-01-16,Factory D,PW-4000,20.0,87.0,Machine Malfunction
+2023-10-18,Factory B,,13.0,287.0,Quality Control Failure
+2023-01-11,Factory C,PW-2000,11.0,70.0,Machine Malfunction
+2022-09-26,Factory B,Industrial-X,13.0,79.0,Supplier Issue
+2022-01-27,Factory E,Commercial-Pro,15.0,74.0,Machine Malfunction
+2022-02-17,Factory B,PW-3000,2.0,171.0,Material Defect
+2022-10-09,Factory E,Commercial-Pro,8.0,242.0,Assembly Error
+2022-10-13,Factory D,PW-2000,6.0,218.0,Quality Control Failure
+2023-10-03,Factory A,PW-2000,14.0,262.0,Human Error
+2022-02-18,Factory E,Industrial-X,6.0,109.0,Human Error
+2022-03-04,Factory A,PW-4000,4.0,285.0,Quality Control Failure
+2023-03-18,Factory D,PW-4000,7.0,231.0,Supplier Issue
+2022-03-14,Factory A,PW-3000,9.0,189.0,Human Error
+2023-06-30,Factory A,,2.0,180.0,Material Defect
+2022-09-19,Factory C,Industrial-X,21.0,104.0,Assembly Error
+2022-09-15,Factory E,PW-4000,7.0,279.0,Supplier Issue
+2023-10-17,Factory D,PW-3000,19.0,,Quality Control Failure
+2022-04-29,Factory B,PW-4000,13.0,136.0,
+2023-11-27,Factory E,Commercial-Pro,13.0,85.0,Assembly Error
+2022-09-13,Factory B,PW-4000,12.0,193.0,Human Error
+2023-03-25,Factory C,PW-4000,31.0,130.0,Assembly Error
+2023-06-17,Factory E,,1.0,132.0,Quality Control Failure
+2022-08-09,Factory E,PW-3000,14.0,51.0,Human Error
+2022-01-27,Factory C,PW-3000,15.0,238.0,Assembly Error
+2023-05-26,Factory B,Commercial-Pro,13.0,265.0,Material Defect
+2022-08-09,Factory A,PW-3000,8.0,262.0,Assembly Error
+2022-11-27,Factory C,PW-4000,6.0,266.0,
+2022-08-05,Factory C,Industrial-X,9.0,159.0,Assembly Error
+2022-08-23,Factory A,,12.0,106.0,Machine Malfunction
+2022-05-20,Factory E,PW-2000,7.0,291.0,Human Error
+2023-04-08,Factory D,PW-2000,34.0,269.0,Human Error
+2023-05-20,Factory D,PW-4000,9.0,115.0,Machine Malfunction
+2023-04-18,Factory B,Industrial-X,15.0,70.0,Assembly Error
+2022-09-05,Factory D,PW-4000,28.0,253.0,Material Defect
+2023-09-28,Factory B,PW-3000,14.0,263.0,Assembly Error
+2022-05-17,Factory A,Industrial-X,1.0,66.0,Machine Malfunction
+2022-10-07,Factory E,PW-3000,8.0,158.0,Machine Malfunction
+2022-05-03,Factory A,Industrial-X,12.0,122.0,Material Defect
+2022-10-07,Factory C,PW-4000,14.0,251.0,Assembly Error
+2022-05-02,Factory E,,9.0,64.0,Assembly Error
+2023-10-27,Factory E,PW-2000,13.0,231.0,Assembly Error
+2022-12-30,Factory D,,30.0,295.0,Machine Malfunction
+2023-11-09,Factory D,PW-3000,18.0,171.0,Assembly Error
+2023-08-03,Factory A,PW-4000,3.0,135.0,Assembly Error
+2023-05-24,Factory A,PW-2000,8.0,176.0,Machine Malfunction
+2023-01-31,Factory D,Commercial-Pro,35.0,300.0,Material Defect
+2022-11-29,Factory C,PW-4000,39.0,269.0,Machine Malfunction
+2022-01-30,Factory E,PW-3000,12.0,80.0,Assembly Error
+2023-02-04,Factory C,Industrial-X,23.0,179.0,Supplier Issue
+2022-06-22,Factory D,,37.0,51.0,Supplier Issue
+2023-01-27,Factory C,PW-3000,5.0,134.0,Human Error
+,Factory D,PW-4000,33.0,281.0,Assembly Error
+2023-02-16,Factory A,PW-3000,15.0,,Quality Control Failure
+2023-05-01,Factory D,PW-2000,27.0,171.0,
+2023-12-08,Factory E,PW-2000,9.0,272.0,Material Defect
+2022-09-10,Factory E,PW-3000,14.0,92.0,Assembly Error
+2023-01-16,Factory D,,22.0,230.0,Machine Malfunction
+2022-02-09,Factory A,Industrial-X,8.0,249.0,Assembly Error
+2022-12-06,Factory C,PW-4000,34.0,110.0,Material Defect
+2023-04-22,Factory D,Industrial-X,40.0,297.0,Assembly Error
+2023-07-23,Factory D,Industrial-X,38.0,79.0,Material Defect
+2023-05-04,Factory A,Industrial-X,12.0,99.0,Assembly Error
+2023-11-20,Factory E,Commercial-Pro,12.0,227.0,Quality Control Failure
+2022-08-14,Factory C,Commercial-Pro,5.0,,Quality Control Failure
+2023-08-04,Factory A,PW-2000,8.0,159.0,Machine Malfunction
+2022-06-26,Factory A,,10.0,280.0,Assembly Error
+2023-11-07,Factory D,Commercial-Pro,14.0,74.0,Material Defect
+2022-03-26,Factory C,PW-2000,32.0,176.0,
+2022-11-04,Factory A,PW-4000,13.0,,Machine Malfunction
+2022-07-29,Factory A,Commercial-Pro,9.0,257.0,
+2023-02-13,Factory C,PW-3000,20.0,97.0,Material Defect
+2022-01-14,Factory D,,31.0,,Material Defect
+2023-11-03,Factory B,Industrial-X,9.0,294.0,
+2023-10-20,Factory A,PW-4000,14.0,266.0,Assembly Error
+2022-09-09,Factory B,Industrial-X,3.0,88.0,
+2023-10-31,Factory A,,9.0,254.0,Supplier Issue
+2023-02-14,Factory A,,2.0,67.0,Material Defect
+2022-12-07,Factory A,Industrial-X,14.0,244.0,
+2023-04-25,Factory C,Industrial-X,15.0,270.0,Material Defect
+2023-08-30,Factory E,PW-4000,2.0,92.0,Machine Malfunction
+2023-06-30,Factory A,PW-2000,8.0,70.0,Material Defect
+2022-07-26,Factory C,PW-2000,23.0,77.0,Supplier Issue
+2023-01-12,Factory E,Commercial-Pro,1.0,81.0,Quality Control Failure
+2022-09-03,Factory C,PW-2000,32.0,105.0,Assembly Error
+2023-11-18,Factory D,PW-3000,10.0,64.0,Machine Malfunction
+2023-04-15,Factory C,Industrial-X,17.0,295.0,Material Defect
+2022-06-07,Factory A,,5.0,53.0,Assembly Error
+2023-10-04,Factory E,Industrial-X,15.0,89.0,Assembly Error
+2023-10-18,Factory C,PW-3000,12.0,88.0,Assembly Error
+2022-05-12,Factory E,PW-3000,5.0,256.0,Material Defect
+2023-11-01,Factory A,Industrial-X,2.0,280.0,Quality Control Failure
+2023-08-15,Factory C,Commercial-Pro,27.0,91.0,Material Defect
+,Factory C,,9.0,66.0,
+2022-04-10,Factory E,PW-4000,8.0,50.0,Quality Control Failure
+2023-05-13,Factory C,,33.0,276.0,Assembly Error
+2022-07-04,Factory D,PW-3000,31.0,101.0,Quality Control Failure
+2023-10-03,Factory C,,33.0,121.0,Assembly Error
+2022-09-15,Factory A,PW-2000,15.0,189.0,Material Defect
+2022-12-10,Factory D,PW-2000,10.0,160.0,Machine Malfunction
+2023-11-21,Factory A,PW-3000,14.0,255.0,Assembly Error
+2022-06-19,Factory D,PW-4000,9.0,115.0,Human Error
+2023-03-25,Factory D,Commercial-Pro,6.0,52.0,Material Defect
+2023-02-14,Factory E,,11.0,216.0,Machine Malfunction
+2023-07-11,Factory C,Commercial-Pro,15.0,140.0,Material Defect
+2023-03-26,Factory C,PW-2000,35.0,285.0,Machine Malfunction
+2023-08-10,Factory E,,5.0,164.0,Human Error
+2023-10-13,Factory E,Industrial-X,11.0,199.0,Assembly Error
+2023-02-08,Factory C,PW-4000,37.0,,Human Error
+2022-07-27,Factory D,Commercial-Pro,7.0,112.0,Human Error
+2023-03-20,Factory A,Commercial-Pro,13.0,219.0,Human Error
+2022-07-06,Factory E,PW-4000,3.0,283.0,
+2022-07-14,Factory E,,10.0,80.0,Material Defect
+2023-11-24,Factory D,PW-2000,14.0,277.0,Human Error
+2023-07-12,Factory E,PW-3000,6.0,94.0,Human Error
+2022-02-17,Factory A,PW-3000,10.0,,Material Defect
+2022-04-04,Factory A,,1.0,219.0,Machine Malfunction
+2023-12-28,Factory A,,1.0,54.0,Machine Malfunction
+2022-01-01,Factory B,Commercial-Pro,14.0,157.0,
+2022-12-05,Factory D,PW-2000,13.0,265.0,Material Defect
+2023-03-07,Factory C,Industrial-X,11.0,84.0,Material Defect
+2023-09-24,Factory A,Commercial-Pro,5.0,119.0,Machine Malfunction
+2023-05-06,Factory D,,27.0,212.0,Assembly Error
+2023-11-25,Factory D,,5.0,63.0,Quality Control Failure
+2022-05-31,Factory E,,14.0,135.0,Material Defect
+2023-03-01,Factory D,PW-2000,31.0,202.0,
+2023-08-09,Factory B,,2.0,182.0,Supplier Issue
+2023-04-25,Factory C,PW-4000,37.0,136.0,Assembly Error
+2023-02-04,Factory D,PW-2000,6.0,,Material Defect
+2023-12-10,Factory B,PW-2000,6.0,,
+2023-05-23,Factory B,PW-2000,11.0,161.0,Assembly Error
+2022-10-02,Factory E,Commercial-Pro,14.0,165.0,Material Defect
+2022-05-24,Factory A,Commercial-Pro,7.0,237.0,Material Defect
+2022-07-27,Factory B,PW-3000,15.0,282.0,
+2023-01-15,Factory B,Commercial-Pro,5.0,159.0,Supplier Issue
+2023-02-20,Factory B,Commercial-Pro,6.0,277.0,Machine Malfunction
+2022-08-22,Factory D,PW-4000,18.0,97.0,
+2023-07-16,Factory C,PW-4000,26.0,178.0,Supplier Issue
+2023-01-27,Factory C,Industrial-X,15.0,261.0,Assembly Error
+2022-07-10,Factory D,PW-3000,16.0,102.0,Machine Malfunction
+2023-01-25,Factory D,Commercial-Pro,14.0,201.0,Machine Malfunction
+2023-11-21,Factory D,PW-3000,16.0,181.0,Material Defect
+2022-04-01,Factory B,,9.0,183.0,
+2022-05-31,Factory B,,10.0,192.0,Material Defect
+2022-06-03,Factory B,PW-2000,8.0,127.0,Assembly Error
+2022-06-22,Factory C,PW-3000,33.0,160.0,Supplier Issue
+2023-03-24,Factory C,Commercial-Pro,18.0,271.0,Supplier Issue
+2023-08-01,Factory A,,3.0,97.0,Human Error
+2023-02-04,Factory B,PW-3000,12.0,225.0,Assembly Error
+2022-05-01,Factory E,,15.0,180.0,Material Defect
+2023-11-23,Factory E,PW-2000,15.0,239.0,Assembly Error
+2023-03-08,Factory C,,20.0,224.0,Human Error
+2022-09-26,Factory E,,5.0,202.0,Supplier Issue
+2022-09-18,Factory A,PW-4000,9.0,94.0,Human Error
+2022-02-26,Factory A,PW-3000,6.0,67.0,Human Error
+2022-05-19,Factory E,Commercial-Pro,14.0,119.0,Material Defect
+2023-05-30,Factory B,Industrial-X,12.0,143.0,Quality Control Failure
+2023-12-16,Factory C,PW-2000,19.0,90.0,
+2022-06-02,Factory C,PW-2000,26.0,89.0,Machine Malfunction
+2022-11-17,Factory D,Industrial-X,7.0,180.0,Assembly Error
+2022-04-11,Factory D,PW-4000,6.0,169.0,Supplier Issue
+2022-12-22,Factory B,Industrial-X,1.0,132.0,Assembly Error
+2023-01-15,Factory B,PW-4000,2.0,290.0,Material Defect
+2022-11-21,Factory B,PW-3000,10.0,158.0,Assembly Error
+2022-10-12,Factory A,Commercial-Pro,5.0,81.0,Assembly Error
+2022-06-10,Factory D,Commercial-Pro,12.0,183.0,Quality Control Failure
+2022-06-12,Factory A,,12.0,106.0,
+2022-03-20,Factory E,PW-2000,2.0,216.0,Human Error
+2022-06-13,Factory A,PW-3000,9.0,72.0,Machine Malfunction
+2022-03-28,Factory E,PW-3000,9.0,298.0,Material Defect
+2022-11-12,Factory C,PW-2000,35.0,293.0,Human Error
+2023-07-26,Factory D,,39.0,268.0,Supplier Issue
+2022-05-16,Factory E,PW-3000,3.0,220.0,Assembly Error
+,Factory C,Commercial-Pro,31.0,108.0,Assembly Error
+2022-01-29,Factory C,Commercial-Pro,36.0,165.0,Machine Malfunction
+2022-12-08,Factory D,Industrial-X,38.0,83.0,Supplier Issue
+,Factory B,PW-2000,10.0,271.0,Quality Control Failure
+2022-04-16,Factory E,PW-4000,7.0,216.0,Material Defect
+2022-06-01,Factory A,PW-2000,14.0,146.0,Material Defect
+2022-12-27,Factory E,,1.0,62.0,Supplier Issue
+2023-06-30,Factory A,Industrial-X,10.0,104.0,Quality Control Failure
+2023-04-30,Factory C,PW-4000,6.0,230.0,
+2022-12-19,Factory E,PW-4000,6.0,189.0,Quality Control Failure
+,Factory B,Commercial-Pro,13.0,102.0,Human Error
+2023-01-13,Factory A,PW-3000,6.0,,Material Defect
+2023-12-27,Factory C,PW-3000,36.0,167.0,Material Defect
+2023-12-19,Factory E,PW-2000,11.0,107.0,Assembly Error
+2022-01-10,Factory E,Commercial-Pro,3.0,167.0,Material Defect
+2022-03-27,Factory E,PW-3000,3.0,212.0,Machine Malfunction
+2022-04-15,Factory D,,34.0,154.0,Quality Control Failure
+2022-02-02,Factory D,Industrial-X,14.0,280.0,Assembly Error
+2022-05-24,Factory C,PW-4000,32.0,150.0,Machine Malfunction
+2022-08-22,Factory B,PW-4000,4.0,95.0,Assembly Error
+2023-03-01,Factory E,PW-3000,3.0,288.0,Material Defect
+2022-03-27,Factory B,Commercial-Pro,4.0,60.0,
+2023-06-17,Factory E,Commercial-Pro,13.0,203.0,
+2023-04-01,Factory E,,7.0,223.0,
+2022-09-28,Factory D,,32.0,289.0,
+2022-01-02,Factory B,Commercial-Pro,13.0,53.0,Machine Malfunction
+2023-12-10,Factory C,Industrial-X,10.0,82.0,Assembly Error
+2022-05-01,Factory D,PW-4000,11.0,77.0,Assembly Error
+2022-01-28,Factory E,PW-3000,10.0,176.0,Material Defect
+2023-12-27,Factory D,Commercial-Pro,18.0,203.0,Machine Malfunction
+2022-05-29,Factory E,Commercial-Pro,9.0,109.0,
+2023-10-13,Factory D,Industrial-X,31.0,238.0,Material Defect
+2022-01-04,Factory E,,5.0,73.0,Assembly Error
+2022-10-15,Factory C,PW-4000,10.0,100.0,Material Defect
+2023-02-08,Factory C,PW-3000,8.0,283.0,
+,Factory C,Industrial-X,6.0,78.0,Machine Malfunction
+2023-03-23,Factory E,Commercial-Pro,8.0,267.0,Assembly Error
+2022-02-22,Factory A,PW-2000,9.0,143.0,Material Defect
+2023-09-18,Factory E,Industrial-X,10.0,116.0,Material Defect
+2023-11-13,Factory C,PW-4000,28.0,261.0,Assembly Error
+2023-01-31,Factory A,PW-4000,5.0,122.0,Assembly Error
+2022-09-06,Factory D,,38.0,247.0,Material Defect
+2022-08-31,Factory E,,10.0,205.0,
+2022-07-17,Factory E,,15.0,292.0,Supplier Issue
+2023-02-03,Factory A,Commercial-Pro,4.0,248.0,Material Defect
+2022-03-11,Factory E,Industrial-X,7.0,183.0,Material Defect
+2022-02-01,Factory C,Commercial-Pro,22.0,252.0,Human Error
+2022-12-12,Factory D,Industrial-X,25.0,129.0,Assembly Error
+2023-04-27,Factory E,Industrial-X,14.0,262.0,Assembly Error
+2023-05-09,Factory C,Industrial-X,38.0,297.0,Quality Control Failure
+2022-10-08,Factory D,Commercial-Pro,19.0,97.0,Material Defect
+2023-08-30,Factory D,PW-3000,13.0,188.0,Assembly Error
+2023-07-24,Factory B,PW-2000,7.0,277.0,
+2022-01-01,Factory A,PW-2000,9.0,195.0,Assembly Error
+2022-11-18,Factory E,,11.0,75.0,
+2022-11-08,Factory A,Commercial-Pro,9.0,164.0,Material Defect
+2023-11-24,Factory C,,6.0,152.0,Assembly Error
+2022-12-26,Factory E,,7.0,166.0,Quality Control Failure
+2023-06-01,Factory C,PW-2000,12.0,79.0,Supplier Issue
+2023-01-26,Factory E,,6.0,158.0,Material Defect
+2022-03-25,Factory D,PW-3000,20.0,249.0,Human Error
+2023-05-01,Factory C,PW-4000,16.0,70.0,Machine Malfunction
+2022-12-18,Factory E,PW-3000,15.0,209.0,
+2022-11-17,Factory C,PW-2000,25.0,166.0,
+2023-07-18,Factory D,PW-2000,35.0,186.0,Human Error
+2022-08-18,Factory A,PW-3000,15.0,294.0,Assembly Error
+2023-07-11,Factory E,Industrial-X,10.0,297.0,
+2022-09-09,Factory D,Commercial-Pro,36.0,183.0,Human Error
+2022-12-17,Factory D,PW-2000,36.0,80.0,Material Defect
+2022-06-19,Factory A,Industrial-X,5.0,212.0,Material Defect
+2023-10-16,Factory D,Commercial-Pro,30.0,93.0,Human Error
+2023-08-06,Factory D,,7.0,297.0,Assembly Error
+2022-01-24,Factory C,PW-4000,24.0,231.0,Quality Control Failure
+,Factory D,PW-4000,19.0,209.0,Human Error
+2023-05-13,Factory E,,14.0,181.0,Assembly Error
+2023-06-02,Factory E,Commercial-Pro,14.0,220.0,Supplier Issue
+2023-12-02,Factory D,Industrial-X,7.0,94.0,Machine Malfunction
+2022-07-21,Factory D,PW-3000,20.0,71.0,Material Defect
+2022-02-16,Factory E,PW-4000,1.0,233.0,Human Error
+2022-08-24,Factory B,PW-3000,14.0,234.0,Material Defect
+2022-04-24,Factory D,PW-3000,16.0,137.0,Supplier Issue
+2022-01-16,Factory E,Commercial-Pro,3.0,121.0,Assembly Error
+2022-08-18,Factory C,Industrial-X,38.0,219.0,Supplier Issue
+2023-05-04,Factory E,Commercial-Pro,6.0,109.0,Supplier Issue
+2022-08-27,Factory A,PW-4000,5.0,137.0,Assembly Error
+2022-06-15,Factory C,,7.0,88.0,Assembly Error
+2022-06-20,Factory B,Commercial-Pro,2.0,117.0,Supplier Issue
+2022-08-31,Factory D,Industrial-X,20.0,57.0,
+2023-02-07,Factory B,PW-2000,5.0,103.0,Human Error
+2023-10-09,Factory B,Industrial-X,3.0,59.0,Quality Control Failure
+2023-03-12,Factory B,,8.0,152.0,Assembly Error
+2022-10-06,Factory B,PW-2000,9.0,61.0,Material Defect
+2023-09-01,Factory A,PW-2000,1.0,234.0,Machine Malfunction
+2022-01-22,Factory C,Industrial-X,36.0,268.0,
+,Factory D,PW-4000,31.0,230.0,Assembly Error
+2023-01-14,Factory C,Industrial-X,30.0,63.0,Machine Malfunction
+2023-07-28,Factory E,Commercial-Pro,11.0,274.0,Assembly Error
+2023-04-14,Factory E,PW-3000,11.0,179.0,Assembly Error
+2023-08-12,Factory B,PW-4000,12.0,204.0,Material Defect
+2022-06-07,Factory E,Commercial-Pro,8.0,205.0,Material Defect
+2022-10-13,Factory C,PW-2000,9.0,135.0,Material Defect
+2022-08-23,Factory C,PW-2000,11.0,,Material Defect
+2022-06-19,Factory C,PW-3000,20.0,159.0,Human Error
+2023-04-28,Factory A,PW-4000,9.0,270.0,
+2023-03-31,Factory A,Commercial-Pro,9.0,79.0,Human Error
+2022-05-26,Factory D,Industrial-X,22.0,70.0,Machine Malfunction
+2022-06-11,Factory A,Industrial-X,15.0,60.0,Assembly Error
+2023-09-08,Factory C,PW-3000,18.0,221.0,Assembly Error
+2023-05-31,Factory A,,7.0,91.0,Material Defect
+2023-08-29,Factory B,PW-4000,2.0,86.0,Assembly Error
+2022-02-10,Factory C,Commercial-Pro,31.0,141.0,Quality Control Failure
+2022-10-07,Factory D,,8.0,107.0,Assembly Error
+2022-03-04,Factory E,PW-2000,5.0,166.0,Human Error
+2023-04-12,Factory D,PW-4000,12.0,129.0,Supplier Issue
+2022-10-16,Factory C,PW-3000,25.0,297.0,Machine Malfunction
+2022-09-18,Factory B,PW-2000,15.0,296.0,
+2023-06-07,Factory C,PW-2000,7.0,290.0,Assembly Error
+,Factory E,PW-3000,3.0,87.0,Human Error
+2022-11-08,Factory C,PW-4000,13.0,240.0,Assembly Error
+2023-08-08,Factory C,,31.0,90.0,
+2023-04-10,Factory B,PW-3000,11.0,221.0,Supplier Issue
+2022-03-23,Factory A,,13.0,214.0,Quality Control Failure
+2022-10-29,Factory E,Industrial-X,13.0,87.0,Machine Malfunction
+2022-12-03,Factory E,,15.0,160.0,Supplier Issue
+2022-11-25,Factory C,PW-2000,18.0,185.0,Human Error
+2022-11-07,Factory D,PW-3000,33.0,163.0,Material Defect
+2022-02-08,Factory A,PW-2000,12.0,162.0,Supplier Issue
+,Factory E,PW-3000,10.0,90.0,Quality Control Failure
+2022-10-31,Factory A,Commercial-Pro,12.0,155.0,Assembly Error
+2023-12-14,Factory D,PW-3000,12.0,252.0,Quality Control Failure
+2023-01-14,Factory A,,14.0,102.0,Human Error
+,Factory D,PW-3000,25.0,88.0,Human Error
+2022-06-04,Factory E,PW-2000,15.0,194.0,Assembly Error
+2022-07-17,Factory E,Industrial-X,15.0,223.0,Assembly Error
+2022-04-24,Factory E,Commercial-Pro,9.0,105.0,Material Defect
+2023-06-05,Factory D,PW-3000,29.0,160.0,Assembly Error
+2022-07-08,Factory D,PW-4000,25.0,214.0,Quality Control Failure
+2023-03-05,Factory D,PW-2000,40.0,195.0,Material Defect
+2022-08-02,Factory E,,12.0,59.0,Machine Malfunction
+2022-01-31,Factory D,Commercial-Pro,25.0,102.0,
+2022-10-18,Factory A,,15.0,62.0,Machine Malfunction
+2023-02-18,Factory D,Commercial-Pro,40.0,286.0,Assembly Error
+2022-05-07,Factory A,,2.0,252.0,Assembly Error
+2023-03-12,Factory C,PW-3000,9.0,103.0,
+2023-07-16,Factory D,PW-3000,36.0,,Machine Malfunction
+2022-08-26,Factory A,PW-2000,1.0,85.0,Human Error
+2023-03-17,Factory D,PW-2000,5.0,143.0,Assembly Error
+2023-10-08,Factory A,PW-3000,1.0,157.0,Assembly Error
+2022-10-04,Factory E,PW-4000,13.0,289.0,Assembly Error
+2023-11-23,Factory B,,2.0,150.0,Quality Control Failure
+2023-12-31,Factory E,PW-4000,11.0,197.0,Quality Control Failure
+2023-08-03,Factory A,PW-4000,11.0,173.0,
+2022-08-16,Factory E,Industrial-X,5.0,213.0,Human Error
+2023-07-27,Factory C,,13.0,180.0,
+2022-08-04,Factory C,PW-3000,40.0,208.0,Assembly Error
+2022-07-25,Factory C,PW-2000,10.0,220.0,Material Defect
+2023-06-13,Factory D,PW-4000,25.0,266.0,Human Error
+2023-07-16,Factory B,PW-2000,2.0,50.0,Material Defect
+2022-10-08,Factory D,Industrial-X,31.0,247.0,Material Defect
+2023-03-03,Factory A,PW-2000,13.0,74.0,Quality Control Failure
+2023-09-16,Factory C,Commercial-Pro,29.0,92.0,Material Defect
+2023-06-06,Factory A,PW-2000,13.0,149.0,Assembly Error
+2023-12-12,Factory E,Industrial-X,4.0,299.0,Material Defect
+2022-06-09,Factory B,PW-2000,15.0,120.0,Material Defect
+2023-08-14,Factory A,Industrial-X,3.0,241.0,Material Defect
+2023-05-21,Factory E,Commercial-Pro,11.0,139.0,Assembly Error
+2022-08-09,Factory C,Industrial-X,24.0,247.0,Material Defect
+2023-08-24,Factory C,PW-4000,25.0,236.0,Supplier Issue
+2022-08-29,Factory A,PW-4000,4.0,69.0,Assembly Error
+2022-05-04,Factory C,,37.0,195.0,Assembly Error
+2022-10-05,Factory B,PW-3000,14.0,249.0,Human Error
+2023-07-18,Factory E,Industrial-X,3.0,243.0,Material Defect
+2023-05-27,Factory A,PW-3000,5.0,207.0,Machine Malfunction
+2023-12-04,Factory C,Commercial-Pro,24.0,84.0,Assembly Error
+2022-01-28,Factory A,,4.0,124.0,Quality Control Failure
+2023-02-24,Factory B,,14.0,99.0,Human Error
+2022-10-19,Factory B,PW-2000,14.0,219.0,Quality Control Failure
+2022-06-27,Factory C,PW-2000,17.0,294.0,Material Defect
+2023-09-06,Factory C,PW-2000,28.0,156.0,Material Defect
+2022-08-13,Factory D,Industrial-X,20.0,153.0,Quality Control Failure
+2022-01-17,Factory D,,13.0,100.0,Material Defect
+2023-01-27,Factory B,,3.0,236.0,Machine Malfunction
+2022-10-18,Factory E,Commercial-Pro,8.0,55.0,Quality Control Failure
+2022-03-21,Factory C,PW-2000,21.0,203.0,Material Defect
+2023-06-11,Factory A,PW-2000,8.0,267.0,Supplier Issue
+2022-05-03,Factory D,Commercial-Pro,26.0,263.0,
+2023-05-26,Factory E,Commercial-Pro,12.0,239.0,Material Defect
+2022-03-20,Factory D,PW-2000,9.0,,Supplier Issue
+2023-03-20,Factory C,,9.0,83.0,Supplier Issue
+2023-11-14,Factory A,PW-3000,12.0,146.0,Supplier Issue
+2022-07-06,Factory A,PW-2000,1.0,,Assembly Error
+2023-02-26,Factory A,Commercial-Pro,7.0,188.0,Machine Malfunction
+2023-08-29,Factory D,Commercial-Pro,11.0,74.0,Material Defect
+2023-05-24,Factory C,PW-4000,12.0,278.0,Quality Control Failure
+2022-07-01,Factory B,Commercial-Pro,6.0,173.0,
+2023-12-20,Factory A,PW-3000,2.0,61.0,Quality Control Failure
+2023-04-27,Factory B,PW-4000,14.0,60.0,Machine Malfunction
+2023-04-06,Factory E,PW-2000,8.0,86.0,Assembly Error
+2023-08-09,Factory C,,18.0,144.0,Machine Malfunction
+2023-07-07,Factory E,Commercial-Pro,1.0,182.0,Quality Control Failure
+2023-12-21,Factory B,PW-2000,8.0,161.0,Assembly Error
+2023-03-31,Factory D,Commercial-Pro,12.0,133.0,Supplier Issue
+2022-04-21,Factory C,Commercial-Pro,16.0,59.0,Supplier Issue
+2023-11-24,Factory B,PW-4000,4.0,202.0,
+2023-12-28,Factory D,Commercial-Pro,19.0,198.0,Human Error
+2023-12-30,Factory E,Commercial-Pro,6.0,83.0,Human Error
+2023-04-04,Factory C,,22.0,130.0,
+2023-11-29,Factory E,Commercial-Pro,4.0,200.0,
+2022-12-10,Factory E,PW-4000,6.0,177.0,Assembly Error
+2023-03-17,Factory B,Industrial-X,6.0,283.0,Assembly Error
+2022-06-01,Factory D,PW-4000,38.0,189.0,Material Defect
+2023-05-09,Factory D,PW-2000,19.0,121.0,
+2022-01-02,Factory D,PW-2000,28.0,63.0,Machine Malfunction
+2023-06-23,Factory B,PW-2000,12.0,151.0,Machine Malfunction
+2022-05-20,Factory C,PW-3000,20.0,71.0,Supplier Issue
+2023-02-05,Factory C,PW-4000,23.0,222.0,Material Defect
+2023-11-20,Factory D,,19.0,130.0,Material Defect
+2023-04-24,Factory E,PW-3000,13.0,223.0,Material Defect
+2023-02-17,Factory C,Commercial-Pro,7.0,81.0,Material Defect
+2022-07-11,Factory E,PW-2000,12.0,184.0,Material Defect
+2022-07-22,Factory A,Industrial-X,2.0,117.0,Assembly Error
+2022-07-20,Factory C,,5.0,108.0,Material Defect
+2022-08-09,Factory A,PW-2000,5.0,250.0,Material Defect
+2022-08-29,Factory B,PW-4000,7.0,,Machine Malfunction
+2023-02-05,Factory B,Industrial-X,11.0,214.0,Assembly Error
+2023-03-01,Factory D,,31.0,,Assembly Error
+2022-08-09,Factory C,,38.0,295.0,Machine Malfunction
+2023-10-03,Factory E,Industrial-X,8.0,271.0,Assembly Error
+2023-10-17,Factory E,PW-2000,13.0,236.0,Assembly Error
+2022-12-31,Factory C,Commercial-Pro,26.0,80.0,Supplier Issue
+2022-10-03,Factory D,Commercial-Pro,8.0,,
+2023-07-14,Factory A,Commercial-Pro,2.0,89.0,Machine Malfunction
+2023-01-14,Factory A,Industrial-X,7.0,90.0,Machine Malfunction
+2022-05-14,Factory D,PW-4000,11.0,90.0,Material Defect
+2023-10-06,Factory C,PW-4000,11.0,255.0,Quality Control Failure
+2023-10-20,Factory C,Industrial-X,11.0,103.0,
+2022-01-27,Factory B,PW-2000,2.0,87.0,Material Defect
+2022-07-26,Factory D,PW-3000,12.0,225.0,
+2023-03-06,Factory E,Commercial-Pro,9.0,,Assembly Error
+2023-05-16,Factory A,Industrial-X,1.0,284.0,Machine Malfunction
+2023-07-09,Factory B,Industrial-X,2.0,191.0,Supplier Issue
+2022-07-01,Factory A,,3.0,209.0,Supplier Issue
+2023-04-11,Factory D,,22.0,97.0,Assembly Error
+2023-05-07,Factory B,Industrial-X,2.0,222.0,Human Error
+2022-05-05,Factory D,PW-4000,39.0,151.0,Human Error
+2022-08-02,Factory D,PW-3000,10.0,244.0,
+2022-11-08,Factory D,Industrial-X,28.0,151.0,Assembly Error
+2023-04-24,Factory A,Commercial-Pro,11.0,76.0,Assembly Error
+2023-03-19,Factory E,,15.0,228.0,Machine Malfunction
+2022-09-26,Factory E,,6.0,287.0,
+2023-03-22,Factory E,PW-3000,13.0,196.0,Assembly Error
+2022-05-29,Factory B,,3.0,254.0,Assembly Error
+2022-12-28,Factory A,PW-4000,3.0,52.0,Assembly Error
+2023-09-19,Factory A,Commercial-Pro,1.0,69.0,Human Error
+2023-10-27,Factory C,,14.0,102.0,Machine Malfunction
+2023-12-24,Factory A,,4.0,163.0,Human Error
+2022-06-07,Factory B,Industrial-X,6.0,141.0,Machine Malfunction
+2023-12-29,Factory C,Commercial-Pro,19.0,252.0,Assembly Error
+,Factory D,Commercial-Pro,33.0,147.0,Assembly Error
+2022-11-24,Factory D,PW-2000,35.0,77.0,Material Defect
+2023-01-18,Factory E,PW-4000,14.0,207.0,Quality Control Failure
+2022-06-02,Factory C,PW-4000,20.0,88.0,Human Error
+2022-11-12,Factory D,,5.0,292.0,Material Defect
+2023-10-31,Factory C,,34.0,88.0,Supplier Issue
+2022-10-30,Factory A,PW-2000,7.0,77.0,Material Defect
+2022-12-04,Factory A,Industrial-X,8.0,191.0,Assembly Error
+2023-03-17,Factory C,PW-4000,26.0,271.0,Material Defect
+2023-12-22,Factory E,,15.0,127.0,Supplier Issue
+2023-06-18,Factory B,Industrial-X,13.0,236.0,Assembly Error
+2022-11-11,Factory C,Commercial-Pro,15.0,136.0,Assembly Error
+2023-06-29,Factory C,PW-3000,18.0,100.0,Quality Control Failure
+2022-02-02,Factory D,Industrial-X,31.0,84.0,Assembly Error
+2023-11-13,Factory B,PW-2000,5.0,194.0,Assembly Error
+2022-02-15,Factory D,Commercial-Pro,35.0,255.0,Supplier Issue
+2023-06-03,Factory C,PW-2000,9.0,205.0,Quality Control Failure
+2022-08-18,Factory D,PW-2000,24.0,133.0,Supplier Issue
+2023-04-27,Factory B,PW-2000,4.0,,Machine Malfunction
+2022-09-14,Factory D,Commercial-Pro,9.0,168.0,Assembly Error
+2023-01-26,Factory A,PW-4000,6.0,205.0,Supplier Issue
+2022-09-29,Factory D,PW-4000,26.0,56.0,Machine Malfunction
+2022-10-03,Factory C,PW-3000,16.0,73.0,Material Defect
+2022-03-26,Factory A,Industrial-X,3.0,68.0,Human Error
+2023-01-05,Factory E,Industrial-X,7.0,237.0,Assembly Error
+2022-10-09,Factory E,PW-2000,7.0,195.0,Material Defect
+2023-07-26,Factory C,Industrial-X,17.0,173.0,Quality Control Failure
+2023-11-05,Factory A,PW-2000,11.0,248.0,Human Error
+2023-05-27,Factory A,Industrial-X,7.0,195.0,Material Defect
+2022-12-14,Factory A,Industrial-X,4.0,178.0,Material Defect
+2023-02-04,Factory C,PW-2000,15.0,144.0,Material Defect
+2022-06-10,Factory B,PW-4000,7.0,274.0,Quality Control Failure
+2023-03-28,Factory D,PW-3000,23.0,,Assembly Error
+2023-01-18,Factory C,Commercial-Pro,22.0,71.0,Material Defect
+2022-12-11,Factory C,PW-2000,33.0,139.0,Material Defect
+2023-11-19,Factory A,Industrial-X,10.0,168.0,Quality Control Failure
+2023-01-25,Factory D,PW-2000,12.0,285.0,Material Defect
+2023-09-29,Factory A,PW-2000,8.0,,Assembly Error
+2022-09-22,Factory E,Industrial-X,11.0,216.0,Material Defect
+2023-04-22,Factory B,Industrial-X,1.0,218.0,Material Defect
+2022-09-10,Factory B,PW-3000,1.0,174.0,Human Error
+2022-09-21,Factory C,Industrial-X,12.0,231.0,Assembly Error
+2022-06-29,Factory B,Commercial-Pro,9.0,89.0,Material Defect
+2023-10-21,Factory B,PW-2000,7.0,65.0,Material Defect
+2023-11-15,Factory D,Industrial-X,33.0,242.0,Quality Control Failure
+2022-09-22,Factory A,PW-2000,10.0,190.0,Human Error
+2023-11-14,Factory E,PW-3000,6.0,56.0,Machine Malfunction
+2022-05-17,Factory D,PW-3000,6.0,193.0,Material Defect
+2022-07-27,Factory B,Industrial-X,15.0,283.0,Assembly Error
+2022-05-31,Factory C,,16.0,165.0,Assembly Error
+2023-08-05,Factory D,,22.0,88.0,Machine Malfunction
+2023-09-28,Factory D,Industrial-X,9.0,295.0,Material Defect
+2023-12-10,Factory D,Commercial-Pro,34.0,117.0,Material Defect
+2022-12-03,Factory D,PW-4000,28.0,169.0,
+2022-01-25,Factory C,Industrial-X,23.0,210.0,Assembly Error
+2022-08-27,Factory C,,26.0,103.0,Human Error
+2022-11-28,Factory C,Industrial-X,23.0,,Machine Malfunction
+2022-12-02,Factory D,Commercial-Pro,29.0,126.0,Machine Malfunction
+2023-05-25,Factory B,,15.0,193.0,Machine Malfunction
+2022-11-11,Factory B,PW-4000,5.0,52.0,
+2023-03-19,Factory C,Commercial-Pro,27.0,124.0,Machine Malfunction
+2022-04-16,Factory E,PW-2000,1.0,157.0,Material Defect
+2022-10-16,Factory E,Industrial-X,1.0,261.0,Human Error
+2023-04-02,Factory C,PW-4000,34.0,102.0,Human Error
+2022-06-17,Factory C,Commercial-Pro,32.0,250.0,Material Defect
+2023-04-08,Factory C,Commercial-Pro,15.0,129.0,Assembly Error
+2023-08-19,Factory B,PW-4000,5.0,195.0,Machine Malfunction
+2023-05-22,Factory A,,6.0,99.0,Machine Malfunction
+2022-07-07,Factory B,Industrial-X,9.0,114.0,Machine Malfunction
+2023-01-03,Factory D,PW-4000,23.0,284.0,Assembly Error
+2023-10-21,Factory C,Commercial-Pro,40.0,270.0,Supplier Issue
+2022-07-29,Factory C,Commercial-Pro,33.0,52.0,Material Defect
+2022-08-28,Factory E,,11.0,66.0,Material Defect
+2023-10-12,Factory D,PW-3000,30.0,,Supplier Issue
+2022-03-23,Factory C,Commercial-Pro,35.0,72.0,Human Error
+2023-04-18,Factory D,PW-4000,14.0,181.0,Material Defect
+2022-08-10,Factory C,PW-2000,29.0,117.0,Quality Control Failure
+2022-12-24,Factory B,,7.0,294.0,
+2023-02-13,Factory D,PW-2000,36.0,63.0,Material Defect
+2023-02-19,Factory B,Commercial-Pro,14.0,248.0,Assembly Error
+2023-05-09,Factory B,PW-4000,5.0,135.0,Material Defect
+2022-02-21,Factory C,PW-4000,20.0,133.0,Quality Control Failure
+2022-08-07,Factory E,,7.0,277.0,Assembly Error
+2023-01-06,Factory B,PW-4000,15.0,121.0,Material Defect
+,Factory A,Industrial-X,1.0,93.0,
+2023-03-07,Factory C,,22.0,207.0,Supplier Issue
+2022-08-23,Factory D,PW-3000,23.0,207.0,Machine Malfunction
+2022-05-12,Factory E,PW-3000,9.0,96.0,Material Defect
+2023-09-06,Factory C,PW-4000,6.0,230.0,
+2022-03-28,Factory C,Industrial-X,26.0,265.0,Assembly Error
+2023-09-16,Factory E,PW-2000,10.0,58.0,
+2023-08-30,Factory A,Industrial-X,11.0,78.0,Machine Malfunction
+2022-02-03,Factory E,Commercial-Pro,5.0,227.0,Quality Control Failure
+2022-09-18,Factory A,,14.0,176.0,Human Error
+2022-11-06,Factory C,PW-2000,16.0,174.0,Human Error
+2022-12-22,Factory B,,9.0,144.0,Machine Malfunction
+2022-02-24,Factory C,Commercial-Pro,13.0,,Machine Malfunction
+2022-05-16,Factory D,PW-3000,23.0,112.0,Quality Control Failure
+2022-11-29,Factory E,PW-2000,1.0,152.0,Material Defect
+2023-02-10,Factory D,PW-3000,8.0,245.0,Human Error
+2022-10-02,Factory E,Commercial-Pro,12.0,100.0,Assembly Error
+2022-08-25,Factory B,Commercial-Pro,7.0,59.0,Assembly Error
+2023-09-09,Factory E,PW-4000,14.0,141.0,Supplier Issue
+2023-10-03,Factory D,PW-3000,35.0,238.0,Human Error
+2022-05-04,Factory A,PW-3000,15.0,145.0,Quality Control Failure
+2022-08-16,Factory E,PW-4000,3.0,265.0,Assembly Error
+,Factory A,PW-3000,15.0,250.0,Supplier Issue
+2023-05-19,Factory E,PW-2000,2.0,266.0,Assembly Error
+2023-07-29,Factory B,PW-3000,6.0,273.0,Supplier Issue
+2022-07-14,Factory D,PW-4000,24.0,237.0,Supplier Issue
+2023-08-31,Factory A,,1.0,77.0,Human Error
+2022-03-29,Factory D,Commercial-Pro,39.0,120.0,Machine Malfunction
+2022-04-26,Factory B,PW-4000,6.0,103.0,Material Defect
+2023-01-24,Factory E,Industrial-X,14.0,247.0,Quality Control Failure
+2022-07-12,Factory A,PW-4000,3.0,169.0,Assembly Error
+2022-09-12,Factory C,,38.0,163.0,Assembly Error
+2023-05-24,Factory D,Industrial-X,21.0,51.0,Material Defect
+2023-11-13,Factory A,PW-2000,4.0,63.0,Machine Malfunction
+2023-02-15,Factory E,,3.0,284.0,Assembly Error
+2022-12-18,Factory C,PW-3000,28.0,299.0,Assembly Error
+2022-10-18,Factory A,,3.0,214.0,Quality Control Failure
+,Factory D,PW-4000,30.0,245.0,Supplier Issue
+2023-03-14,Factory C,PW-4000,31.0,173.0,Supplier Issue
+2023-03-25,Factory A,,12.0,59.0,Machine Malfunction
+2023-05-19,Factory D,,40.0,81.0,Supplier Issue
+2022-11-23,Factory C,,37.0,134.0,Quality Control Failure
+2023-03-14,Factory A,Industrial-X,5.0,60.0,
+2023-12-07,Factory A,Commercial-Pro,10.0,263.0,Human Error
+2023-05-14,Factory D,Industrial-X,33.0,190.0,
+2022-11-06,Factory D,,24.0,251.0,Assembly Error
+2023-06-20,Factory C,PW-3000,24.0,203.0,Material Defect
+2022-08-29,Factory B,,8.0,69.0,Machine Malfunction
+2022-06-25,Factory C,PW-4000,28.0,293.0,Material Defect
+2022-12-14,Factory D,Industrial-X,6.0,150.0,Material Defect
+2023-02-21,Factory D,PW-2000,40.0,114.0,Material Defect
+2022-07-12,Factory E,Commercial-Pro,15.0,56.0,Material Defect
+,Factory B,PW-3000,8.0,248.0,Machine Malfunction
+2023-03-16,Factory E,,6.0,149.0,
+2023-10-10,Factory A,Industrial-X,10.0,141.0,Assembly Error
+2023-03-27,Factory B,,10.0,214.0,Supplier Issue
+2023-11-12,Factory E,PW-3000,1.0,195.0,
+2022-09-21,Factory A,PW-2000,9.0,121.0,Human Error
+2022-06-09,Factory E,Commercial-Pro,8.0,200.0,Machine Malfunction
+2023-06-01,Factory A,Commercial-Pro,8.0,111.0,Human Error
+2023-04-28,Factory B,,14.0,246.0,Human Error
+2023-07-09,Factory A,Industrial-X,3.0,111.0,Supplier Issue
+2022-03-22,Factory B,PW-4000,2.0,285.0,
+2023-05-01,Factory D,Commercial-Pro,38.0,264.0,Human Error
+2023-03-18,Factory A,PW-2000,4.0,55.0,Material Defect
+2023-11-21,Factory E,PW-3000,10.0,171.0,Human Error
+2023-02-28,Factory B,PW-4000,8.0,285.0,Assembly Error
+2023-11-07,Factory E,Industrial-X,2.0,226.0,Assembly Error
+2022-06-19,Factory B,PW-3000,13.0,82.0,Material Defect
+2022-03-01,Factory E,PW-4000,12.0,281.0,Human Error

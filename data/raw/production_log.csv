@@ -1,0 +1,1861 @@
+date,factory,product_line,units_produced,shift
+10/10/2023,FAC-E,Commercial-Pro,135,NIGHT
+2022/03/27,Factory C,Commercial-Pro,220,Afternoon
+12-05-2023,factory_c,Commercial-Pro,276,Morning
+08-12-2023,Factory E,PW-4000,252,Afternoon
+04/22/2023,FAC-E,PW-4000,208,morning
+2022-06-30,FAC-C,,121 units,morning
+2023-11-26,FAC-C,PW-2000,,NIGHT
+2023-01-08,,Industrial-X,,NIGHT
+2023/04/19,Factory C,PW-3000,,Morning
+01-05-2022,factory_a,PW-3000,345,morning
+29-12-2023,Factory E,PW-4000,109,morning
+08-01-2023,Factory E,PW-3000,190,NIGHT
+11/02/2023,FAC-A,PW-3000,100,NIGHT
+08/29/2023,factory_a,PW-4000,110 units,Night
+08/24/2023,Factory C,PW-3000,287,
+2022-09-23,factory_b,PW-4000,154,NIGHT
+2023-01-03,FAC-D,,95,morning
+08/27/2022,FAC-B,Industrial-X,118,Night
+12-09-2022,Factory D,PW-4000,79,NIGHT
+28-05-2023,Factory C,PW-2000,358,NIGHT
+2022-06-17,Factory B,PW-3000,336,Afternoon
+14-06-2023,Factory B,PW-4000,181,NIGHT
+12/23/2023,Factory E,Industrial-X,87 units,morning
+2022/02/21,Factory B,Commercial-Pro,151,morning
+2022-11-01,Factory E,Commercial-Pro,221,
+2023/05/08,Factory B,PW-3000,174,Afternoon
+03/21/2023,Factory A,Commercial-Pro,166,Afternoon
+15-08-2023,Factory D,PW-2000,129,morning
+17-10-2023,FAC-C,Commercial-Pro,139,
+07/14/2023,FAC-D,PW-3000,86,Afternoon
+,FACTORY A,PW-2000,311,
+2023-10-07,Factory E,PW-3000,211,
+2023-06-05,FAC-E,Commercial-Pro,194 units,
+2022/12/01,FAC-D,Commercial-Pro,171,Night
+07-01-2022,Factory E,PW-4000,109 units,Night
+10/30/2023,Factory E,PW-2000,218,morning
+2022-09-16,Factory D,PW-3000,115,morning
+2022/06/02,Factory C,Industrial-X,306,
+2022/05/21,Factory A,Industrial-X,218 units,
+2022-01-01,fac_b,PW-4000,138,morning
+,factory_d,PW-2000,23,Night
+12/30/2022,factory_e,PW-2000,115,Night
+2023-12-01,Factory A,PW-2000,322,Morning
+2022/09/12,FAC-C,Commercial-Pro,274,Morning
+2023-09-27,Factory C,PW-2000,375,Night
+12/13/2022,Factory D,PW-3000,73,NIGHT
+01/22/2022,Factory D,PW-3000,25,Morning
+30-06-2023,Factory A,,383,Afternoon
+2022/06/27,Factory C,PW-4000,388,NIGHT
+2022/06/02,Factory A,Commercial-Pro,223,morning
+06-06-2022,fac_b,Industrial-X,143,Night
+11/13/2022,Factory D,PW-3000,103 units,Morning
+2022/07/22,,PW-4000,332 units,Night
+2022-02-27,FAC-C,Commercial-Pro,280,NIGHT
+2023/05/23,Factory B,Industrial-X,184 units,morning
+2023/01/10,factory_e,PW-3000,180,Night
+2023-05-27,factory_e,Commercial-Pro,,morning
+13-04-2023,factory_c,Commercial-Pro,176,NIGHT
+2022-07-03,Factory D,PW-4000,80,NIGHT
+2022-11-22,FACTORY D,Industrial-X,,Morning
+2023-12-06,Factory C,Industrial-X,154,morning
+2023/04/01,factory_c,PW-2000,317,Morning
+04/29/2022,Factory D,PW-3000,132,Afternoon
+10-04-2022,Factory B,Industrial-X,333,Night
+2023-12-18,,PW-4000,-251,NIGHT
+11/25/2022,Factory A,PW-2000,-302,morning
+07/30/2022,Factory A,PW-4000,365,morning
+10-01-2022,factory_e,Industrial-X,155,NIGHT
+2023-07-28,Factory E,Industrial-X,209,Night
+08/31/2022,factory_e,PW-4000,295,Morning
+10/14/2022,Factory E,Commercial-Pro,259,Morning
+2023-12-09,Factory A,PW-2000,176,Night
+2023/03/16,Factory C,Commercial-Pro,162,Morning
+2022-02-27,Factory A,PW-2000,327,Night
+2023/05/24,factory_a,PW-3000,305,Afternoon
+,,PW-3000,245,NIGHT
+2023/09/24,FAC-B,PW-2000,149,morning
+31-08-2022,FACTORY A,Industrial-X,356 units,Morning
+2022-08-27,Factory A,PW-3000,143 units,Morning
+2023/07/04,Factory E,PW-3000,196,NIGHT
+22-03-2022,Factory A,Industrial-X,288,Morning
+2023/10/10,Factory A,,124,Night
+2023/01/29,Factory E,Industrial-X,198,NIGHT
+2022-11-10,Factory B,PW-3000,317,Night
+03-10-2022,FAC-D,PW-3000,97,Night
+12/30/2023,Factory E,Industrial-X,197,NIGHT
+31-10-2022,FAC-D,Commercial-Pro,66,Morning
+2023-08-12,FACTORY A,Industrial-X,122,NIGHT
+08-08-2022,Factory E,PW-2000,209,morning
+2023/01/29,FAC-B,Commercial-Pro,258,morning
+2022/05/19,FAC-C,PW-2000,253,Afternoon
+26-11-2022,Factory D,PW-2000,175,morning
+,FAC-C,PW-2000,253,Night
+21-04-2023,Factory D,PW-3000,132,Afternoon
+07/17/2022,Factory E,PW-3000,260,NIGHT
+2023/02/17,Factory E,Industrial-X,254,NIGHT
+08/29/2022,FAC-E,PW-2000,179,morning
+2022-06-09,factory_d,PW-4000,75,
+12/07/2022,Factory A,PW-4000,173,Morning
+18-01-2022,factory_b,PW-3000,201,NIGHT
+2022-09-25,Factory A,PW-3000,333,Morning
+2023/10/13,Factory A,PW-3000,345 units,Night
+03/13/2023,FAC-C,PW-3000,107,
+07/23/2022,FACTORY D,PW-4000,112,Night
+2023/01/20,Factory D,Industrial-X,40,NIGHT
+2023-10-13,factory_d,Industrial-X,88,Night
+10/21/2023,Factory A,PW-3000,183,Afternoon
+12/01/2022,Factory C,Industrial-X,306,NIGHT
+14-03-2023,Factory E,Industrial-X,133,Afternoon
+2023-02-27,Factory E,PW-4000,270,Night
+2022-08-16,Factory B,PW-2000,330,Night
+18-11-2022,Factory C,PW-2000,248,morning
+25-01-2023,Factory C,PW-4000,395,
+02/03/2022,Factory B,Industrial-X,-107,NIGHT
+2022-05-20,,Industrial-X,296,Morning
+2023/05/27,Factory D,,172,Night
+23-02-2023,Factory C,Commercial-Pro,156,Night
+10/26/2022,factory_e,Industrial-X,189,morning
+12/02/2023,factory_a,PW-2000,,
+2022-05-16,Factory D,Industrial-X,167 units,
+2023-08-05,factory_b,PW-4000,393,Night
+04/02/2023,Factory E,Commercial-Pro,-286,Morning
+11-12-2023,factory_e,Commercial-Pro,252 units,
+01/13/2023,Factory C,Commercial-Pro,122,Night
+2023-03-25,FACTORY A,PW-3000,171,NIGHT
+2022/11/08,FACTORY D,Commercial-Pro,,morning
+2023/07/21,Factory C,PW-2000,179,Night
+2022/09/25,FACTORY A,PW-4000,229,Morning
+2023-08-21,,PW-3000,369,NIGHT
+2022-04-14,FACTORY A,PW-2000,231 units,Night
+23-09-2022,Factory A,Commercial-Pro,244,Night
+06/04/2023,factory_c,PW-4000,236,morning
+2022-08-17,factory_e,PW-3000,146,NIGHT
+14-07-2022,FAC-D,PW-3000,-21,morning
+2022/04/21,FAC-D,,25 units,NIGHT
+20-08-2022,Factory A,PW-3000,276 units,morning
+2022/12/08,factory_a,Industrial-X,301,Morning
+2022-02-10,Factory C,Industrial-X,298,Morning
+02/17/2023,Factory D,PW-4000,138,Night
+12-05-2023,factory_b,PW-2000,363,Afternoon
+03/24/2022,Factory D,PW-4000,145,
+18-07-2023,FAC-B,Industrial-X,113,Night
+2023-01-12,FAC-E,PW-4000,93,Afternoon
+2022-07-31,FAC-C,Industrial-X,366,Morning
+2022/02/13,FAC-A,PW-2000,336,Afternoon
+2023-05-28,Factory B,Industrial-X,280,NIGHT
+2023-01-15,FAC-A,PW-3000,140,Afternoon
+2022/01/15,Factory A,PW-3000,157,Morning
+2022-10-26,FAC-A,Commercial-Pro,369,morning
+11/03/2022,Factory D,PW-4000,113,Afternoon
+17-09-2023,Factory B,PW-4000,277,Morning
+18-06-2022,FAC-C,Industrial-X,322,morning
+2023/11/08,FAC-D,Industrial-X,34,Morning
+11/19/2023,FACTORY A,Commercial-Pro,385,Night
+04/12/2022,Factory A,Industrial-X,338,Night
+28-10-2022,Factory B,PW-2000,391,Morning
+16-11-2022,factory_c,Commercial-Pro,,NIGHT
+07/27/2022,FAC-D,PW-3000,172,morning
+06-04-2023,FAC-B,PW-2000,234,
+12-11-2022,Factory D,PW-4000,86,Afternoon
+2022/11/05,factory_a,PW-4000,112,Afternoon
+03/17/2022,,PW-2000,358,Morning
+17-10-2023,factory_b,Commercial-Pro,307,Afternoon
+2023/09/24,Factory E,Industrial-X,171,NIGHT
+2022/02/14,Factory E,,293,
+07/08/2022,Factory C,PW-3000,366 units,
+2022-05-14,factory_b,PW-3000,324,Afternoon
+16-11-2022,FACTORY A,Commercial-Pro,184,NIGHT
+2022/10/11,Factory D,Commercial-Pro,150,morning
+2022/08/08,Factory C,Industrial-X,246 units,Morning
+2023-01-23,Factory D,PW-2000,40,
+18-11-2023,Factory C,PW-2000,326,NIGHT
+2022/11/29,FAC-A,Commercial-Pro,335,Afternoon
+08/11/2022,Factory B,Commercial-Pro,315,morning
+2022-09-29,factory_b,PW-3000,205,
+,Factory C,PW-4000,141,Morning
+2023/03/14,factory_b,PW-2000,351,Morning
+06/28/2023,Factory C,Commercial-Pro,,Night
+2023-04-14,FAC-D,PW-2000,75,Night
+10/06/2022,Factory C,PW-2000,311,Morning
+2023/02/13,factory_d,Industrial-X,126,Morning
+2022-07-06,Factory A,PW-4000,349,NIGHT
+2022/11/24,fac_b,PW-3000,390,Afternoon
+05/14/2023,factory_d,PW-4000,161,Night
+2022-03-23,Factory B,PW-2000,190,Afternoon
+2022-05-21,Factory A,PW-2000,247,
+14-06-2023,Factory C,Commercial-Pro,307,morning
+07/26/2022,Factory D,PW-2000,,
+26-06-2023,Factory B,Commercial-Pro,169,morning
+2022/10/04,,Commercial-Pro,-130,Night
+17-01-2022,FAC-A,,365,NIGHT
+2023/06/08,Factory B,PW-2000,332 units,Morning
+07-04-2023,Factory E,PW-3000,260,Afternoon
+2022-06-23,fac_b,PW-4000,171,Morning
+12-12-2023,Factory B,Commercial-Pro,188,Morning
+30-11-2023,FAC-E,PW-3000,194,morning
+26-03-2022,FAC-C,Commercial-Pro,380 units,
+28-12-2023,factory_b,PW-4000,215,Afternoon
+13-03-2023,Factory C,PW-4000,159,morning
+06-06-2023,Factory B,PW-3000,152,Afternoon
+2022/11/10,Factory B,PW-3000,397,Night
+2023-10-17,Factory A,PW-4000,359,NIGHT
+,factory_a,PW-3000,136,NIGHT
+2022-10-08,factory_a,PW-3000,375,Night
+28-06-2022,Factory B,,,Morning
+19-12-2022,Factory C,PW-3000,-332,Morning
+15-12-2023,,PW-3000,104,Afternoon
+2022-07-09,factory_c,,134,NIGHT
+07/02/2023,factory_d,PW-4000,55,NIGHT
+2022-12-12,Factory E,,243,morning
+09/23/2023,FAC-A,Industrial-X,314,morning
+2022-08-27,FAC-B,PW-2000,151,NIGHT
+18-05-2023,Factory D,PW-2000,26,
+2023-04-30,FACTORY A,PW-3000,299 units,Night
+05-08-2023,Factory D,Commercial-Pro,152,
+2022-04-12,Factory D,Industrial-X,59,Afternoon
+14-03-2023,Factory E,Industrial-X,133,Afternoon
+2023-11-27,Factory E,Commercial-Pro,126,Night
+10/15/2023,fac_b,Industrial-X,185,morning
+07/22/2022,factory_a,PW-2000,293,NIGHT
+2022-01-02,FACTORY A,PW-4000,191 units,
+02/03/2023,FAC-D,PW-4000,144,NIGHT
+22-07-2022,Factory B,PW-3000,229,Morning
+08/31/2022,Factory E,PW-4000,81,Night
+30-06-2022,factory_a,PW-4000,,Morning
+2023-08-27,FAC-C,Industrial-X,313,morning
+01/04/2022,Factory B,Industrial-X,360,Afternoon
+02-03-2022,Factory D,PW-4000,142 units,NIGHT
+09-10-2022,Factory E,PW-2000,281 units,morning
+09-08-2023,factory_c,Industrial-X,342,
+2023/04/02,Factory A,PW-3000,120,Afternoon
+23-02-2023,Factory B,PW-2000,331,Night
+2022-12-17,Factory D,Commercial-Pro,-102,NIGHT
+2023-06-25,Factory D,PW-2000,92 units,
+,Factory A,Industrial-X,200,
+23-08-2022,,Commercial-Pro,120 units,NIGHT
+07/19/2023,FAC-E,PW-3000,243,Night
+02/28/2022,Factory D,,111,Morning
+2022/02/02,FAC-A,,166,morning
+2022/12/03,,Commercial-Pro,314,Afternoon
+12-02-2023,Factory B,PW-4000,213,morning
+15-04-2022,Factory E,PW-3000,152,morning
+04/10/2023,factory_e,PW-3000,128,Night
+2022/07/19,Factory B,PW-3000,258 units,
+2022-06-16,Factory A,PW-2000,392,
+2022-07-03,factory_c,PW-2000,326,Night
+2022/03/23,FAC-D,PW-4000,103,Afternoon
+01/17/2022,factory_b,PW-4000,157,morning
+2022/12/31,Factory B,PW-4000,205 units,Night
+2022/10/28,FAC-E,PW-3000,171,Afternoon
+2022-02-18,FAC-D,PW-4000,66,morning
+04/23/2023,fac_b,PW-3000,209,Morning
+01/20/2022,Factory E,PW-2000,145,Night
+,Factory B,PW-3000,350,Night
+,Factory A,Commercial-Pro,212,
+2022-04-19,FAC-A,Commercial-Pro,248,morning
+2022-02-08,factory_d,PW-3000,97,Afternoon
+01/25/2022,factory_d,PW-4000,100,
+11/15/2022,Factory E,PW-3000,-221,morning
+2023/12/13,Factory B,Industrial-X,152,Morning
+01/16/2022,FACTORY D,PW-4000,105,Morning
+08/27/2022,Factory E,Commercial-Pro,98,Morning
+2023-10-06,FAC-E,Commercial-Pro,222,
+05-09-2023,Factory E,Industrial-X,260,NIGHT
+2023/01/19,FAC-A,PW-4000,320,NIGHT
+16-12-2023,Factory D,Commercial-Pro,51,Afternoon
+2023-06-08,Factory E,PW-4000,263,
+03/08/2022,factory_d,Commercial-Pro,114,Night
+19-09-2022,FAC-C,PW-2000,399,
+03/12/2023,Factory E,PW-2000,113,morning
+19-08-2022,FAC-D,PW-4000,106,NIGHT
+2023/07/09,Factory C,PW-2000,130,Night
+11/27/2022,factory_d,PW-3000,158,Afternoon
+,factory_b,PW-4000,367,morning
+10-02-2022,factory_c,PW-3000,178,Morning
+12/16/2022,Factory E,PW-3000,300,Night
+2023-05-03,FAC-D,PW-2000,114,Morning
+2022-12-28,Factory D,Commercial-Pro,81,morning
+2022/04/23,Factory C,Commercial-Pro,192,NIGHT
+2023-03-08,FAC-D,Commercial-Pro,82,
+2022/08/15,FAC-E,PW-2000,174,
+2022/07/20,Factory A,Commercial-Pro,203 units,NIGHT
+07-02-2023,factory_e,PW-4000,178 units,Afternoon
+2023/03/09,factory_d,Commercial-Pro,177,Night
+2023/07/31,Factory C,PW-3000,379,Morning
+12/26/2023,Factory E,PW-4000,101,Afternoon
+30-06-2022,factory_d,PW-3000,161,morning
+31-05-2022,Factory E,PW-2000,249,Night
+14-02-2023,FAC-C,Commercial-Pro,,Morning
+2022/04/11,Factory D,PW-2000,86,
+03/21/2022,factory_d,Industrial-X,177,NIGHT
+2023/05/08,Factory D,PW-3000,35 units,Night
+27-01-2022,Factory C,PW-4000,146 units,NIGHT
+05/11/2022,FAC-D,PW-4000,115,Afternoon
+2023/04/15,FAC-D,PW-4000,152,Night
+07/19/2023,factory_b,PW-4000,180 units,Night
+2023/11/01,Factory E,PW-2000,288,NIGHT
+2023/03/27,factory_b,PW-4000,309,morning
+2023-10-15,Factory B,PW-4000,321,morning
+06/13/2023,FAC-D,Commercial-Pro,96,Afternoon
+07-04-2023,Factory A,PW-4000,351,Afternoon
+2022-10-17,Factory E,Commercial-Pro,105,Morning
+2022/05/02,Factory E,Commercial-Pro,200 units,Afternoon
+2022-08-16,Factory C,PW-2000,165,Morning
+01-01-2022,FAC-E,Commercial-Pro,182,morning
+2022/10/08,Factory A,Industrial-X,207,
+04/03/2023,Factory E,Commercial-Pro,215,Afternoon
+2023/10/17,Factory B,PW-2000,,Night
+01/26/2023,Factory C,Commercial-Pro,254 units,NIGHT
+2022-07-12,FACTORY A,PW-2000,145,Morning
+01/27/2022,Factory C,Commercial-Pro,259,Morning
+07/05/2022,FAC-E,PW-3000,202,Afternoon
+09/12/2022,Factory C,PW-3000,190,
+2023/02/05,FAC-D,Commercial-Pro,69,
+2023-06-11,FACTORY D,Industrial-X,162,Afternoon
+2022/01/04,fac_b,PW-3000,111,Night
+2022/04/02,Factory C,Industrial-X,155,
+2022-04-15,factory_d,PW-4000,53,NIGHT
+12-09-2023,Factory E,PW-3000,-114,morning
+2022-02-20,Factory E,Commercial-Pro,100,Afternoon
+24-07-2022,Factory A,PW-3000,335,Morning
+05-08-2023,Factory D,Commercial-Pro,69,
+10/12/2023,factory_d,PW-2000,72,Morning
+2022-10-13,FAC-E,PW-2000,226,NIGHT
+06/03/2023,FACTORY A,Industrial-X,373,Morning
+14-12-2022,Factory A,PW-4000,213,Night
+10-02-2022,Factory D,PW-2000,83 units,
+,Factory C,Industrial-X,164,Morning
+11-01-2022,factory_b,PW-4000,150,NIGHT
+2023-03-06,FAC-A,Commercial-Pro,396,
+2022/12/12,Factory C,PW-3000,177,Afternoon
+,Factory C,Commercial-Pro,399,Afternoon
+2022/12/13,Factory B,PW-2000,207,
+08/07/2023,factory_c,PW-2000,,morning
+2022-09-16,FAC-B,,283,Night
+2022/01/22,factory_c,PW-3000,293,Afternoon
+2022-07-19,factory_c,Commercial-Pro,261 units,NIGHT
+2023-11-05,Factory B,PW-3000,387,Afternoon
+06/14/2022,factory_b,Industrial-X,224,Night
+01/11/2023,FAC-C,Commercial-Pro,-332 units,Night
+09/14/2023,factory_d,PW-3000,110,
+06/30/2022,Factory C,Industrial-X,241,Morning
+2022-11-05,factory_b,PW-2000,315,NIGHT
+05/17/2022,Factory E,PW-3000,202,Afternoon
+13-09-2023,,PW-3000,299,
+,factory_c,,386,NIGHT
+03/10/2022,Factory B,Industrial-X,351,
+2023-08-13,fac_b,Commercial-Pro,237,Night
+05/12/2022,Factory D,Industrial-X,77 units,
+2022-11-04,FAC-A,Commercial-Pro,392 units,Afternoon
+2022/01/08,factory_d,Industrial-X,-32,morning
+2023-03-29,FAC-B,Commercial-Pro,174,Morning
+2022-04-02,Factory B,PW-3000,167,morning
+15-05-2022,Factory D,PW-2000,24,Afternoon
+13-06-2022,FAC-A,,205,Morning
+09-04-2022,FAC-C,,373,Afternoon
+2023-11-27,factory_c,Industrial-X,246,
+20-05-2022,Factory B,PW-3000,300,Morning
+08/25/2022,FAC-A,Industrial-X,294,NIGHT
+2022-08-04,FAC-D,Commercial-Pro,64,Morning
+2023/07/27,FACTORY A,Industrial-X,350 units,NIGHT
+21-08-2023,FACTORY D,PW-2000,166,NIGHT
+27-11-2022,FAC-A,PW-4000,169,Afternoon
+06/01/2022,factory_a,Commercial-Pro,-247 units,Afternoon
+2023-12-09,Factory E,PW-4000,252,
+04/14/2023,Factory B,PW-3000,289,Morning
+12-01-2022,Factory C,PW-4000,354,Night
+05/16/2022,Factory B,,215,morning
+09/18/2022,FAC-D,Industrial-X,131 units,
+2022/08/20,Factory D,PW-3000,121 units,Night
+2023/06/13,factory_a,PW-3000,123,Morning
+2022/02/13,FACTORY D,Commercial-Pro,54 units,
+,FAC-A,PW-2000,,morning
+06-03-2022,factory_e,Commercial-Pro,124,
+2022/10/10,Factory D,PW-3000,56 units,NIGHT
+2023/02/03,factory_c,Commercial-Pro,329,Afternoon
+2023-06-12,Factory B,PW-3000,371,Night
+2022-09-30,Factory A,Commercial-Pro,222,Afternoon
+,factory_b,PW-4000,372,NIGHT
+08/13/2023,FAC-E,PW-3000,161,morning
+2023/03/06,FAC-B,Commercial-Pro,187,Afternoon
+2023-01-11,FAC-A,Commercial-Pro,,
+23-09-2023,Factory C,PW-2000,400,
+06/21/2023,Factory A,PW-3000,358 units,Night
+01-06-2022,Factory E,Commercial-Pro,98,Afternoon
+02/02/2023,Factory C,Industrial-X,270 units,NIGHT
+27-12-2022,Factory C,PW-3000,387,morning
+2023/05/06,fac_b,PW-3000,236,NIGHT
+2023/04/15,Factory C,PW-3000,319,
+,Factory D,PW-4000,171,Night
+09/21/2023,FAC-C,Industrial-X,-379,Afternoon
+15-09-2023,Factory C,Commercial-Pro,111,Morning
+08/01/2023,Factory C,PW-4000,255,Afternoon
+2023/12/02,FACTORY D,PW-2000,158,NIGHT
+2023/06/04,FACTORY A,PW-2000,288,Night
+01/11/2022,FAC-B,Commercial-Pro,,
+13-11-2023,factory_c,Commercial-Pro,371,Afternoon
+18-03-2022,Factory A,PW-3000,267,Morning
+2023-05-05,FACTORY A,,230,Night
+2022/04/30,Factory C,Industrial-X,205 units,morning
+2022-04-12,Factory C,Commercial-Pro,144,
+2022/07/06,FAC-D,Industrial-X,32,Night
+07/07/2023,Factory A,PW-2000,126,Afternoon
+2022/03/29,Factory D,PW-2000,35,Morning
+2022-05-26,FACTORY D,Commercial-Pro,61,NIGHT
+28-08-2023,Factory B,Commercial-Pro,,Afternoon
+03-02-2022,factory_d,PW-2000,106,
+08-11-2023,Factory D,Industrial-X,87,morning
+01/23/2023,Factory E,PW-3000,220,Afternoon
+2022-04-01,Factory B,PW-4000,242,Morning
+2022-03-05,Factory D,PW-4000,80,morning
+2023-05-28,Factory D,Industrial-X,172,Afternoon
+2023-06-23,FAC-B,PW-3000,231,Morning
+2023/09/03,factory_e,Commercial-Pro,282,Night
+2022/01/06,,PW-3000,376,morning
+20-08-2023,Factory E,Industrial-X,174,NIGHT
+29-12-2022,Factory D,,55,Night
+2023-02-12,factory_b,PW-2000,-293,
+2023/10/27,Factory C,PW-2000,222,
+27-03-2022,Factory E,Industrial-X,228,Morning
+2022/02/17,factory_b,PW-2000,225,morning
+2022/12/24,Factory D,Commercial-Pro,166,Afternoon
+2023/05/31,FACTORY D,PW-4000,111 units,Morning
+08/24/2023,FAC-E,Industrial-X,242,Morning
+2023/12/02,factory_a,PW-2000,316,morning
+2023/07/15,FAC-C,PW-4000,367,Morning
+,FAC-A,PW-2000,212,Night
+16-06-2022,factory_d,PW-3000,56 units,
+12-03-2022,Factory C,PW-2000,285,Night
+01/10/2022,,PW-2000,284,Afternoon
+2022-11-18,Factory B,Industrial-X,308,Afternoon
+2023-02-03,factory_e,PW-4000,104,Afternoon
+2022-08-28,Factory C,PW-3000,209 units,NIGHT
+2023/07/02,Factory E,Industrial-X,265,NIGHT
+03/20/2022,factory_a,PW-4000,187,morning
+05/06/2023,Factory E,Commercial-Pro,181,Afternoon
+2022-10-03,Factory C,Industrial-X,353,Afternoon
+10-05-2023,Factory A,PW-2000,314,Morning
+05/18/2022,FAC-B,PW-3000,,Morning
+2022-05-26,Factory D,PW-3000,170,Morning
+03-10-2022,FAC-E,PW-3000,200,morning
+2023-06-02,Factory D,Industrial-X,176 units,Night
+03/29/2022,FAC-B,PW-4000,252,NIGHT
+2023-12-21,Factory D,PW-2000,63,Afternoon
+15-12-2023,Factory B,PW-4000,297,NIGHT
+08-01-2023,FAC-B,,271,
+2023/10/27,factory_b,Commercial-Pro,215,Morning
+09/21/2023,Factory E,PW-3000,255,
+03/12/2023,FAC-A,PW-3000,354,
+10/08/2022,Factory E,Industrial-X,257,Morning
+11-01-2023,Factory E,,207 units,morning
+21-04-2022,Factory C,PW-3000,-152,Night
+15-12-2023,Factory A,Commercial-Pro,336,morning
+2022/05/22,FAC-E,Industrial-X,298,Night
+27-08-2022,Factory A,PW-2000,377 units,Morning
+2022-08-13,FAC-B,PW-3000,234 units,Morning
+2022-02-04,FACTORY D,Commercial-Pro,128,
+2022-05-17,FAC-D,PW-4000,122,Night
+11-10-2022,Factory B,Industrial-X,338 units,morning
+2023-03-31,Factory A,PW-2000,206,Afternoon
+2023/10/18,factory_e,Commercial-Pro,243 units,Night
+,Factory E,PW-4000,146,
+2023/08/25,,PW-4000,131,NIGHT
+28-05-2022,FAC-A,PW-2000,111,Night
+2023/09/24,Factory C,Commercial-Pro,,
+01/23/2022,Factory E,Industrial-X,239,Night
+07-12-2023,Factory A,Industrial-X,340,
+03/22/2022,Factory A,Industrial-X,316,morning
+2022/10/19,FAC-A,PW-2000,162,morning
+2023/12/19,Factory B,Commercial-Pro,156,
+2023-08-15,factory_c,PW-3000,170,Night
+21-11-2023,Factory C,PW-3000,133,morning
+2023-04-27,FAC-B,Commercial-Pro,316,Night
+01/20/2023,factory_b,PW-2000,190,Afternoon
+09-10-2023,FACTORY A,PW-4000,298,
+2023/12/23,factory_a,Commercial-Pro,172,NIGHT
+2023/10/21,Factory E,Commercial-Pro,105,morning
+08-12-2022,Factory D,,109,Night
+04/05/2023,Factory C,PW-3000,341,NIGHT
+2023-03-27,Factory B,PW-3000,135,Afternoon
+2022-06-02,Factory D,PW-2000,25 units,
+23-11-2022,Factory D,PW-2000,170,morning
+23-10-2023,factory_d,Commercial-Pro,,Afternoon
+06/07/2022,Factory D,Industrial-X,124,Morning
+2023/12/10,FAC-A,PW-4000,183,
+19-09-2022,FAC-C,PW-2000,342,
+07/28/2022,Factory D,PW-3000,68,NIGHT
+05/22/2023,Factory C,Industrial-X,342 units,morning
+2023/01/01,Factory B,PW-4000,273 units,
+09-03-2022,Factory C,PW-2000,292,Morning
+2023/04/16,FAC-D,PW-3000,176,morning
+06-09-2022,Factory C,PW-2000,314,Morning
+24-08-2023,factory_a,PW-2000,,NIGHT
+22-01-2023,Factory B,PW-4000,120,Night
+13-02-2022,Factory C,PW-4000,247,NIGHT
+2023-08-03,Factory C,Industrial-X,323,Night
+2022-02-04,,Commercial-Pro,162,Afternoon
+2023-08-23,Factory B,PW-2000,177,
+2022/08/17,Factory B,PW-2000,,Afternoon
+2022-06-09,Factory C,PW-2000,398,Morning
+21-09-2023,,PW-2000,268,Night
+02/11/2022,FAC-B,PW-2000,178,Night
+04/18/2022,FAC-C,PW-3000,383,Morning
+2023-04-24,Factory C,Commercial-Pro,186,Morning
+2022-10-20,Factory D,Industrial-X,-157,morning
+2023-06-23,FAC-B,PW-3000,231,Morning
+2022/02/02,factory_a,PW-2000,269,Afternoon
+28-06-2022,FAC-C,PW-3000,357,Night
+2023-11-20,Factory A,Commercial-Pro,,Afternoon
+09/11/2022,Factory D,PW-2000,131,Afternoon
+09/17/2023,,,79,NIGHT
+07-05-2022,Factory E,PW-3000,-90,Afternoon
+12/27/2022,Factory C,PW-2000,315 units,
+2022-11-13,Factory A,PW-4000,328 units,morning
+2022/06/25,Factory E,PW-2000,231,
+2022/04/02,Factory B,Industrial-X,,NIGHT
+11-05-2023,Factory E,Industrial-X,150,Morning
+2023/04/04,factory_d,Commercial-Pro,171,
+2022-04-22,FAC-D,Industrial-X,56,Morning
+2023-06-12,Factory B,PW-2000,335 units,
+2022/04/13,Factory B,PW-3000,358,NIGHT
+05-12-2022,Factory B,PW-2000,271,Night
+2023/01/20,FACTORY A,PW-2000,205,NIGHT
+16-12-2023,FAC-D,,63,Morning
+15-01-2023,factory_a,Industrial-X,106,
+06/22/2022,FACTORY A,PW-3000,344,Afternoon
+20-10-2023,factory_c,PW-3000,224,Morning
+2022/03/17,FACTORY A,Commercial-Pro,110,
+04/02/2022,Factory C,PW-2000,348,Morning
+02/08/2023,,PW-3000,183,Morning
+2022/11/30,Factory A,Commercial-Pro,309 units,morning
+25-03-2022,factory_b,PW-2000,309,Afternoon
+12-03-2023,Factory E,PW-3000,109 units,NIGHT
+2023-08-06,Factory D,PW-4000,148,NIGHT
+2022/10/29,Factory E,Commercial-Pro,282,Afternoon
+07/12/2022,Factory E,Commercial-Pro,294,NIGHT
+2022/12/13,FAC-A,Commercial-Pro,189,Morning
+2022-09-17,Factory C,Commercial-Pro,372,Morning
+2022-11-16,factory_e,Commercial-Pro,256,Morning
+08/03/2023,Factory C,PW-2000,275,NIGHT
+2022/05/14,Factory C,Commercial-Pro,389 units,Morning
+2023/05/30,factory_a,Commercial-Pro,274,NIGHT
+2022/09/08,FACTORY A,PW-2000,-387,morning
+05/06/2022,factory_d,PW-3000,136 units,NIGHT
+2023/02/06,factory_a,Industrial-X,253,Night
+03/30/2023,Factory C,Commercial-Pro,215,Night
+2022-06-14,FAC-C,PW-2000,268,Night
+28-06-2022,Factory D,Industrial-X,75,
+21-05-2022,Factory D,PW-3000,-50,morning
+10/21/2022,,Industrial-X,135,
+2023/01/16,Factory A,Industrial-X,383 units,NIGHT
+2023-01-05,FACTORY D,PW-2000,162 units,
+06/08/2023,Factory E,PW-2000,94,
+02/02/2023,Factory C,PW-4000,305,Afternoon
+2022-05-18,factory_d,PW-2000,79,
+2022-05-08,FAC-E,Industrial-X,199,morning
+07/14/2022,FAC-D,Commercial-Pro,153,Night
+05/05/2023,factory_b,Industrial-X,345,NIGHT
+2022/02/28,Factory B,PW-3000,306,morning
+2022-10-03,Factory B,Industrial-X,-290,Afternoon
+2023/11/09,Factory B,PW-3000,331,Afternoon
+11/04/2022,Factory D,Commercial-Pro,85,Morning
+2022-10-09,Factory A,Industrial-X,327,NIGHT
+2022-01-31,Factory C,PW-3000,267,Night
+07/29/2022,FAC-D,PW-3000,36,morning
+25-10-2023,Factory A,PW-3000,,morning
+18-08-2023,Factory E,Industrial-X,259,Morning
+2022/08/13,factory_d,PW-2000,48,Morning
+04/06/2022,factory_e,PW-3000,167,Morning
+2023-03-21,factory_b,PW-4000,396,Morning
+2022-05-25,FACTORY A,Commercial-Pro,342,Night
+06/20/2022,Factory D,PW-4000,177,Night
+11-02-2023,Factory C,PW-2000,171,morning
+2023/04/25,FAC-A,Industrial-X,373,Afternoon
+14-12-2022,FAC-B,PW-2000,292,
+2022-12-15,FAC-B,,175,
+13-09-2022,fac_b,PW-3000,174,
+11-12-2023,factory_e,Commercial-Pro,252 units,
+2022-05-13,Factory C,Industrial-X,143,
+07/22/2022,fac_b,PW-3000,349,Afternoon
+2023/11/25,Factory C,PW-2000,184,Afternoon
+10/28/2023,Factory C,PW-2000,200,
+11-08-2023,Factory C,PW-4000,305,Morning
+2023-03-17,Factory E,Industrial-X,297,Morning
+04/30/2022,FACTORY A,PW-2000,165,Night
+2022/03/04,factory_e,PW-4000,111,Afternoon
+2022-04-20,Factory C,Commercial-Pro,,Afternoon
+08/11/2023,Factory A,Industrial-X,298,
+26-05-2022,Factory D,PW-3000,173,Afternoon
+2023-06-10,Factory D,Industrial-X,171,morning
+20-10-2022,factory_a,,-289,NIGHT
+19-05-2022,Factory C,PW-3000,253,Night
+29-09-2022,Factory E,PW-2000,154,Afternoon
+11/11/2023,FAC-E,,229,morning
+31-12-2023,Factory B,PW-3000,303,morning
+2022-09-08,Factory A,PW-4000,214,Afternoon
+11/04/2023,Factory D,PW-2000,39,morning
+2023/12/27,Factory E,Industrial-X,133,Afternoon
+2022/07/19,Factory C,Industrial-X,303,Morning
+2023/10/16,factory_d,PW-3000,128,Night
+2022/04/17,factory_e,PW-4000,279,Morning
+2023/01/17,,Industrial-X,143 units,Afternoon
+2023/11/25,FAC-C,,232,Morning
+2022/02/16,Factory C,PW-4000,266,
+2023/07/20,,Industrial-X,103,Morning
+08/19/2023,FAC-C,PW-3000,302,morning
+2023-03-31,Factory C,PW-3000,122,Night
+25-07-2023,FAC-C,PW-2000,189,
+2023-05-16,factory_a,PW-4000,328,Night
+02/28/2022,Factory B,PW-2000,164,NIGHT
+04/01/2022,Factory D,Commercial-Pro,26,Night
+04/10/2022,Factory D,PW-3000,89,morning
+2023-12-12,Factory D,,133,NIGHT
+2022/12/10,Factory C,PW-4000,263,morning
+2023-01-19,FAC-C,Industrial-X,206,morning
+10-10-2022,Factory C,Commercial-Pro,131 units,Afternoon
+2022-05-11,factory_e,PW-3000,212,Afternoon
+01-10-2022,FAC-C,Commercial-Pro,363,
+12-07-2022,Factory C,Commercial-Pro,331,Night
+2022/07/09,Factory C,Commercial-Pro,,Morning
+2023/07/12,Factory A,PW-4000,264,
+2023-06-09,FAC-A,PW-3000,314,Night
+2022/02/09,FAC-C,,,morning
+04/02/2022,factory_a,Industrial-X,152,Morning
+10/26/2022,Factory D,Industrial-X,119,
+2022/09/06,FAC-A,Commercial-Pro,205,Afternoon
+03/31/2023,FAC-E,Commercial-Pro,92 units,
+03/13/2023,Factory C,PW-4000,156,morning
+2022-11-19,Factory E,Commercial-Pro,-300,NIGHT
+18-12-2023,factory_a,Industrial-X,125,morning
+2022-08-12,FAC-E,PW-3000,249,Morning
+12/06/2022,Factory E,PW-4000,102,morning
+2022-04-06,factory_e,,123,morning
+18-02-2022,Factory C,Commercial-Pro,303,Night
+29-09-2022,Factory E,Commercial-Pro,249,Morning
+14-05-2022,Factory A,Commercial-Pro,292,Night
+07/07/2022,Factory D,PW-4000,133 units,Afternoon
+10/04/2023,factory_c,Industrial-X,155,morning
+2022-05-17,FAC-D,PW-2000,94,Afternoon
+2023-11-22,factory_d,PW-2000,124,Morning
+08/29/2023,Factory B,PW-3000,262,
+23-07-2022,Factory E,PW-2000,103,morning
+2022/11/19,factory_c,PW-2000,337,NIGHT
+2023-02-06,factory_d,PW-2000,69,Afternoon
+,Factory B,Industrial-X,384,Afternoon
+2022-04-19,Factory B,PW-2000,138,morning
+22-04-2023,Factory A,PW-4000,120,Afternoon
+02/13/2023,FAC-A,PW-3000,173,Morning
+11-10-2022,FAC-C,PW-3000,328,
+2022/06/20,Factory E,,130,Afternoon
+2023-03-05,Factory A,Commercial-Pro,374,NIGHT
+2023-03-07,fac_b,PW-3000,379,Night
+2022/10/02,Factory B,PW-4000,359,morning
+2022/01/18,factory_c,PW-4000,369,Afternoon
+2023-07-25,FAC-A,Industrial-X,288,morning
+2022-04-07,Factory D,PW-3000,44 units,Morning
+2022-05-08,FAC-C,Industrial-X,247,NIGHT
+2023/03/09,Factory E,PW-2000,168,NIGHT
+01/21/2023,Factory D,PW-4000,,morning
+,Factory B,PW-3000,190,Morning
+07/18/2022,fac_b,PW-2000,293,Night
+2022-03-21,Factory B,PW-2000,214,NIGHT
+2022-02-03,Factory D,Commercial-Pro,94,Night
+2023/02/26,factory_a,Industrial-X,141 units,NIGHT
+13-06-2022,Factory C,Commercial-Pro,177,
+26-01-2023,Factory B,PW-4000,398,Morning
+2023/12/01,,Commercial-Pro,195 units,Night
+2022/02/07,factory_e,PW-2000,166,
+2023/04/06,FAC-D,Industrial-X,86,Morning
+2023-06-05,Factory E,Industrial-X,272,morning
+11-05-2023,FACTORY A,Industrial-X,276,NIGHT
+2022-11-11,Factory E,Industrial-X,267,Afternoon
+01/13/2022,FAC-B,Industrial-X,162,morning
+24-07-2022,Factory A,PW-3000,335,Morning
+2023/07/19,factory_d,Commercial-Pro,80,Afternoon
+08-12-2022,Factory C,Commercial-Pro,357,
+04-11-2023,Factory B,PW-2000,249,Night
+2023/11/09,FAC-B,PW-4000,125 units,Morning
+18-09-2023,Factory C,Industrial-X,300,NIGHT
+18-01-2023,Factory E,Commercial-Pro,84,NIGHT
+2023/04/17,FAC-A,Industrial-X,,
+06/18/2023,factory_a,PW-3000,218,
+05/05/2023,factory_d,Industrial-X,54,morning
+2022/12/07,factory_e,PW-4000,221,Afternoon
+2023/04/26,FAC-B,PW-3000,276,Afternoon
+11/06/2023,Factory B,PW-3000,194,
+2023/08/20,Factory A,PW-3000,,Morning
+2022/04/27,Factory E,PW-4000,280,Night
+05/20/2023,Factory C,PW-3000,380,morning
+2023/04/09,FAC-A,PW-4000,348,NIGHT
+2023/07/29,Factory C,PW-3000,375,Morning
+27-03-2022,Factory E,Commercial-Pro,154,Afternoon
+10/03/2022,factory_d,PW-3000,164,NIGHT
+01/03/2022,Factory C,Industrial-X,111,Afternoon
+11-11-2023,Factory E,PW-4000,242,Afternoon
+,Factory D,Industrial-X,,morning
+2023-11-27,factory_c,Industrial-X,246,
+2023/04/24,FAC-C,Industrial-X,376,
+2022/10/01,Factory C,Commercial-Pro,177 units,Morning
+2023/11/03,Factory D,PW-4000,151,
+2022-11-09,Factory D,PW-3000,42 units,Afternoon
+22-05-2022,Factory D,PW-3000,147,Night
+02/13/2022,Factory E,PW-3000,167,NIGHT
+2023-03-19,Factory A,PW-2000,149,morning
+2022-06-19,factory_d,Industrial-X,139,
+04/10/2022,,Commercial-Pro,80,
+2023-01-21,fac_b,Industrial-X,288,Afternoon
+05/29/2023,factory_e,PW-2000,267 units,NIGHT
+2022/10/11,Factory A,Industrial-X,-122,NIGHT
+02/18/2022,factory_e,PW-3000,130 units,morning
+2022-01-17,factory_b,PW-2000,,
+2022/05/08,Factory C,,119,morning
+2023/06/02,factory_d,PW-4000,63,Afternoon
+2022/01/24,Factory B,Commercial-Pro,206,Morning
+2022/07/31,fac_b,PW-3000,299,Morning
+2022/05/10,FACTORY A,PW-4000,277,NIGHT
+2023-06-18,Factory C,,330,Afternoon
+30-08-2022,FAC-A,Commercial-Pro,215,
+2022-02-03,factory_a,PW-4000,240,NIGHT
+,FACTORY D,Industrial-X,72,
+2022/01/18,factory_c,PW-4000,369,Afternoon
+,FACTORY D,Commercial-Pro,76,NIGHT
+27-03-2022,Factory B,Industrial-X,267,morning
+2022/07/10,factory_b,PW-2000,146,Night
+13-12-2022,Factory D,Commercial-Pro,180,NIGHT
+2022/12/20,FACTORY A,Industrial-X,260,Morning
+2022-03-27,Factory A,PW-2000,265,morning
+08/18/2023,factory_c,PW-2000,148 units,Afternoon
+2022-03-24,Factory B,Commercial-Pro,248,Night
+08/10/2023,Factory A,PW-4000,102,Night
+25-10-2022,Factory B,PW-4000,120,Night
+05-03-2023,FAC-B,PW-3000,192,NIGHT
+05-08-2022,factory_b,PW-3000,111 units,NIGHT
+2022-05-23,Factory E,Commercial-Pro,192,
+05-05-2023,Factory D,PW-3000,176 units,Afternoon
+13-01-2022,Factory E,,149,Morning
+10/19/2023,,Commercial-Pro,152,Night
+2022/08/08,Factory D,PW-2000,165 units,Morning
+06-04-2022,FAC-E,PW-2000,276,morning
+02/13/2023,Factory C,PW-4000,166,Morning
+2022-02-22,Factory C,Industrial-X,247,Night
+2023-08-19,factory_b,Commercial-Pro,344,morning
+14-11-2022,fac_b,PW-3000,127,Afternoon
+2022/09/11,Factory D,Commercial-Pro,82,Afternoon
+2022-10-09,Factory A,Industrial-X,327,NIGHT
+30-04-2022,factory_b,PW-3000,121,Night
+01/06/2022,Factory C,PW-3000,,
+2022-08-24,factory_b,PW-2000,193,morning
+2023-07-20,FACTORY A,PW-4000,242,Afternoon
+07-05-2022,FAC-B,PW-3000,385,Morning
+2023-02-03,Factory B,PW-2000,377 units,Morning
+2022-11-08,FAC-E,PW-3000,265,Morning
+2023-05-31,factory_a,PW-3000,213,morning
+2022/11/04,Factory D,PW-3000,116,Morning
+31-07-2023,Factory C,Commercial-Pro,291,Morning
+2023-12-31,Factory E,Industrial-X,246,Night
+2022/02/15,fac_b,PW-3000,312,morning
+23-11-2022,Factory D,PW-2000,170,morning
+2023/09/14,FACTORY D,PW-4000,157,Afternoon
+2022-12-03,Factory E,Industrial-X,159,Afternoon
+04-08-2022,Factory C,PW-3000,373,
+2022-05-21,FAC-E,PW-4000,149,Night
+2023-07-24,factory_c,PW-2000,,Night
+04/30/2022,Factory D,PW-2000,62 units,Afternoon
+07-08-2023,FAC-B,Industrial-X,334,
+2022-05-31,Factory C,PW-3000,249,Night
+2023-12-03,factory_a,PW-3000,317,
+,FAC-A,PW-2000,123 units,
+2023/10/23,Factory B,PW-3000,103,Night
+2022-02-09,Factory D,Industrial-X,144,morning
+2023-07-25,factory_e,Industrial-X,215,NIGHT
+11/03/2023,factory_b,Commercial-Pro,125,Morning
+10/08/2022,Factory E,PW-2000,80 units,morning
+09-12-2023,Factory E,PW-3000,233,morning
+07/07/2023,,PW-3000,272,Night
+2023/04/30,fac_b,PW-3000,104,Night
+31-12-2022,Factory A,Commercial-Pro,185 units,Night
+07/18/2023,factory_e,PW-2000,145,NIGHT
+2023-09-13,factory_b,PW-3000,351,Night
+2023/09/10,FAC-C,Industrial-X,318,Night
+2023/09/12,Factory C,PW-2000,315,Morning
+11/13/2022,Factory A,PW-2000,325,Afternoon
+03/25/2022,factory_b,Industrial-X,314,
+2023-02-21,factory_d,PW-4000,-25,Night
+2023/07/06,Factory C,Commercial-Pro,110,Morning
+2022/06/25,factory_c,PW-3000,204 units,
+16-02-2022,Factory A,PW-2000,395 units,
+07/31/2022,FACTORY D,PW-3000,56,
+,FAC-C,PW-3000,317,Morning
+2022/10/13,factory_e,PW-3000,92,Night
+20-05-2022,factory_c,Commercial-Pro,253,
+2022-05-14,Factory A,PW-3000,197,NIGHT
+03-05-2023,Factory D,PW-4000,156,morning
+2022-07-22,Factory E,Industrial-X,261,morning
+05-09-2022,Factory E,PW-4000,297,
+08-07-2022,FAC-E,PW-3000,80,Night
+01/13/2022,Factory C,Commercial-Pro,157,morning
+31-01-2023,Factory B,PW-4000,292,Afternoon
+2023/11/28,factory_d,PW-2000,152,NIGHT
+2023/04/19,FAC-B,PW-4000,262,NIGHT
+2023/11/05,factory_b,PW-4000,243,Morning
+2022-06-03,Factory A,PW-2000,376,Morning
+01/13/2022,FAC-E,Industrial-X,154,
+09-09-2023,,PW-2000,205,NIGHT
+2022-09-15,Factory D,PW-3000,138,Afternoon
+2022/10/09,Factory C,PW-3000,243,Morning
+2022-08-18,Factory E,PW-2000,92,Afternoon
+03/29/2023,Factory A,PW-2000,291,Afternoon
+2023-03-27,Factory D,PW-3000,40,
+07-05-2022,Factory A,PW-3000,296,
+09/09/2022,factory_b,PW-2000,258 units,Morning
+2023-04-21,FACTORY D,PW-2000,126,
+06/04/2022,Factory E,Commercial-Pro,168 units,Night
+07/12/2022,factory_a,PW-2000,172,
+2022/02/07,Factory D,PW-3000,111,Night
+05-07-2022,factory_b,PW-4000,-151,Night
+02/12/2022,FAC-D,PW-4000,46,Morning
+2023/12/10,FAC-E,PW-2000,,NIGHT
+2023-12-08,Factory A,Industrial-X,239,Morning
+02-08-2022,fac_b,PW-4000,307,
+17-10-2023,factory_b,Commercial-Pro,307,Afternoon
+2022-03-19,Factory D,Industrial-X,43,
+02/25/2023,FAC-D,PW-3000,174 units,Afternoon
+2022/03/07,FACTORY D,PW-3000,110,morning
+2023/01/29,FAC-B,Commercial-Pro,258,morning
+10/30/2023,Factory A,Commercial-Pro,362,Afternoon
+2023/01/17,,Industrial-X,143 units,Afternoon
+2022/11/09,Factory A,PW-2000,,Night
+2022/09/06,Factory D,PW-3000,95,
+2022/03/07,FAC-E,Commercial-Pro,148,Morning
+2022-10-30,factory_a,Industrial-X,292,Afternoon
+2023/09/07,Factory D,Industrial-X,86 units,
+2023/01/17,,Industrial-X,379,NIGHT
+2022/12/16,Factory E,Industrial-X,87,
+12/26/2023,Factory A,Industrial-X,234,Afternoon
+2023-04-17,Factory C,PW-2000,324,Night
+16-02-2022,FAC-C,,388,Afternoon
+01/22/2022,Factory A,Commercial-Pro,240,Afternoon
+2022-07-22,Factory E,PW-3000,281,NIGHT
+20-11-2023,FAC-C,Commercial-Pro,171,morning
+2022/12/18,Factory D,PW-2000,83 units,Morning
+2022-03-31,FAC-B,Commercial-Pro,355,Morning
+15-11-2022,factory_b,PW-4000,132,Night
+05-02-2023,factory_b,PW-2000,399,morning
+31-12-2022,,PW-2000,81,Morning
+29-11-2023,Factory E,PW-4000,,morning
+2023-07-10,Factory C,PW-3000,251,Morning
+2023-08-03,FAC-E,PW-2000,132,
+2022/11/27,Factory A,PW-4000,128,Morning
+2022/06/14,Factory E,PW-2000,,Morning
+11/22/2023,Factory C,Commercial-Pro,267,Afternoon
+05/19/2022,FACTORY D,Industrial-X,,Night
+13-04-2023,Factory D,Commercial-Pro,23,NIGHT
+2022/05/04,Factory C,Commercial-Pro,389,morning
+27-08-2023,FAC-D,PW-3000,96,
+2022-06-03,Factory E,Industrial-X,235,Morning
+2023/03/04,Factory A,PW-4000,226,Night
+21-08-2022,Factory A,PW-4000,325 units,
+25-01-2023,Factory E,PW-4000,104,NIGHT
+2022-02-13,Factory A,Industrial-X,225,Afternoon
+16-07-2022,Factory B,PW-3000,314,morning
+2023-05-22,FAC-A,Commercial-Pro,108,morning
+10/23/2022,Factory D,PW-4000,48,Night
+2022-04-27,FACTORY D,Industrial-X,,Morning
+11/18/2022,factory_b,Commercial-Pro,392,Afternoon
+01-01-2022,FAC-E,Commercial-Pro,182,morning
+2022/07/27,factory_d,PW-2000,98,morning
+19-07-2023,FAC-B,PW-4000,376,Night
+04-10-2023,FACTORY A,PW-4000,148,Night
+2023-03-14,Factory B,PW-3000,297,morning
+08-06-2023,FAC-C,Commercial-Pro,148,morning
+08/07/2022,Factory C,PW-3000,257,Night
+2022-02-23,FACTORY A,PW-2000,270,Morning
+08/22/2023,FAC-C,Industrial-X,256,Morning
+10-07-2023,factory_d,Commercial-Pro,167,Morning
+10/23/2022,factory_d,Commercial-Pro,103,Night
+06/09/2023,FAC-E,PW-4000,221,Morning
+01-05-2023,Factory E,Industrial-X,88,morning
+07/25/2022,Factory E,,282,NIGHT
+02/15/2023,factory_d,Commercial-Pro,-171,NIGHT
+2022-12-03,FACTORY D,PW-2000,156,Afternoon
+2022-07-19,FACTORY D,PW-3000,83 units,Night
+05/27/2022,,Commercial-Pro,218,Morning
+04/24/2022,Factory D,Industrial-X,165 units,morning
+2022-06-14,FACTORY D,PW-2000,103,
+05-12-2022,FAC-D,PW-4000,87,NIGHT
+2022-09-02,FACTORY A,PW-3000,164,Afternoon
+2023-03-29,Factory C,Commercial-Pro,309,
+2022/08/24,Factory D,PW-4000,169,Night
+08/15/2022,FAC-E,Commercial-Pro,243,
+12-03-2023,Factory D,PW-3000,89,Afternoon
+2023/07/01,Factory C,PW-3000,326,
+2022/10/24,Factory D,PW-3000,-29,Afternoon
+2022-04-06,FAC-B,PW-3000,,NIGHT
+2023/01/09,Factory D,Industrial-X,80,Afternoon
+2022-10-18,Factory E,Industrial-X,234,NIGHT
+2023-04-16,Factory A,PW-3000,191,morning
+2022-12-05,FACTORY A,Industrial-X,148,Afternoon
+2022-02-04,FAC-C,PW-3000,112,
+29-10-2022,Factory B,,266,Morning
+11/22/2023,Factory E,PW-4000,246,Night
+2023-01-18,Factory E,PW-3000,218,morning
+2023/12/06,Factory C,PW-2000,126 units,Night
+2023/07/26,factory_d,Commercial-Pro,77,Afternoon
+08/25/2022,FAC-E,,181,Afternoon
+08/01/2023,factory_d,PW-2000,152,Afternoon
+06/04/2023,Factory E,PW-2000,261,morning
+,Factory C,Commercial-Pro,385,morning
+,Factory B,PW-3000,149,
+13-02-2022,Factory E,Commercial-Pro,235,Afternoon
+02/05/2023,,PW-3000,92,Afternoon
+2022-01-06,Factory D,Commercial-Pro,175,Afternoon
+2022-06-12,FAC-D,,141,Afternoon
+08/12/2022,Factory E,Industrial-X,227,Afternoon
+31-08-2022,factory_d,PW-3000,46,Morning
+07/07/2023,Factory C,Commercial-Pro,369,
+14-12-2023,FAC-A,PW-3000,232,Morning
+2023/09/12,factory_a,Industrial-X,267,Afternoon
+,Factory C,PW-2000,150,Night
+2023/11/29,Factory E,Industrial-X,224,morning
+16-06-2022,FAC-B,PW-3000,302,
+2022-09-22,Factory E,Commercial-Pro,105,
+09/25/2022,factory_a,Commercial-Pro,255 units,morning
+2023/07/02,Factory A,PW-3000,294,
+2023-12-11,Factory E,PW-4000,250,Morning
+2023-10-11,Factory D,,135,Morning
+2022-05-21,Factory A,Commercial-Pro,,
+2023-09-17,Factory E,PW-2000,269 units,Afternoon
+12/16/2023,FAC-B,PW-4000,325,Morning
+2022-08-24,Factory A,PW-3000,,Morning
+2022/09/29,FAC-B,PW-2000,209 units,Morning
+,Factory B,PW-4000,307,Night
+06/24/2022,FACTORY D,Commercial-Pro,67,Morning
+17-07-2022,factory_e,PW-4000,287,NIGHT
+2023/08/24,factory_c,Industrial-X,237,Night
+08/07/2023,factory_b,PW-3000,351,Morning
+01/15/2023,FAC-C,Industrial-X,286,NIGHT
+2022/03/19,Factory C,PW-2000,389,NIGHT
+07/21/2023,FAC-D,PW-3000,138,Afternoon
+2022-09-28,FAC-E,PW-4000,231,Morning
+12/27/2023,Factory E,PW-2000,92,Morning
+03-04-2023,FAC-A,PW-3000,173,morning
+2023-03-09,FAC-E,PW-2000,206,Night
+2023-08-14,factory_e,PW-3000,205,
+2023-05-27,factory_d,PW-3000,42,
+12-01-2022,Factory C,PW-4000,354,Night
+13-10-2023,Factory A,Industrial-X,283,Night
+06/11/2022,Factory B,PW-4000,378,Morning
+02-02-2023,factory_a,PW-3000,306,
+02-03-2023,Factory B,PW-3000,155,morning
+2023-08-11,Factory B,PW-4000,190,NIGHT
+22-09-2022,FAC-A,Industrial-X,159,Morning
+2022/08/03,Factory E,Industrial-X,-123,Morning
+2023-10-16,FAC-E,PW-3000,272,Night
+2022/11/04,Factory E,PW-3000,255 units,NIGHT
+04/15/2022,Factory B,PW-3000,244,Afternoon
+2022/04/11,Factory D,Commercial-Pro,179,Night
+2023/11/03,FAC-D,PW-3000,21,Morning
+2023/11/06,Factory C,PW-4000,178,NIGHT
+2023/11/04,,PW-3000,242,Morning
+01/03/2022,Factory B,PW-4000,292,Morning
+2023-12-02,Factory A,PW-2000,302,morning
+10/09/2022,Factory B,PW-4000,-231,Night
+25-07-2023,Factory D,PW-4000,26,Morning
+2023-08-11,Factory E,PW-4000,80,NIGHT
+16-06-2023,Factory A,PW-3000,206,NIGHT
+2023/09/17,Factory E,PW-2000,246,Afternoon
+22-08-2022,FAC-D,Commercial-Pro,124,NIGHT
+10/24/2022,FACTORY D,Industrial-X,142,Morning
+21-09-2023,Factory C,Commercial-Pro,322,Night
+2023-08-15,Factory A,PW-3000,336,NIGHT
+2022-10-22,factory_e,Commercial-Pro,148,morning
+2022-01-24,Factory E,Industrial-X,167,NIGHT
+2023-01-08,Factory A,Industrial-X,362,Afternoon
+2022/03/24,Factory D,Commercial-Pro,152,NIGHT
+06/16/2022,Factory D,PW-4000,73,
+2022/11/17,Factory E,PW-3000,110,morning
+16-01-2023,,PW-4000,174,Afternoon
+03/02/2023,Factory C,PW-4000,347,Morning
+2023/07/19,Factory C,,306,NIGHT
+04/22/2023,FAC-E,PW-4000,208,morning
+2023-06-10,Factory B,PW-3000,262,
+06-08-2023,factory_e,PW-4000,92,Night
+03/01/2022,FAC-B,PW-3000,396,Morning
+2022-04-08,Factory B,PW-2000,132,Night
+2023/03/14,Factory E,PW-4000,235,NIGHT
+11/04/2023,FAC-B,Industrial-X,170,NIGHT
+2022/02/24,factory_d,PW-4000,80,
+,FAC-D,Industrial-X,156 units,
+29-01-2022,factory_e,Industrial-X,175,morning
+2023/08/15,FAC-B,PW-2000,152,NIGHT
+2022-06-13,FAC-C,PW-4000,143,Afternoon
+01/04/2022,FACTORY D,PW-3000,122,NIGHT
+08-10-2022,Factory E,PW-3000,181,
+15-04-2022,FACTORY A,Commercial-Pro,387,
+,Factory B,Industrial-X,332,Afternoon
+2022/05/21,FAC-C,,135 units,NIGHT
+03/30/2023,Factory D,Industrial-X,111,Morning
+,Factory E,PW-2000,299,morning
+10/12/2023,factory_d,PW-2000,72,Morning
+05/09/2022,Factory D,Commercial-Pro,52,
+03/05/2022,Factory D,PW-3000,135,
+05/01/2023,factory_b,Commercial-Pro,105 units,
+2022/04/19,Factory D,PW-3000,47,NIGHT
+06/16/2023,Factory E,PW-2000,133,Night
+11-10-2023,Factory B,PW-4000,198,morning
+2022-10-26,factory_e,PW-3000,270 units,Morning
+05-07-2022,factory_a,Commercial-Pro,112 units,Night
+2023-10-30,FAC-C,Industrial-X,291 units,Morning
+24-05-2022,factory_d,PW-2000,66 units,Afternoon
+2023/01/30,FACTORY A,PW-4000,301,Afternoon
+27-06-2023,FACTORY D,PW-4000,30,Night
+21-01-2023,Factory A,,-180 units,morning
+2022/11/30,Factory A,PW-2000,108,NIGHT
+11/18/2022,FAC-C,PW-4000,160,morning
+2023/04/17,factory_b,Commercial-Pro,161,
+2023-01-16,FAC-C,PW-2000,184,Morning
+08/23/2022,factory_d,PW-4000,88,Morning
+24-10-2022,factory_b,PW-4000,267,Morning
+,Factory A,PW-3000,164,NIGHT
+2023-07-18,FAC-E,PW-4000,220,morning
+02/22/2023,Factory D,PW-3000,31,Morning
+2022/10/04,factory_b,Commercial-Pro,142,morning
+2022-03-16,factory_a,Industrial-X,388,NIGHT
+,Factory B,Industrial-X,246,Morning
+2023-01-22,FAC-E,Industrial-X,224,morning
+12/28/2023,Factory C,PW-4000,133,Night
+2022/05/30,factory_b,PW-2000,231,morning
+2023-07-16,Factory E,PW-4000,203,Night
+04/15/2023,Factory C,PW-2000,388,Night
+2023/10/30,Factory A,Commercial-Pro,354,NIGHT
+2022/11/25,Factory A,Industrial-X,233,Night
+20-10-2023,factory_c,PW-3000,224,Morning
+13-10-2023,Factory C,Industrial-X,288,
+2023-02-26,FAC-A,Industrial-X,255,Afternoon
+2022-02-03,Factory B,PW-3000,333,
+20-02-2023,Factory C,Industrial-X,295,morning
+11-08-2022,Factory A,PW-4000,327,Morning
+02-11-2022,Factory E,PW-4000,255,Afternoon
+2023-05-16,Factory C,PW-3000,244,Morning
+02/02/2023,FAC-B,,231,morning
+19-10-2023,Factory E,PW-3000,90,Night
+2023-04-11,FAC-E,PW-3000,107 units,morning
+10/25/2022,FAC-D,PW-2000,21,Night
+11-09-2022,FACTORY A,PW-2000,,morning
+28-05-2023,FAC-C,PW-3000,223,Afternoon
+2022-12-22,factory_a,Industrial-X,367,Morning
+2023-06-09,FAC-E,Commercial-Pro,221,
+2023-09-24,FAC-D,Commercial-Pro,24,Afternoon
+05-05-2023,Factory B,Commercial-Pro,100,Morning
+2023/09/01,FAC-A,Commercial-Pro,143,Night
+06/21/2023,factory_c,PW-4000,132,Night
+2022-11-29,Factory E,PW-3000,91,
+01-04-2023,Factory D,Commercial-Pro,67,Night
+12/09/2023,Factory E,PW-4000,112,Afternoon
+2023-04-04,factory_b,PW-3000,246,morning
+2023/10/11,factory_b,Commercial-Pro,272,NIGHT
+2022/01/22,,Industrial-X,,Afternoon
+2023-03-23,FAC-B,PW-3000,242 units,NIGHT
+30-12-2022,FACTORY D,Industrial-X,99,
+2023-12-20,factory_d,PW-2000,47 units,Afternoon
+12-09-2023,factory_b,PW-3000,-388,
+2023/04/13,Factory E,PW-2000,114,NIGHT
+29-03-2023,Factory B,Commercial-Pro,350,morning
+21-03-2023,Factory C,Commercial-Pro,318,NIGHT
+20-06-2023,Factory D,Commercial-Pro,176,Morning
+11/13/2022,FACTORY A,PW-2000,221,morning
+25-07-2022,Factory B,,238,Morning
+14-06-2022,factory_b,PW-3000,356,Night
+2022/11/24,Factory D,PW-4000,112,Afternoon
+2022-06-06,fac_b,Commercial-Pro,150,NIGHT
+2022-09-22,Factory A,PW-3000,186,Night
+11/11/2022,fac_b,PW-2000,149,Morning
+09/05/2022,FACTORY D,PW-4000,,NIGHT
+20-06-2023,factory_b,PW-4000,204,
+04-08-2023,FAC-D,PW-3000,170,morning
+2023/06/19,Factory C,PW-2000,393,Afternoon
+01/07/2022,factory_e,PW-2000,184,Afternoon
+2023-05-18,factory_d,Commercial-Pro,30,Afternoon
+2022-04-25,Factory C,PW-3000,172,Morning
+2023/05/09,factory_e,PW-3000,282,Afternoon
+2023-05-30,FAC-E,PW-3000,112,Afternoon
+08/31/2023,Factory A,PW-4000,338,morning
+15-05-2023,FAC-C,Commercial-Pro,328,morning
+2022/03/03,Factory E,,81,NIGHT
+2023-01-02,Factory C,PW-2000,115,Afternoon
+04/26/2023,Factory E,PW-4000,146,
+2023/08/09,factory_c,PW-3000,167,Afternoon
+2022-09-09,Factory B,Industrial-X,332,morning
+03/05/2023,factory_a,PW-3000,391,Morning
+23-02-2022,Factory A,PW-4000,,Night
+2022/11/05,Factory E,Commercial-Pro,286,
+2023-08-08,FAC-E,Commercial-Pro,152,morning
+2023-04-19,Factory E,Commercial-Pro,252,morning
+2023-04-09,FAC-B,Industrial-X,362,Afternoon
+11-11-2022,factory_b,PW-4000,141,Morning
+2022-01-06,Factory C,PW-3000,400,
+2023/04/12,fac_b,Industrial-X,317,NIGHT
+13-12-2022,factory_b,Commercial-Pro,222,
+2023-03-20,Factory D,Industrial-X,-100,
+2022/08/16,fac_b,,246,Night
+04/03/2022,Factory A,PW-2000,381,morning
+17-12-2023,Factory B,,365,Afternoon
+2022/05/04,factory_d,,175,
+2023/02/12,Factory A,PW-4000,345,morning
+2022/12/20,Factory C,PW-4000,279,morning
+30-03-2022,factory_d,PW-4000,43 units,Morning
+2023-09-07,Factory D,PW-4000,66,Night
+02-08-2023,FACTORY A,PW-4000,,Morning
+05-11-2022,Factory A,PW-4000,146,
+2022/10/13,Factory B,Industrial-X,397,morning
+05/20/2022,Factory E,PW-4000,108,NIGHT
+08/20/2023,Factory A,Commercial-Pro,217,Morning
+2022-12-04,Factory B,PW-4000,369,morning
+09-07-2023,Factory D,PW-2000,30,morning
+2023-09-05,Factory A,PW-3000,177,morning
+,Factory C,Commercial-Pro,133,Afternoon
+2022-07-19,FACTORY A,Commercial-Pro,285,Afternoon
+2023/06/16,Factory A,PW-4000,234,Morning
+07/29/2022,Factory E,PW-3000,262 units,Morning
+2022/04/03,Factory E,Commercial-Pro,136,Night
+2023/07/06,Factory E,,273,morning
+2022-05-02,factory_b,Industrial-X,149,
+2023/07/13,FACTORY D,PW-4000,85,Morning
+2023/11/21,FAC-C,PW-3000,100,Afternoon
+2023/05/31,factory_e,PW-3000,299,morning
+07/08/2022,Factory C,PW-3000,366 units,
+04/22/2023,Factory C,PW-3000,131,Afternoon
+2022-11-09,FACTORY D,PW-2000,65,Morning
+2023-03-25,Factory D,,22,Afternoon
+2023/01/08,Factory B,PW-2000,180,morning
+2022/09/06,Factory B,PW-4000,397,Afternoon
+10/19/2022,FAC-A,PW-4000,366,morning
+2022/11/03,factory_d,Commercial-Pro,128,NIGHT
+08/07/2022,Factory C,Industrial-X,386,morning
+11/30/2022,Factory D,PW-3000,116,
+21-02-2023,Factory C,,252,Afternoon
+03/01/2022,factory_e,Industrial-X,163,Afternoon
+2022/11/28,Factory E,PW-3000,250,Afternoon
+2023/02/12,Factory E,PW-3000,206,morning
+2022-01-29,Factory A,PW-4000,152,NIGHT
+15-09-2022,Factory E,PW-3000,156,morning
+03/02/2023,Factory C,Commercial-Pro,316,Afternoon
+2022/09/29,factory_a,PW-2000,347,Night
+04-02-2023,factory_e,PW-3000,145 units,Afternoon
+2023/11/02,Factory B,PW-2000,228,Morning
+2022-07-03,Factory B,PW-2000,270,morning
+26-04-2023,Factory D,PW-2000,54,Morning
+04/07/2022,factory_a,PW-3000,188,morning
+2022-11-25,factory_c,Industrial-X,233,Night
+12/23/2022,Factory E,Commercial-Pro,162,morning
+19-08-2023,Factory C,PW-2000,288 units,Night
+2022-04-22,FACTORY D,PW-4000,83,morning
+2023/05/28,fac_b,PW-2000,277,Night
+23-03-2023,FACTORY D,PW-2000,24,Morning
+04/12/2022,FAC-A,Industrial-X,263,NIGHT
+2023-05-03,Factory C,PW-4000,123,morning
+05/16/2023,fac_b,PW-4000,159,NIGHT
+03/15/2023,Factory A,Commercial-Pro,380 units,morning
+2022-01-08,FAC-C,PW-3000,199,morning
+04-03-2023,FAC-E,PW-4000,111,Afternoon
+07/04/2023,factory_b,Commercial-Pro,242,Night
+07/07/2022,FAC-B,PW-3000,230 units,Morning
+22-05-2023,Factory A,PW-4000,293 units,Night
+2023/07/16,factory_c,PW-2000,196,NIGHT
+23-01-2023,Factory A,PW-4000,120,Afternoon
+2023/01/24,FAC-B,PW-3000,391,morning
+,Factory E,PW-2000,,Morning
+2022-01-10,FACTORY D,PW-2000,35 units,morning
+2023-02-01,Factory A,Commercial-Pro,197,Morning
+2023-12-05,factory_b,PW-2000,335,Morning
+2022/04/11,FAC-A,PW-3000,221,Afternoon
+12/17/2022,FAC-D,PW-4000,95,Afternoon
+2022-05-26,factory_e,PW-2000,266,Afternoon
+2022-02-28,Factory E,,281,NIGHT
+19-11-2022,Factory E,PW-3000,293 units,morning
+2022-04-26,FAC-B,PW-3000,116 units,NIGHT
+20-01-2022,Factory A,PW-2000,359,NIGHT
+2023-10-05,Factory D,PW-2000,,NIGHT
+29-03-2022,Factory B,Commercial-Pro,253,Afternoon
+2023-01-29,FAC-D,PW-3000,163,NIGHT
+11/16/2023,FAC-C,Industrial-X,366,NIGHT
+16-06-2023,factory_a,Industrial-X,326,morning
+04/05/2023,Factory D,PW-3000,127,NIGHT
+09/03/2023,FACTORY D,Industrial-X,84,NIGHT
+2022/08/08,factory_e,PW-3000,288,Afternoon
+2022-09-29,factory_c,PW-4000,-209,morning
+11-02-2022,Factory C,Commercial-Pro,210,Night
+2023-08-06,FACTORY A,Industrial-X,211,NIGHT
+2023/04/20,factory_c,PW-4000,116,Afternoon
+2022/07/29,Factory B,PW-3000,,Night
+2023/03/03,Factory C,Industrial-X,284,Afternoon
+2023-09-14,Factory E,Industrial-X,207,Morning
+14-01-2023,,Commercial-Pro,255,NIGHT
+2022-05-05,Factory A,PW-4000,356,Night
+17-09-2023,Factory C,PW-4000,347,
+22-11-2022,FAC-D,Industrial-X,174,morning
+10/06/2022,Factory B,PW-2000,284,Night
+2022-01-14,Factory D,PW-2000,31,Morning
+,factory_c,PW-2000,311,
+2023/09/24,Factory B,Commercial-Pro,236 units,Afternoon
+03/06/2023,Factory A,PW-3000,334,Night
+21-08-2022,factory_e,PW-3000,267,morning
+2023/05/17,factory_c,Commercial-Pro,302,Night
+24-04-2023,Factory E,PW-4000,270,morning
+2023-03-06,Factory E,Industrial-X,196,Afternoon
+2022-02-25,Factory D,PW-3000,115,Afternoon
+2023-06-17,factory_c,PW-3000,376,NIGHT
+2022/04/19,Factory E,Commercial-Pro,264,Afternoon
+2023/10/16,factory_e,PW-2000,227,NIGHT
+2023-10-06,,Commercial-Pro,89,Night
+11-03-2023,FAC-B,PW-3000,283,Morning
+2022/10/27,FAC-C,Commercial-Pro,225 units,Night
+02-05-2023,fac_b,Commercial-Pro,238,Morning
+05/24/2023,factory_c,Commercial-Pro,283 units,
+12/16/2023,Factory D,Commercial-Pro,130,NIGHT
+15-01-2023,Factory C,Industrial-X,355,morning
+29-05-2023,FAC-E,Commercial-Pro,149,Morning
+2022-10-18,Factory D,PW-2000,162,Morning
+03/13/2022,FAC-B,Industrial-X,155,Afternoon
+2023/06/19,Factory E,Commercial-Pro,180,morning
+07/17/2023,factory_a,Commercial-Pro,204,NIGHT
+2023/09/04,Factory A,PW-4000,218,morning
+2022/09/02,Factory B,Industrial-X,274 units,Morning
+10/01/2023,Factory B,PW-3000,,Morning
+07/26/2023,Factory B,PW-4000,342,Night
+2023/01/15,factory_c,PW-4000,174,Morning
+23-10-2022,Factory E,Commercial-Pro,,Morning
+2022/10/29,factory_c,PW-4000,248,NIGHT
+2022-09-25,Factory E,Commercial-Pro,82,morning
+2022/08/22,Factory D,Commercial-Pro,177,NIGHT
+2023-08-27,Factory E,Industrial-X,136,NIGHT
+27-06-2022,factory_e,PW-4000,125,NIGHT
+12/19/2022,Factory D,,61,Morning
+06-08-2023,Factory B,PW-4000,351,morning
+09/06/2022,Factory E,Industrial-X,82,Afternoon
+04/24/2023,,PW-4000,91,Night
+07/17/2022,Factory D,Commercial-Pro,61,Night
+2023/10/18,Factory C,Commercial-Pro,110,Night
+2023/05/18,Factory C,Industrial-X,358,Morning
+05/10/2022,FAC-B,PW-2000,315,NIGHT
+07/24/2022,Factory C,PW-2000,121,Night
+,Factory E,Industrial-X,132,Morning
+2023/04/09,Factory E,PW-2000,262,Morning
+2023/08/12,Factory E,Industrial-X,280,Night
+2023/05/21,Factory A,PW-4000,159,Night
+09/20/2022,Factory A,Industrial-X,144,NIGHT
+2023-08-27,Factory E,Industrial-X,136,NIGHT
+2023/11/30,factory_a,Industrial-X,191,Morning
+2023-12-26,Factory E,Commercial-Pro,277,morning
+2023-03-25,FAC-E,PW-2000,152,Night
+08-11-2023,factory_e,PW-3000,192 units,Night
+11/18/2022,FAC-C,PW-4000,160,morning
+2023/12/13,Factory B,Industrial-X,152,Morning
+17-06-2023,FACTORY D,Commercial-Pro,132,Afternoon
+2023-08-31,factory_e,Industrial-X,222,morning
+2023-11-03,Factory B,Commercial-Pro,314,NIGHT
+,Factory C,PW-4000,230,NIGHT
+10/22/2023,Factory E,PW-4000,87,Night
+2023-05-12,FAC-B,PW-4000,260,Night
+04-09-2022,FACTORY A,Commercial-Pro,395,
+2022/04/12,Factory E,Industrial-X,283,Afternoon
+08/30/2022,FAC-A,Industrial-X,328 units,Morning
+02/10/2023,Factory D,PW-3000,45,
+2023-08-22,Factory D,PW-4000,79,Afternoon
+30-10-2022,factory_a,PW-4000,327 units,Afternoon
+2023-11-09,Factory D,,180,Night
+03/14/2023,Factory A,PW-3000,290,NIGHT
+30-04-2023,Factory B,Commercial-Pro,367,Afternoon
+08/11/2023,Factory B,PW-3000,370 units,Afternoon
+2022-03-08,Factory A,Industrial-X,364,morning
+2023/09/08,Factory A,Industrial-X,138,
+30-11-2023,FAC-C,PW-2000,190,Morning
+2023/04/14,fac_b,PW-2000,,morning
+04/30/2023,Factory D,,,Afternoon
+01-03-2023,FAC-C,Commercial-Pro,180,Morning
+25-03-2023,Factory D,PW-4000,56,Morning
+2023-01-11,,Commercial-Pro,181,Night
+2023-02-13,Factory A,PW-3000,,NIGHT
+2023-01-31,Factory D,Industrial-X,170,
+22-02-2022,Factory C,Industrial-X,-270,Morning
+11/19/2023,FAC-D,PW-2000,22 units,morning
+2023/03/02,Factory C,Industrial-X,131,morning
+10/03/2022,Factory D,,178,Night
+10/04/2022,factory_c,Industrial-X,182,Morning
+2023-09-09,factory_d,Commercial-Pro,70,Night
+01-02-2023,Factory B,PW-4000,249,morning
+02/07/2023,FAC-C,PW-4000,267,Morning
+2023-02-14,FACTORY D,PW-3000,-113,Morning
+26-05-2022,fac_b,PW-3000,182,NIGHT
+11/17/2022,factory_b,PW-3000,239,Morning
+02-04-2022,Factory E,Industrial-X,213,NIGHT
+06/20/2022,FACTORY D,Industrial-X,125,Afternoon
+01/03/2022,Factory B,PW-4000,292,Morning
+2023/03/19,Factory A,Industrial-X,178,morning
+04/11/2023,factory_c,PW-3000,189 units,Morning
+2022-08-02,Factory D,PW-4000,171,Afternoon
+2022-07-31,Factory E,PW-2000,218,Night
+04-11-2022,,Industrial-X,131,morning
+20-07-2023,FAC-B,PW-4000,,Afternoon
+06/21/2023,FAC-C,PW-3000,301,
+2022/08/13,factory_d,PW-2000,144,morning
+2022-03-07,,Industrial-X,57,Afternoon
+2022-10-24,Factory A,Industrial-X,244,Night
+28-03-2023,Factory E,Commercial-Pro,119,NIGHT
+02-04-2023,FACTORY A,PW-4000,109,morning
+2023-07-22,Factory A,Industrial-X,217,NIGHT
+10/20/2022,Factory E,,221,morning
+29-04-2023,,Commercial-Pro,138,
+2022/02/27,Factory B,Commercial-Pro,212 units,Night
+2023-01-27,FAC-A,Industrial-X,266,Afternoon
+09/10/2023,Factory A,Commercial-Pro,225,NIGHT
+2022/07/08,Factory E,PW-4000,292,morning
+2022-06-27,Factory C,PW-3000,139,morning
+2023/05/30,factory_a,Commercial-Pro,274,NIGHT
+2023-01-26,Factory C,Commercial-Pro,140,Afternoon
+2022/02/06,FAC-B,PW-2000,153,Night
+07-06-2023,FACTORY D,PW-4000,106,Night
+05-07-2022,Factory C,Commercial-Pro,250,
+11-07-2022,FAC-D,PW-2000,64,Morning
+2022/08/13,,PW-3000,282,
+2023/07/09,FACTORY D,,62,Night
+,factory_e,Commercial-Pro,105,
+25-05-2022,Factory D,PW-4000,80,
+2023-07-22,Factory B,PW-4000,400,
+,FAC-E,PW-3000,167,NIGHT
+2023-05-13,factory_a,PW-2000,261,Afternoon
+2023/08/11,FAC-B,PW-2000,159,Afternoon
+28-10-2022,Factory B,PW-2000,391,Morning
+2022/12/03,FACTORY D,,158,
+08-03-2022,Factory A,Commercial-Pro,185,
+2023-05-30,Factory D,PW-2000,142,Morning
+2022-04-23,Factory B,PW-4000,161,Night
+04-05-2022,FAC-C,PW-3000,198,
+2022/03/25,Factory D,Commercial-Pro,39,NIGHT
+11/05/2022,factory_a,PW-3000,250 units,Night
+24-11-2023,Factory B,Commercial-Pro,,Morning
+02/15/2022,FAC-E,PW-2000,186,Afternoon
+12-05-2023,factory_b,PW-2000,363,Afternoon
+,factory_a,PW-3000,352,Night
+12/18/2023,factory_a,PW-2000,260,morning
+2023-02-05,FAC-E,PW-3000,285,Night
+2023-05-02,FAC-D,PW-2000,23,Morning
+29-11-2022,FAC-D,PW-4000,136,NIGHT
+2023/05/24,Factory C,Commercial-Pro,302 units,
+2022/05/16,FACTORY A,,324,
+01/19/2022,Factory D,PW-4000,112,Morning
+28-11-2023,Factory C,PW-4000,303,Night
+2022-10-08,FAC-B,Commercial-Pro,371,morning
+09/28/2022,Factory E,Industrial-X,229,Afternoon
+,Factory C,PW-2000,314,
+2022-12-29,Factory B,Industrial-X,106,Night
+25-06-2022,FAC-C,Commercial-Pro,316,
+2023/05/06,FAC-A,PW-4000,,Morning
+10/27/2023,Factory D,PW-2000,102,morning
+,FACTORY D,Commercial-Pro,102 units,Morning
+02/15/2023,Factory D,PW-2000,145,Morning
+10/19/2023,,Commercial-Pro,152,Night
+2022/04/13,,PW-3000,377,
+18-02-2023,FAC-C,PW-2000,,NIGHT
+,Factory A,PW-3000,164,NIGHT
+2023/09/09,Factory D,Industrial-X,105,NIGHT
+12/14/2022,Factory A,PW-4000,385,
+04/02/2022,Factory C,PW-2000,393,Morning
+06/21/2023,Factory A,PW-3000,358 units,Night
+2023/04/09,FAC-B,PW-3000,354,Night
+12/12/2023,factory_b,PW-2000,271 units,morning
+2022-06-06,Factory A,PW-4000,324,Morning
+2023-01-07,FAC-B,,343,
+2022/10/28,Factory A,Industrial-X,199,Morning
+07/02/2022,Factory E,PW-3000,267,Night
+2023-01-25,Factory D,Commercial-Pro,100,NIGHT
+22-11-2022,,Commercial-Pro,129,Night
+2022-05-31,,PW-3000,200,Afternoon
+30-04-2023,Factory D,PW-4000,117,Morning
+2022-06-19,Factory B,PW-2000,195,Night
+08/25/2022,Factory A,PW-3000,397,Morning
+2022-09-18,FAC-B,PW-4000,284,morning
+13-04-2023,Factory B,Commercial-Pro,100,
+2022-03-29,Factory A,Commercial-Pro,198,Morning
+2023-08-30,Factory B,PW-2000,126,Afternoon
+,Factory A,PW-3000,225 units,
+22-09-2023,factory_d,Commercial-Pro,131,morning
+2022/10/27,factory_b,PW-3000,126,
+02-03-2023,Factory C,Commercial-Pro,125 units,
+2023/12/14,Factory B,PW-3000,130,Afternoon
+05/19/2023,Factory C,PW-3000,100,Night
+2023-10-15,factory_d,Industrial-X,147,NIGHT
+06/22/2023,FACTORY D,,143,Afternoon
+05/22/2023,factory_e,PW-3000,154,
+09-10-2022,fac_b,Industrial-X,,NIGHT
+2023/03/25,,PW-3000,274,NIGHT
+2022-10-29,Factory D,PW-2000,25,Night
+11/10/2023,Factory E,PW-3000,295,Night
+10/05/2023,FACTORY A,PW-4000,378,Morning
+09/24/2022,Factory D,Industrial-X,33,NIGHT
+11/08/2023,Factory B,Commercial-Pro,390,
+2023/10/24,Factory D,PW-2000,54,
+2022-07-12,Factory C,PW-2000,334 units,
+2022/08/07,factory_d,PW-4000,120,Morning
+2022/01/19,Factory A,Commercial-Pro,,Night
+2022/07/25,factory_b,PW-4000,375 units,Morning
+2022-12-10,Factory C,Commercial-Pro,253 units,
+12/23/2022,Factory B,PW-3000,256,NIGHT
+,Factory E,Industrial-X,163,NIGHT
+09/12/2023,Factory B,PW-4000,268,Night
+2022-08-01,Factory D,,169,Morning
+24-06-2022,factory_b,PW-3000,385,morning
+2022-07-03,factory_c,PW-2000,326,Night
+11/22/2022,Factory B,Commercial-Pro,275,morning
+2022/09/13,Factory E,Industrial-X,125,
+2022-12-08,Factory A,PW-4000,262,
+2023-10-19,factory_c,Commercial-Pro,170,Morning
+03-07-2023,Factory D,Commercial-Pro,111,Morning
+2022-09-07,FAC-C,PW-2000,318,Morning
+12/04/2022,Factory C,PW-2000,122,Afternoon
+2022-09-16,FAC-B,,283,Night
+2023-06-08,FAC-A,Industrial-X,325,
+2023-11-21,factory_e,PW-3000,130,NIGHT
+2022-11-12,factory_e,Industrial-X,-207,Night
+2023-04-19,FACTORY D,PW-2000,152,Night
+02-02-2022,Factory E,PW-4000,180,
+09/11/2023,factory_b,Commercial-Pro,392 units,Afternoon
+2023-04-14,factory_a,PW-2000,195,Morning
+2022-08-16,Factory C,PW-2000,165,Morning
+2022/08/22,Factory E,Industrial-X,138,Night
+2023/10/13,Factory A,PW-4000,335,morning
+2022-06-08,factory_e,Commercial-Pro,210,
+11/05/2022,fac_b,PW-3000,259,NIGHT
+12/10/2022,Factory E,,92 units,morning
+2022-04-03,factory_d,Industrial-X,67 units,NIGHT
+2023-01-21,Factory E,PW-3000,189,NIGHT
+2023/06/26,Factory A,PW-2000,173,Morning
+2023/11/13,Factory E,PW-4000,104,Morning
+04/19/2022,,PW-3000,,Morning
+2023-11-02,Factory E,PW-2000,179,Morning
+24-04-2022,FAC-D,PW-3000,166,Afternoon
+10/01/2022,Factory A,Commercial-Pro,274,NIGHT
+01-03-2023,Factory C,Industrial-X,171,Morning
+2022-04-26,Factory A,PW-4000,338,Morning
+15-01-2023,Factory C,Industrial-X,272,NIGHT
+2022-02-10,factory_d,PW-2000,52,NIGHT
+2023-10-22,factory_b,Industrial-X,,NIGHT
+2022/02/13,Factory B,PW-2000,212,Morning
+2022-05-21,Factory A,PW-2000,247,
+2022/12/12,Factory C,PW-3000,177,Afternoon
+09/19/2022,Factory B,PW-4000,166,
+05/06/2022,factory_a,Commercial-Pro,260,Morning
+03/26/2022,factory_e,Industrial-X,133,Morning
+2023/04/04,Factory A,PW-4000,,Morning
+2022/08/01,FAC-D,Industrial-X,75,Morning
+2023-09-10,Factory A,Industrial-X,384,morning
+2022-01-15,FACTORY D,PW-3000,,NIGHT
+23-06-2022,Factory B,Industrial-X,143,Afternoon
+05/01/2022,Factory C,PW-4000,274 units,
+2023/05/24,,Commercial-Pro,206 units,Afternoon
+08/20/2022,FAC-C,PW-2000,307,Afternoon
+09/16/2022,factory_a,PW-4000,225,
+2022/05/23,FAC-A,PW-3000,151,
+2023/04/24,FAC-C,PW-3000,,
+31-07-2023,FACTORY A,PW-3000,116,Morning
+06/04/2023,factory_c,PW-4000,236,morning
+2022-11-12,factory_c,PW-3000,359,morning
+20-01-2022,Factory D,Industrial-X,100 units,Morning
+14-08-2023,factory_b,PW-3000,390,
+29-09-2023,FAC-B,Commercial-Pro,121 units,Afternoon
+2023-09-10,FACTORY D,PW-3000,158,
+2023-06-23,Factory C,PW-2000,211,Afternoon
+2023/03/06,FAC-B,Commercial-Pro,187,Afternoon
+03/09/2022,Factory C,Industrial-X,152 units,NIGHT
+03-02-2022,FAC-A,PW-4000,111 units,NIGHT
+09/09/2023,Factory A,Industrial-X,188,morning
+2023/05/05,Factory B,Industrial-X,135,Afternoon
+2022/06/27,factory_b,PW-2000,395 units,Afternoon
+12-05-2023,factory_c,Commercial-Pro,276,Morning
+02-12-2023,Factory D,,52 units,
+2022-09-03,factory_d,PW-3000,114,
+2023/10/24,Factory E,Industrial-X,273 units,Morning
+2022/02/09,factory_a,Industrial-X,240 units,NIGHT
+2023/07/09,FACTORY D,,62,Night
+07/25/2023,FAC-C,Commercial-Pro,231,Night
+05/23/2023,Factory C,Industrial-X,183,Afternoon
+04/13/2022,FAC-D,PW-4000,140,Morning
+10/28/2022,Factory C,PW-4000,332,morning
+,Factory C,Commercial-Pro,122,Night
+2023/06/25,Factory B,PW-3000,116,morning
+06-04-2022,Factory C,Commercial-Pro,357,NIGHT
+2023-01-27,Factory B,Commercial-Pro,344,
+2022-10-28,FAC-C,PW-4000,211,
+2022/10/02,FACTORY D,Commercial-Pro,102,Night
+2022-05-31,FACTORY D,Industrial-X,173 units,Night
+2022/09/22,fac_b,Industrial-X,342,Morning
+08/10/2022,FAC-A,PW-2000,365,NIGHT
+2022/01/13,Factory E,PW-4000,135,NIGHT
+2022-08-19,Factory E,Commercial-Pro,112,morning
+2022/09/10,Factory B,PW-4000,213,morning
+08/17/2022,factory_b,PW-2000,,Morning
+04/06/2023,Factory E,Industrial-X,250,morning
+2022/02/25,Factory E,Industrial-X,158,morning
+2023-02-19,Factory D,PW-2000,123,Afternoon
+2022/10/08,Factory A,Industrial-X,207,
+03/20/2022,Factory B,Commercial-Pro,195,
+2022-03-02,,Industrial-X,104,NIGHT
+02/13/2023,FAC-B,PW-2000,275,morning
+2022-07-02,Factory B,Industrial-X,298,
+06-12-2022,FACTORY D,Commercial-Pro,,Night
+2023/11/01,factory_d,Commercial-Pro,39,morning
+29-03-2023,Factory B,Commercial-Pro,350,morning
+2023/02/04,FAC-A,PW-4000,314,Morning
+08/09/2023,Factory D,PW-4000,148 units,
+,FAC-E,Commercial-Pro,240,
+2022-02-11,Factory E,Industrial-X,,morning
+07/08/2022,Factory C,Industrial-X,261,Night
+02-11-2023,Factory A,PW-4000,-260,NIGHT
+2023/11/23,fac_b,Industrial-X,377,morning
+2022-04-25,factory_c,PW-2000,285,
+2023-03-16,FAC-A,PW-3000,313,morning
+10-06-2023,Factory B,Industrial-X,137,morning
+01-02-2023,Factory D,Industrial-X,102 units,
+01/01/2022,FAC-E,PW-3000,95,NIGHT
+2022/04/16,Factory E,Commercial-Pro,183,NIGHT
+2022/07/09,factory_c,Commercial-Pro,138,Afternoon
+2023-05-22,Factory B,PW-2000,285,Afternoon
+06-12-2022,Factory B,Industrial-X,119,morning
+10/16/2023,Factory C,,290,
+05/05/2022,Factory E,Commercial-Pro,121,Afternoon
+2022/05/21,Factory C,PW-2000,361,morning
+,factory_b,PW-4000,146,Afternoon
+2022/06/24,Factory C,PW-3000,261,Night
+04/07/2022,Factory B,Commercial-Pro,164,
+2022-02-05,FACTORY D,Industrial-X,86,Night
+05/07/2022,FAC-C,PW-2000,151 units,Morning
+18-02-2022,Factory A,PW-4000,162,
+2023-11-22,Factory B,PW-2000,141,Night
+05/04/2023,Factory D,Industrial-X,-118,Morning
+08/14/2023,FAC-A,PW-4000,,Morning
+26-12-2023,Factory C,PW-4000,227,Night
+18-02-2022,Factory D,Commercial-Pro,114,Morning
+05-06-2022,Factory B,PW-3000,250,morning
+02-05-2022,factory_a,,101 units,Morning
+2023-02-24,Factory B,Industrial-X,334,Morning
+01-07-2023,Factory B,PW-2000,370,Night
+04-11-2023,factory_c,Commercial-Pro,192,NIGHT
+08/10/2023,Factory A,PW-4000,102,Night
+2022/04/03,Factory B,Industrial-X,270,
+2022/07/30,FAC-D,Commercial-Pro,82,NIGHT
+10/19/2022,Factory C,Industrial-X,374,Morning
+2023-10-30,Factory E,Commercial-Pro,111,NIGHT
+2022/09/07,FAC-D,Commercial-Pro,160,NIGHT
+16-03-2023,FACTORY A,Industrial-X,202,NIGHT
+10/27/2022,FACTORY D,Industrial-X,,Night
+2022/01/27,factory_d,PW-4000,145 units,
+07-02-2022,Factory B,PW-3000,250,NIGHT
+22-05-2022,Factory A,PW-4000,279,Afternoon
+,Factory B,PW-2000,154,
+2023-02-13,FAC-B,PW-2000,150,Morning
+2023/12/20,Factory D,Commercial-Pro,171,Morning
+2023/09/24,FAC-D,PW-3000,21,Night
+25-06-2022,Factory C,Industrial-X,208,
+2022/01/03,factory_a,Industrial-X,299,Afternoon
+2022/08/13,Factory C,Commercial-Pro,337,morning
+10/05/2022,Factory D,PW-3000,106,morning
+2022-02-28,Factory D,PW-2000,88,Morning
+2023-05-25,factory_e,Commercial-Pro,263,
+2022-09-23,factory_b,PW-4000,154,NIGHT
+2023-11-26,Factory B,PW-4000,305,NIGHT
+14-06-2023,factory_d,Commercial-Pro,177,Night
+18-11-2023,Factory E,Industrial-X,195,
+07/10/2022,factory_d,Commercial-Pro,131,morning
+03-03-2023,Factory A,Commercial-Pro,176,morning
+12/06/2022,Factory C,PW-3000,275,NIGHT
+15-12-2023,Factory D,PW-4000,116,
+09-01-2022,Factory B,Commercial-Pro,269,morning
+16-05-2022,factory_d,Industrial-X,42 units,
+05/13/2023,Factory E,PW-4000,201,Night
+25-06-2022,factory_b,Industrial-X,180,Afternoon
+02/17/2023,Factory D,Commercial-Pro,74,
+25-09-2022,Factory D,PW-2000,64,NIGHT
+08-07-2022,Factory E,PW-3000,240 units,NIGHT
+2023/05/23,FAC-C,PW-2000,325,morning
+11/16/2022,FACTORY A,PW-2000,249 units,NIGHT
+03/17/2023,FAC-C,PW-2000,360,NIGHT
+2022/10/27,factory_b,PW-3000,126,
+2023-10-16,FAC-D,PW-4000,74,morning
+2023-12-15,,PW-3000,131,
+2023/04/10,Factory D,PW-3000,111,Night
+04/27/2022,Factory B,PW-4000,346,NIGHT
+2023-10-31,Factory A,Commercial-Pro,314,NIGHT
+31-05-2023,Factory C,PW-2000,108,Night
+22-07-2022,Factory A,Industrial-X,143 units,Afternoon
+2023/09/19,factory_e,PW-4000,87,morning
+2022/05/16,FACTORY A,,324,
+05/18/2023,FACTORY A,PW-2000,249 units,morning
+11/26/2023,Factory C,Commercial-Pro,297,Night
+03/30/2023,factory_d,Industrial-X,,Afternoon
+03/08/2023,FAC-B,Commercial-Pro,142,morning
+2023-02-02,FAC-A,,196,Morning
+2022/01/25,FAC-E,Industrial-X,251 units,Morning
+2022/07/12,Factory C,PW-3000,161,Morning
+2023/09/01,Factory E,,279,
+23-08-2022,factory_d,PW-2000,43,morning
+12/19/2023,Factory A,Industrial-X,254,NIGHT
+2023-02-12,Factory D,PW-4000,169 units,morning
+2023-05-06,factory_d,PW-2000,30,Night
+03/25/2023,Factory E,Commercial-Pro,169,
+12-09-2023,FAC-B,Industrial-X,164 units,
+10/26/2022,Factory C,PW-3000,368,Morning
+2022-03-02,Factory E,Industrial-X,105,Night
+10/07/2022,Factory C,PW-4000,163,morning
+2022-06-09,Factory A,PW-2000,257,Night
+,Factory B,Industrial-X,256 units,Morning
+2022/03/13,Factory E,Industrial-X,240,Morning
+10/11/2022,FACTORY A,PW-2000,382,Afternoon
+06-01-2022,Factory C,Industrial-X,283,Morning
+2022-02-06,FAC-A,PW-2000,281,NIGHT
+2023/07/17,Factory D,Commercial-Pro,20,Night
+05/20/2022,Factory B,PW-3000,248,Morning
+30-06-2023,Factory C,Commercial-Pro,350,
+2023-08-01,,Industrial-X,386,morning
+02/03/2022,Factory C,PW-3000,297,Night
+,Factory D,Commercial-Pro,27,morning
+,Factory B,PW-2000,383,Afternoon
+2022/11/08,factory_c,Industrial-X,246,Morning
+2022-02-25,factory_b,PW-2000,286,NIGHT
+05/26/2022,factory_c,PW-3000,108,morning
+2022-05-03,Factory E,PW-4000,239,Morning
+2022/09/09,FAC-D,PW-3000,77,morning
+2022/09/09,Factory B,PW-2000,174,Morning
+03/10/2022,Factory E,Commercial-Pro,,Afternoon
+06/19/2022,Factory E,Industrial-X,237,Night
+18-01-2023,Factory D,Industrial-X,84,Afternoon
+08-07-2023,Factory A,PW-2000,309,NIGHT
+17-10-2023,Factory C,Commercial-Pro,135,Afternoon
+2023/03/06,Factory B,PW-3000,351 units,
+21-07-2023,Factory E,PW-3000,266,Afternoon
+2022/11/25,FAC-B,Industrial-X,237,NIGHT
+2022-05-04,FAC-B,PW-2000,240,Afternoon
+2023-08-30,Factory B,PW-2000,126,Afternoon
+04/06/2023,FACTORY D,PW-4000,54,Morning
+2023/08/14,FAC-B,PW-4000,329,Afternoon
+11/11/2022,factory_a,PW-3000,356,Night
+14-07-2022,fac_b,PW-4000,285,
+05/28/2023,FACTORY A,PW-4000,135,morning
+12/20/2023,Factory D,PW-3000,26 units,
+14-07-2022,Factory A,Industrial-X,,morning
+01-09-2023,fac_b,,200,morning
+2022/11/17,Factory A,Industrial-X,354,Night
+03/28/2023,Factory C,Commercial-Pro,336,Night
+,fac_b,PW-3000,255,morning
+11/21/2022,factory_d,PW-2000,107,morning
+16-09-2022,factory_d,Industrial-X,75,NIGHT
+06/20/2022,fac_b,Commercial-Pro,291,NIGHT
+05/28/2023,FAC-A,PW-2000,258,Night
+26-10-2022,Factory D,PW-2000,68,
+2022/01/13,Factory A,Industrial-X,182,morning
+06/29/2022,Factory A,PW-2000,202,Morning
+08/15/2023,FAC-C,Industrial-X,214,NIGHT
+09-11-2023,factory_c,PW-2000,330,
+18-11-2023,Factory C,PW-2000,326,NIGHT
+18-05-2022,Factory E,,118,
+2022/11/21,fac_b,Industrial-X,345,morning
+2023/08/11,factory_e,PW-2000,236,morning
+2022-09-21,Factory E,Commercial-Pro,176,
+2023-09-27,FAC-E,PW-2000,179,NIGHT
+2022-04-08,Factory E,Commercial-Pro,190,Morning
+13-06-2022,Factory A,PW-4000,307,Night
+17-03-2022,FAC-D,PW-3000,92,
+2022/09/01,fac_b,PW-2000,327,
+12/06/2022,FAC-E,Commercial-Pro,258,Afternoon
+02-02-2023,FAC-E,Commercial-Pro,120,morning
+2022/02/13,Factory E,Industrial-X,,morning
+2023-05-23,Factory C,Industrial-X,109,
+2022/09/27,factory_c,PW-4000,235,Morning
+2023/12/10,Factory D,PW-3000,168,morning
+02/18/2022,factory_d,PW-4000,57,
+10-02-2022,Factory A,PW-4000,162,Morning
+04/23/2023,factory_e,Commercial-Pro,264,morning
+2023/01/06,factory_a,PW-4000,,Morning
+14-09-2023,Factory B,Commercial-Pro,378,NIGHT
+11/11/2023,Factory E,PW-4000,86,Morning
+11/02/2022,FAC-B,PW-2000,388,morning
+04-08-2023,Factory A,PW-2000,248 units,morning
+2023/02/10,Factory D,Commercial-Pro,,Night
+2023/05/08,Factory B,PW-3000,174,Afternoon
+11/25/2023,Factory E,Commercial-Pro,238,Afternoon
+15-06-2022,FAC-E,PW-2000,269,morning
+03-05-2023,Factory D,PW-2000,138,morning
+08/23/2022,FACTORY A,PW-4000,160,Afternoon
+2022-08-17,factory_a,PW-4000,257,
+10/07/2023,Factory D,PW-3000,153,
+2023/11/08,Factory B,PW-4000,158,
+2023/01/17,FAC-E,PW-2000,288,morning
+2022/02/24,FAC-A,Commercial-Pro,100,
+2022-09-18,Factory A,Industrial-X,256,Morning
+04/18/2023,Factory C,PW-2000,284,morning
+,Factory A,PW-4000,105,morning
+2023-08-29,FAC-A,PW-3000,387,
+13-09-2023,Factory C,PW-4000,136 units,morning
+2022-06-14,FAC-C,PW-2000,268,Night
+11/14/2023,fac_b,PW-3000,152,Afternoon
+09/28/2022,Factory C,,,morning
+11/01/2023,factory_e,Commercial-Pro,265,Morning
+2023/02/11,FAC-D,PW-3000,148 units,Afternoon
+2022-10-01,factory_d,Commercial-Pro,41,Night
+04/23/2023,fac_b,PW-3000,209,Morning
+2023/04/28,Factory E,,277,NIGHT
+2022-07-09,FAC-D,,114,Night
+02-02-2022,Factory E,PW-4000,180,
+2022-06-24,Factory B,PW-4000,277,morning
+2022/01/01,FAC-B,PW-2000,367 units,Night
+2022-12-18,Factory B,PW-3000,384,NIGHT
+2022/07/28,Factory A,PW-4000,377,Afternoon
+2023/09/24,FAC-B,PW-2000,149,morning
+2022/04/13,,PW-3000,377,
+2022-09-04,Factory D,,24,Night
+2022/12/12,Factory E,Commercial-Pro,191,Morning
+15-03-2022,Factory E,Industrial-X,100,morning
+2022-01-28,Factory B,Commercial-Pro,387,Afternoon
+03/16/2022,FACTORY D,Commercial-Pro,94,Morning
+30-05-2022,Factory B,PW-2000,263,Morning
+27-09-2022,FAC-B,PW-3000,388,
+2023/01/27,Factory C,Commercial-Pro,393 units,Morning
+02/20/2023,factory_d,PW-2000,143,Morning
+10/17/2023,FACTORY D,PW-2000,136,Morning
+16-08-2022,Factory C,PW-3000,272,
+2022-10-07,Factory C,PW-3000,258,Morning
+2023/08/11,FAC-E,PW-3000,257,Afternoon
+2023/02/23,FAC-C,Industrial-X,166 units,Night
+2022-12-23,Factory C,Commercial-Pro,399,morning
+2022/07/19,FACTORY A,Commercial-Pro,103,NIGHT
+2022-03-12,Factory E,PW-3000,232,NIGHT
+02-04-2023,Factory A,Commercial-Pro,166,Afternoon
+15-05-2022,Factory D,PW-2000,24,Afternoon
+20-04-2023,Factory C,Industrial-X,181,Afternoon
+2023/01/17,Factory B,Industrial-X,218,Night
+2023-07-15,Factory C,PW-3000,342,morning
+2022-05-11,fac_b,PW-2000,232,
+15-08-2022,,,268,
+2023/06/29,Factory D,PW-2000,,Afternoon
+28-08-2023,Factory A,Industrial-X,111,Night
+04/03/2022,FAC-B,PW-4000,182,Morning
+19-02-2022,Factory E,Commercial-Pro,249,morning
+09/06/2023,FAC-A,Commercial-Pro,308,Night
+10-03-2022,FAC-B,Commercial-Pro,-299 units,NIGHT
+18-07-2022,Factory C,PW-2000,262,morning
+05/12/2023,Factory C,Commercial-Pro,334 units,Afternoon
+21-08-2023,Factory C,Commercial-Pro,200,Afternoon
+23-10-2023,factory_c,PW-2000,347,Afternoon
+2022-08-01,Factory B,PW-2000,329 units,Morning
+01/22/2022,Factory A,Commercial-Pro,240,Afternoon
+29-05-2022,Factory E,Industrial-X,247,Afternoon
+04/30/2022,FAC-D,PW-3000,102,Afternoon
+2023-09-26,Factory B,Commercial-Pro,326,NIGHT
+2023/02/12,Factory C,Industrial-X,122,NIGHT
+2023-02-19,Factory E,PW-4000,190,Afternoon
+10/15/2022,Factory B,Commercial-Pro,316,Afternoon
+2022/09/29,FACTORY A,Industrial-X,396,Afternoon
+05-07-2023,factory_e,PW-3000,225,Morning
+2022-02-13,Factory A,Industrial-X,200,Night
+2023-11-14,Factory D,,139,
+2022/05/13,Factory D,,66,Afternoon
+11-09-2022,Factory D,Commercial-Pro,39,Night
+06/04/2023,Factory A,Commercial-Pro,269,NIGHT
+2022/11/11,Factory C,PW-4000,357,NIGHT
+09-08-2023,Factory E,Commercial-Pro,119,Night
+2023-07-11,,Industrial-X,254,Afternoon
+12-08-2022,Factory E,PW-4000,199,Night
+06-01-2022,Factory D,PW-3000,160,Night
+2022-11-24,factory_e,PW-2000,200,morning
+18-12-2023,factory_b,Commercial-Pro,379,morning
+2022-01-08,FAC-C,PW-3000,199,morning
+2023-03-05,factory_a,PW-2000,234,
+2023/01/20,FACTORY A,PW-2000,205,NIGHT
+06-04-2022,FAC-B,Industrial-X,349,Afternoon
+2022-11-05,Factory A,Commercial-Pro,,morning
+05-04-2022,Factory C,PW-3000,327,Night
+2023/07/16,FAC-E,Industrial-X,-293,
+2023-01-16,Factory E,Commercial-Pro,140,Morning
+2023-04-25,Factory A,PW-3000,128 units,NIGHT
+2023/07/21,factory_c,,,morning
+09/04/2022,Factory A,Commercial-Pro,399,
+27-12-2022,factory_c,PW-3000,375,
+02-11-2022,factory_a,Commercial-Pro,151,morning
+2023/04/14,,Industrial-X,248,NIGHT
+08/30/2022,Factory E,PW-4000,221,Night
+08/26/2023,Factory A,Industrial-X,111,Night
+15-03-2022,Factory B,PW-2000,284,Afternoon
+02-02-2023,Factory C,Commercial-Pro,248,NIGHT
+,Factory D,Commercial-Pro,68,Afternoon
+2023-07-18,Factory B,PW-3000,100,Morning
+2023-03-31,Factory B,Industrial-X,393,morning
+03/14/2022,Factory E,Commercial-Pro,200,Afternoon
+14-03-2022,factory_d,Commercial-Pro,124,
+04/11/2023,Factory C,PW-3000,269,Morning
+2023/03/30,Factory A,Industrial-X,293,Afternoon
+2023/05/02,FACTORY D,Commercial-Pro,175,NIGHT
+2022-01-19,Factory D,PW-4000,175,Afternoon
+2022-05-22,FACTORY D,PW-4000,168 units,Afternoon
+07/23/2022,fac_b,Industrial-X,342,Afternoon
+,Factory B,PW-4000,134,morning
+2022-08-17,FAC-A,PW-3000,274,Morning
+07/21/2023,FAC-D,PW-3000,138,Afternoon
+2022/09/15,Factory C,Industrial-X,239,morning
+02/05/2023,factory_e,Commercial-Pro,179,NIGHT
+2023/08/04,Factory D,Commercial-Pro,136,Afternoon
+2023/03/17,Factory A,PW-3000,365,morning
+2023/03/10,factory_b,,318,Morning
+2023/01/15,Factory B,Industrial-X,376 units,Night
+27-05-2022,Factory B,PW-3000,215,Afternoon
+08/31/2023,FAC-B,Industrial-X,340,Night
+2022-10-11,Factory C,PW-3000,356,morning
+2023/01/28,Factory B,Commercial-Pro,140,morning
+2023-03-25,,PW-4000,364,Morning
+2022-10-22,Factory C,PW-3000,138,NIGHT
+01/04/2022,Factory B,Industrial-X,360,Afternoon
+2022/01/08,Factory D,Industrial-X,115,
+03/04/2023,Factory C,PW-4000,,Morning
+07-07-2023,FAC-B,,183,Afternoon
+30-11-2022,factory_a,PW-3000,392,NIGHT
+2022-11-28,FAC-A,Industrial-X,394,Night
+02-08-2023,Factory A,Commercial-Pro,367,morning
+2023-06-12,Factory E,PW-2000,125,morning
+2022-01-23,Factory A,Industrial-X,375 units,NIGHT
+11-12-2023,factory_d,PW-2000,81,
+,FACTORY D,PW-3000,130,Afternoon
+03-05-2023,Factory D,PW-4000,156,morning
+03/22/2023,,PW-4000,263,Night
+2022/10/02,FAC-A,Industrial-X,133,Afternoon
+09-03-2023,FAC-B,PW-2000,222,morning
+2022/05/21,FAC-A,Industrial-X,314,
+19-04-2023,Factory E,Industrial-X,228,NIGHT
+2023-06-09,FAC-E,Commercial-Pro,221,
+09-08-2023,factory_c,Commercial-Pro,,Morning
+08/05/2023,Factory E,PW-4000,181,morning
+2022/06/05,Factory E,Commercial-Pro,115,Afternoon
+01-04-2022,factory_d,PW-4000,112,NIGHT
+05/22/2023,factory_e,PW-3000,154,
+2023-05-09,Factory B,PW-3000,127,morning
+2023/10/02,,PW-4000,151,Afternoon
+2022/02/25,Factory C,PW-4000,155 units,Afternoon
+13-04-2023,factory_a,Industrial-X,100,Morning
+11-02-2022,factory_e,PW-2000,-131 units,Morning
+20-09-2023,fac_b,Industrial-X,228,Afternoon
+2022/09/29,FACTORY D,PW-4000,39,
+2023-10-05,Factory A,PW-3000,181,
+2022-08-15,FACTORY A,,219,Afternoon
+26-01-2022,FACTORY A,PW-2000,295,Afternoon
+2022-12-19,Factory B,PW-3000,109,Afternoon
+08/23/2023,,PW-3000,258,morning
+12/23/2022,Factory C,Commercial-Pro,113,Morning
+2022/06/25,Factory D,PW-4000,178,NIGHT
+2023/11/04,FAC-B,Industrial-X,273,
+12/03/2023,factory_c,PW-3000,307,Night
+2022/04/12,Factory B,PW-4000,271,morning
+2022-05-02,factory_b,Industrial-X,149,
+,Factory B,Commercial-Pro,400,Afternoon
+2022/05/24,factory_a,PW-2000,102,Afternoon
+2022/07/29,Factory A,,120,Afternoon
+,Factory A,PW-4000,294,Night
+20-03-2023,Factory E,Industrial-X,191,

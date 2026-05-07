@@ -1,0 +1,697 @@
+date,factory,downtime_hours,cause,resolved
+2022-01-12,Factory C,1.7,Safety Incident,No
+2022-03-22,Factory D,2.8,Equipment Failure,Yes
+2023-11-21,Factory A,4.1,Safety Incident,Yes
+2022-01-16,Factory D,6.8,Staff Shortage,Yes
+2023-10-23,Factory E,1.0,Raw Material Shortage,No
+2022-08-30,Factory C,2.5,Power Outage,
+2023-03-01,Factory A,4.5,Raw Material Shortage,Yes
+2022-09-23,Factory A,3.1,Safety Incident,No
+2022-04-14,Factory A,3.6,Scheduled Maintenance,
+2023-01-22,Factory B,7.0,Scheduled Maintenance,Yes
+2023-03-30,Factory A,1.2,Safety Incident,Yes
+2022-10-01,Factory D,17.5,Equipment Failure,Yes
+2023-09-13,Factory D,14.6,Staff Shortage,No
+2022-06-12,Factory C,2.8,Raw Material Shortage,Yes
+2022-11-23,Factory A,0.6,Equipment Failure,
+2023-10-28,Factory A,5.6,Safety Incident,No
+2022-11-02,Factory B,5.1,Equipment Failure,Yes
+2023-03-06,Factory E,5.6,Power Outage,Yes
+2023-05-19,Factory E,3.0,Staff Shortage,Yes
+2023-10-11,Factory E,3.6,Raw Material Shortage,No
+2022-01-12,Factory C,1.7,Scheduled Maintenance,No
+2022-08-26,Factory D,7.6,Equipment Failure,No
+2023-01-16,Factory B,7.1,Raw Material Shortage,No
+2023-06-26,Factory A,0.5,Scheduled Maintenance,No
+2023-07-31,Factory C,4.8,Equipment Failure,No
+,Factory B,2.0,Safety Incident,
+2022-11-26,Factory D,17.9,Safety Incident,Yes
+2022-07-09,Factory A,2.3,Equipment Failure,Yes
+2022-10-19,Factory C,3.1,Scheduled Maintenance,
+2022-10-16,Factory B,2.7,Safety Incident,
+2023-10-15,Factory D,7.1,Raw Material Shortage,No
+2023-10-05,Factory C,4.9,Staff Shortage,Yes
+2022-08-18,Factory A,5.3,Raw Material Shortage,
+2023-08-13,Factory E,2.4,Equipment Failure,No
+2022-08-01,Factory E,5.0,Safety Incident,Yes
+2022-07-29,Factory D,6.5,Scheduled Maintenance,No
+2022-08-10,Factory C,2.5,Scheduled Maintenance,
+2022-01-26,Factory D,17.8,Safety Incident,Yes
+2022-07-08,Factory C,3.1,Scheduled Maintenance,Yes
+2023-01-10,Factory D,1.4,Raw Material Shortage,Yes
+2023-07-01,Factory A,4.1,Equipment Failure,Yes
+2023-04-21,Factory A,2.1,Equipment Failure,Yes
+2023-08-28,Factory D,7.6,Safety Incident,Yes
+2022-11-30,Factory D,9.3,Equipment Failure,Yes
+2022-04-13,Factory D,5.9,Scheduled Maintenance,No
+2023-05-15,Factory D,9.7,Raw Material Shortage,No
+2022-10-27,Factory B,4.2,Safety Incident,Yes
+2022-03-19,Factory E,4.3,Staff Shortage,No
+2022-02-22,Factory D,8.8,Scheduled Maintenance,No
+2022-09-16,Factory A,2.8,Scheduled Maintenance,No
+2022-02-16,Factory E,3.9,Equipment Failure,Yes
+2022-04-03,Factory A,5.8,Staff Shortage,Yes
+2023-08-26,Factory E,2.2,Scheduled Maintenance,No
+2023-01-07,Factory D,14.1,Power Outage,Yes
+2022-09-09,Factory A,4.7,Equipment Failure,Yes
+2022-08-23,Factory A,4.7,Power Outage,Yes
+2022-07-03,Factory B,2.2,Staff Shortage,
+2023-04-11,Factory D,10.4,Power Outage,Yes
+2022-10-18,Factory D,17.5,Equipment Failure,
+2023-05-17,Factory C,1.4,Raw Material Shortage,Yes
+2023-07-30,Factory C,4.8,Power Outage,No
+2023-02-20,Factory B,2.8,Safety Incident,Yes
+2023-01-13,Factory C,1.2,Safety Incident,Yes
+2022-02-28,Factory C,4.0,Staff Shortage,Yes
+2022-10-10,Factory A,4.7,Safety Incident,No
+2022-12-14,Factory A,0.3,Equipment Failure,No
+2023-09-23,Factory D,8.1,Equipment Failure,No
+2022-08-18,Factory C,1.4,Scheduled Maintenance,
+2023-08-07,Factory D,7.0,Staff Shortage,
+2022-06-28,Factory C,5.6,Scheduled Maintenance,Yes
+2023-06-02,Factory A,4.0,Scheduled Maintenance,
+2022-10-23,Factory C,3.9,Power Outage,No
+2022-03-21,Factory A,1.1,Raw Material Shortage,Yes
+,Factory A,5.5,Equipment Failure,
+2023-01-31,Factory A,0.7,Equipment Failure,Yes
+2022-03-30,Factory D,2.0,Staff Shortage,Yes
+2022-08-18,Factory B,6.3,Staff Shortage,No
+2022-12-23,Factory B,3.9,Scheduled Maintenance,Yes
+2022-07-22,Factory E,4.9,Power Outage,Yes
+2023-11-07,Factory C,1.0,Scheduled Maintenance,Yes
+2023-07-05,Factory E,1.7,Safety Incident,Yes
+2022-11-19,Factory B,2.5,Scheduled Maintenance,Yes
+2023-06-01,Factory D,12.6,Power Outage,Yes
+2023-10-24,Factory C,5.5,Power Outage,Yes
+2022-11-19,Factory A,3.0,Raw Material Shortage,Yes
+2023-01-12,Factory B,2.8,Scheduled Maintenance,No
+2023-12-20,Factory B,2.5,Equipment Failure,No
+2023-10-10,Factory B,6.1,Staff Shortage,
+2023-12-25,Factory D,13.5,Raw Material Shortage,Yes
+2023-02-19,Factory B,7.5,Scheduled Maintenance,No
+2022-11-08,Factory D,2.0,Equipment Failure,Yes
+2023-02-05,Factory B,2.6,Equipment Failure,Yes
+2022-10-09,Factory B,4.7,Equipment Failure,
+2022-08-15,Factory C,2.2,Equipment Failure,Yes
+,Factory D,15.4,Scheduled Maintenance,No
+2022-02-17,Factory B,7.6,Equipment Failure,
+2022-05-18,Factory E,3.7,Raw Material Shortage,Yes
+2023-04-20,Factory C,4.4,Raw Material Shortage,No
+2022-08-28,Factory E,5.6,Scheduled Maintenance,Yes
+2023-11-23,Factory C,0.5,Equipment Failure,
+2023-05-13,Factory E,3.2,Equipment Failure,No
+2023-10-01,Factory A,5.7,Staff Shortage,No
+2022-02-02,Factory C,3.0,Safety Incident,Yes
+2023-08-08,Factory D,2.4,Equipment Failure,No
+2023-12-29,Factory E,2.6,Equipment Failure,Yes
+2023-01-05,Factory B,1.0,Safety Incident,Yes
+2023-12-26,Factory D,6.5,Staff Shortage,Yes
+2022-11-20,Factory D,8.5,Scheduled Maintenance,Yes
+2022-04-09,Factory C,5.8,Scheduled Maintenance,Yes
+,Factory C,4.6,Safety Incident,No
+2023-12-25,Factory B,6.5,Raw Material Shortage,Yes
+2023-10-09,Factory D,1.5,Equipment Failure,Yes
+2023-05-10,Factory C,0.7,Raw Material Shortage,
+2022-06-30,Factory D,3.5,Raw Material Shortage,Yes
+2022-06-18,Factory B,6.2,Equipment Failure,
+2022-03-25,Factory D,12.3,Power Outage,
+2023-02-03,Factory B,8.0,Scheduled Maintenance,Yes
+2023-11-19,Factory D,5.3,Safety Incident,Yes
+2023-08-08,Factory D,9.1,Scheduled Maintenance,Yes
+2022-11-27,Factory C,5.8,Safety Incident,No
+2022-07-13,Factory B,6.7,Raw Material Shortage,
+2023-01-22,Factory B,0.6,Safety Incident,Yes
+2023-02-03,Factory E,5.9,Equipment Failure,Yes
+2023-08-15,Factory E,0.6,Raw Material Shortage,Yes
+2023-12-13,Factory D,1.8,Scheduled Maintenance,Yes
+2022-12-30,Factory C,0.3,Safety Incident,No
+2023-02-28,Factory A,0.8,Safety Incident,Yes
+2022-04-17,Factory B,2.8,Staff Shortage,Yes
+2022-04-06,Factory D,9.2,Safety Incident,No
+2022-04-05,Factory C,4.4,Equipment Failure,Yes
+2022-03-02,Factory D,15.1,Scheduled Maintenance,Yes
+2022-04-13,Factory E,4.4,Safety Incident,
+2022-03-03,Factory C,1.3,Scheduled Maintenance,Yes
+2022-07-07,Factory A,3.8,Safety Incident,
+2023-05-16,Factory E,3.3,Staff Shortage,No
+2023-09-21,Factory E,2.2,Scheduled Maintenance,Yes
+2022-12-29,Factory D,9.4,Staff Shortage,Yes
+2023-07-18,Factory D,7.2,Power Outage,Yes
+2023-04-24,Factory A,3.5,Raw Material Shortage,Yes
+2022-08-21,Factory E,5.9,Equipment Failure,Yes
+2023-06-25,Factory C,0.6,Equipment Failure,Yes
+2022-04-10,Factory D,14.7,Power Outage,Yes
+2023-01-11,Factory A,2.3,Staff Shortage,No
+2023-10-17,Factory D,11.3,Raw Material Shortage,
+2023-10-09,Factory E,2.0,Staff Shortage,No
+,Factory C,5.0,Scheduled Maintenance,No
+2022-12-28,Factory A,4.3,Scheduled Maintenance,No
+2023-07-23,Factory E,3.0,Staff Shortage,No
+2023-11-15,Factory E,3.9,Power Outage,Yes
+2023-04-06,Factory C,5.3,Raw Material Shortage,Yes
+2022-05-01,Factory E,4.7,Equipment Failure,Yes
+2023-08-22,Factory D,13.1,Equipment Failure,No
+2023-08-10,Factory A,1.2,Scheduled Maintenance,Yes
+2022-07-29,Factory B,4.8,Power Outage,No
+2022-09-17,Factory D,9.5,Raw Material Shortage,No
+2022-08-29,Factory E,0.8,Equipment Failure,Yes
+2023-07-10,Factory D,1.3,Staff Shortage,Yes
+2023-08-03,Factory E,2.0,Safety Incident,Yes
+2022-05-18,Factory B,6.3,Safety Incident,Yes
+2023-07-29,Factory E,3.1,Scheduled Maintenance,Yes
+2023-09-30,Factory C,5.7,Scheduled Maintenance,No
+2022-04-09,Factory C,1.6,Staff Shortage,Yes
+2023-01-13,Factory E,4.9,Safety Incident,No
+2022-12-22,Factory B,4.4,Raw Material Shortage,No
+2023-03-20,Factory E,1.8,Scheduled Maintenance,No
+2023-03-13,Factory E,4.4,Power Outage,Yes
+2023-12-21,Factory C,3.2,Staff Shortage,
+2023-02-10,Factory B,2.0,Staff Shortage,
+2022-07-21,Factory A,2.6,Equipment Failure,No
+2022-08-09,Factory C,4.5,Staff Shortage,Yes
+2023-01-19,Factory B,3.5,Staff Shortage,Yes
+2022-08-06,Factory E,2.3,Scheduled Maintenance,Yes
+2022-10-05,Factory A,5.1,Raw Material Shortage,Yes
+2023-05-11,Factory D,13.6,Raw Material Shortage,Yes
+2022-07-28,Factory D,17.5,Safety Incident,
+2023-06-20,Factory A,1.2,Scheduled Maintenance,
+2022-12-11,Factory D,4.5,Equipment Failure,Yes
+2023-04-25,Factory E,5.3,Equipment Failure,Yes
+2022-05-19,Factory E,4.5,Staff Shortage,No
+2022-09-11,Factory E,1.7,Safety Incident,Yes
+2023-05-16,Factory E,1.9,Scheduled Maintenance,Yes
+2023-10-13,Factory A,1.8,Equipment Failure,
+2022-08-18,Factory D,13.3,Scheduled Maintenance,Yes
+2022-03-21,Factory D,5.8,Power Outage,Yes
+2022-05-14,Factory C,4.0,Raw Material Shortage,
+2022-07-22,Factory A,0.7,Scheduled Maintenance,Yes
+2023-07-16,Factory E,4.6,Power Outage,
+2023-06-11,Factory A,4.9,Power Outage,Yes
+2023-07-28,Factory E,0.4,Raw Material Shortage,Yes
+2022-11-28,Factory C,5.1,Power Outage,No
+2023-04-25,Factory C,5.5,Scheduled Maintenance,Yes
+2022-05-17,Factory C,2.1,Safety Incident,Yes
+2023-04-07,Factory A,2.6,Power Outage,
+2023-11-21,Factory B,5.6,Equipment Failure,Yes
+2023-11-13,Factory B,4.4,Safety Incident,Yes
+2023-06-24,Factory A,3.7,Scheduled Maintenance,No
+2023-04-12,Factory D,4.0,Equipment Failure,Yes
+2023-03-04,Factory B,4.0,Power Outage,No
+2023-01-21,Factory C,0.7,Power Outage,No
+2022-07-30,Factory B,5.9,Safety Incident,Yes
+2023-01-07,Factory A,1.7,Power Outage,Yes
+2022-10-26,Factory D,12.2,Staff Shortage,Yes
+2023-12-21,Factory B,2.8,Equipment Failure,Yes
+2023-11-05,Factory A,0.7,Equipment Failure,No
+2023-03-30,Factory C,3.4,Staff Shortage,Yes
+2023-04-15,Factory A,2.8,Power Outage,Yes
+2023-08-07,Factory C,1.2,Scheduled Maintenance,Yes
+2023-07-26,Factory C,3.8,Raw Material Shortage,Yes
+2022-11-24,Factory A,0.8,Staff Shortage,Yes
+2022-11-04,Factory A,4.7,Equipment Failure,Yes
+2022-01-02,Factory A,5.2,Power Outage,
+2022-05-11,Factory E,5.9,Equipment Failure,Yes
+2023-05-11,Factory B,1.4,Equipment Failure,Yes
+2023-02-28,Factory E,0.7,Equipment Failure,Yes
+2023-08-10,Factory B,3.5,Staff Shortage,No
+,Factory A,4.5,Scheduled Maintenance,Yes
+2022-03-18,Factory E,2.1,Equipment Failure,
+2022-01-15,Factory D,15.6,Raw Material Shortage,
+2023-06-20,Factory D,2.2,Staff Shortage,Yes
+2023-05-04,Factory A,3.4,Equipment Failure,No
+2022-03-14,Factory A,3.5,Raw Material Shortage,
+2023-10-08,Factory D,11.8,Safety Incident,
+2023-09-20,Factory C,2.8,Scheduled Maintenance,No
+2023-06-20,Factory E,5.4,Safety Incident,No
+2023-01-04,Factory C,1.7,Safety Incident,No
+2023-11-20,Factory B,2.5,Power Outage,No
+2023-03-26,Factory E,4.0,Safety Incident,No
+2022-03-29,Factory E,1.6,Equipment Failure,Yes
+2023-01-21,Factory D,14.5,Equipment Failure,Yes
+2022-05-12,Factory D,7.0,Scheduled Maintenance,Yes
+2022-05-31,Factory E,4.8,Raw Material Shortage,Yes
+2022-10-03,Factory D,9.8,Scheduled Maintenance,Yes
+,Factory C,0.6,Power Outage,No
+2022-02-25,Factory C,5.0,Staff Shortage,Yes
+2022-01-10,Factory D,10.6,Staff Shortage,Yes
+2022-11-27,Factory A,1.3,Raw Material Shortage,
+2022-08-26,Factory E,3.5,Equipment Failure,
+2022-10-06,Factory B,1.1,Equipment Failure,Yes
+2023-06-03,Factory B,7.5,Safety Incident,Yes
+2022-10-31,Factory C,1.3,Raw Material Shortage,Yes
+2022-06-07,Factory A,2.1,Raw Material Shortage,Yes
+2022-10-24,Factory C,0.8,Power Outage,
+2022-10-15,Factory C,2.6,Staff Shortage,
+2023-10-31,Factory A,5.7,Safety Incident,Yes
+2023-04-12,Factory D,8.8,Power Outage,Yes
+2023-10-28,Factory A,5.9,Raw Material Shortage,Yes
+2023-10-09,Factory A,4.4,Scheduled Maintenance,Yes
+2022-01-15,Factory E,3.6,Equipment Failure,
+2022-01-10,Factory E,4.2,Safety Incident,Yes
+2023-04-01,Factory C,2.1,Scheduled Maintenance,No
+2022-11-09,Factory B,2.1,Safety Incident,Yes
+2023-07-15,Factory D,1.1,Scheduled Maintenance,Yes
+2023-04-21,Factory C,5.7,Raw Material Shortage,
+2022-12-20,Factory C,3.9,Scheduled Maintenance,No
+2023-09-11,Factory E,2.9,Staff Shortage,Yes
+2022-06-04,Factory D,11.8,Staff Shortage,No
+2022-03-17,Factory B,3.0,Staff Shortage,Yes
+2022-06-24,Factory E,4.2,Raw Material Shortage,No
+2022-08-15,Factory D,6.8,Power Outage,Yes
+2023-07-21,Factory A,3.2,Staff Shortage,No
+2023-10-29,Factory B,6.4,Safety Incident,Yes
+2023-11-25,Factory B,2.2,Staff Shortage,Yes
+2023-12-02,Factory C,0.5,Scheduled Maintenance,Yes
+2022-03-21,Factory A,5.1,Scheduled Maintenance,Yes
+2022-06-02,Factory B,6.7,Raw Material Shortage,No
+2022-10-12,Factory A,3.4,Equipment Failure,Yes
+2023-06-01,Factory E,3.9,Scheduled Maintenance,Yes
+2023-01-29,Factory A,1.5,Scheduled Maintenance,No
+,Factory A,3.0,Scheduled Maintenance,No
+2023-09-14,Factory C,3.8,Power Outage,
+2023-05-27,Factory A,1.3,Equipment Failure,
+2022-10-04,Factory A,3.6,Scheduled Maintenance,No
+2022-01-19,Factory B,5.7,Safety Incident,Yes
+2022-08-27,Factory D,14.4,Raw Material Shortage,No
+2022-01-05,Factory C,3.4,Equipment Failure,Yes
+2023-04-02,Factory D,3.5,Equipment Failure,Yes
+2023-12-27,Factory A,3.8,Scheduled Maintenance,No
+2022-05-02,Factory E,0.8,Scheduled Maintenance,
+2023-09-09,Factory D,5.7,Safety Incident,No
+2023-03-24,Factory D,4.6,Equipment Failure,Yes
+2022-09-19,Factory B,7.3,Power Outage,Yes
+,Factory B,6.8,Staff Shortage,Yes
+2022-08-22,Factory B,4.2,Scheduled Maintenance,Yes
+2022-02-22,Factory E,3.2,Raw Material Shortage,No
+2023-12-20,Factory E,4.8,Safety Incident,No
+2022-08-26,Factory A,2.2,Safety Incident,No
+2022-12-12,Factory D,5.5,Scheduled Maintenance,Yes
+2022-05-14,Factory D,4.9,Equipment Failure,No
+2023-06-14,Factory B,5.0,Equipment Failure,Yes
+2022-01-02,Factory E,3.3,Staff Shortage,
+,Factory C,5.3,Safety Incident,
+2022-03-15,Factory D,11.1,Equipment Failure,No
+2023-02-23,Factory C,2.5,Raw Material Shortage,Yes
+2023-12-13,Factory C,3.0,Raw Material Shortage,Yes
+2022-02-20,Factory D,15.4,Safety Incident,Yes
+2023-12-21,Factory E,1.5,Safety Incident,Yes
+2022-07-05,Factory A,2.8,Equipment Failure,
+2022-05-08,Factory A,1.1,Staff Shortage,No
+2022-10-25,Factory B,0.8,Scheduled Maintenance,Yes
+2023-10-13,Factory E,5.4,Scheduled Maintenance,Yes
+2023-09-19,Factory E,1.4,Raw Material Shortage,Yes
+2022-01-08,Factory A,3.9,Safety Incident,No
+2022-11-30,Factory E,4.5,Equipment Failure,
+2022-09-26,Factory D,12.8,Staff Shortage,Yes
+2023-11-13,Factory D,9.9,Safety Incident,
+2022-09-05,Factory A,5.7,Staff Shortage,Yes
+2022-05-14,Factory E,0.3,Raw Material Shortage,No
+2023-03-23,Factory C,3.6,Safety Incident,No
+2023-11-14,Factory D,17.8,Scheduled Maintenance,No
+2023-09-19,Factory B,6.6,Equipment Failure,No
+2023-02-23,Factory D,15.2,Power Outage,Yes
+2022-12-13,Factory A,4.2,Safety Incident,No
+2023-06-02,Factory B,0.6,Scheduled Maintenance,
+2022-06-11,Factory B,6.5,Equipment Failure,Yes
+2023-03-31,Factory B,3.5,Power Outage,Yes
+2023-11-17,Factory E,1.7,Scheduled Maintenance,No
+2023-01-19,Factory A,5.2,Power Outage,
+2022-06-06,Factory C,0.3,Safety Incident,No
+2023-08-01,Factory A,2.3,Raw Material Shortage,Yes
+2023-11-28,Factory E,2.2,Equipment Failure,Yes
+2022-09-21,Factory A,4.7,Equipment Failure,Yes
+2022-10-16,Factory B,0.9,Power Outage,No
+2022-12-17,Factory B,6.2,Staff Shortage,Yes
+2022-06-24,Factory E,4.1,Equipment Failure,No
+2023-08-28,Factory D,9.5,Staff Shortage,Yes
+2022-08-09,Factory B,5.2,Safety Incident,Yes
+2023-04-27,Factory D,16.8,Raw Material Shortage,No
+2023-06-26,Factory E,1.0,Raw Material Shortage,Yes
+2022-06-13,Factory D,9.2,Safety Incident,Yes
+2023-05-31,Factory C,1.5,Equipment Failure,Yes
+2022-11-16,Factory A,4.4,Scheduled Maintenance,Yes
+2022-09-22,Factory A,3.9,Staff Shortage,No
+2023-08-08,Factory C,1.1,Raw Material Shortage,No
+2023-08-08,Factory D,2.2,Equipment Failure,Yes
+2022-12-09,Factory C,0.5,Safety Incident,
+2023-08-20,Factory D,15.2,Scheduled Maintenance,Yes
+2022-12-12,Factory A,0.5,Safety Incident,No
+2022-04-21,Factory E,1.2,Staff Shortage,Yes
+2023-12-31,Factory B,7.5,Staff Shortage,
+2022-10-30,Factory D,7.6,Equipment Failure,
+2022-08-10,Factory E,2.7,Staff Shortage,No
+2023-06-06,Factory E,0.8,Equipment Failure,No
+2022-09-03,Factory C,1.2,Power Outage,Yes
+2023-03-26,Factory C,3.9,Raw Material Shortage,Yes
+2023-05-19,Factory A,2.2,Scheduled Maintenance,Yes
+2022-09-19,Factory E,1.9,Raw Material Shortage,No
+2022-11-05,Factory D,5.6,Safety Incident,
+2023-06-27,Factory C,3.1,Equipment Failure,
+2022-12-11,Factory B,6.7,Power Outage,Yes
+2022-08-17,Factory B,7.4,Equipment Failure,No
+2022-04-10,Factory D,16.8,Scheduled Maintenance,No
+2022-09-18,Factory C,5.4,Scheduled Maintenance,No
+2022-05-12,Factory A,1.5,Power Outage,Yes
+2022-07-27,Factory D,2.8,Equipment Failure,No
+2023-09-08,Factory B,5.2,Equipment Failure,Yes
+2022-01-19,Factory C,1.0,Staff Shortage,Yes
+2022-06-17,Factory C,0.8,Equipment Failure,No
+,Factory D,13.6,Raw Material Shortage,No
+2022-09-17,Factory E,4.0,Staff Shortage,Yes
+2023-01-01,Factory E,5.4,Equipment Failure,Yes
+2022-08-25,Factory D,3.0,Equipment Failure,Yes
+2022-10-29,Factory C,5.0,Scheduled Maintenance,Yes
+2023-06-12,Factory E,2.1,Scheduled Maintenance,No
+2023-10-25,Factory D,1.0,Safety Incident,Yes
+2022-01-22,Factory C,4.8,Raw Material Shortage,
+2023-06-10,Factory A,2.4,Safety Incident,Yes
+2022-06-28,Factory D,14.8,Power Outage,Yes
+2022-10-07,Factory C,2.2,Safety Incident,
+2022-10-28,Factory A,0.5,Raw Material Shortage,No
+2022-01-24,Factory A,1.1,Safety Incident,Yes
+2022-01-11,Factory B,5.1,Raw Material Shortage,Yes
+2022-04-28,Factory E,3.7,Power Outage,
+2023-02-10,Factory D,16.8,Raw Material Shortage,Yes
+2023-01-28,Factory C,5.3,Equipment Failure,No
+2023-05-21,Factory B,5.0,Power Outage,No
+2022-06-18,Factory C,3.4,Scheduled Maintenance,Yes
+2022-10-05,Factory A,2.3,Staff Shortage,No
+2023-11-26,Factory D,17.4,Raw Material Shortage,
+2022-08-19,Factory D,12.9,Equipment Failure,Yes
+2022-09-25,Factory B,7.3,Power Outage,Yes
+2022-08-06,Factory B,2.9,Power Outage,Yes
+2022-11-23,Factory A,4.9,Scheduled Maintenance,Yes
+2022-06-21,Factory A,3.9,Power Outage,No
+2022-04-03,Factory D,6.7,Power Outage,
+2022-03-18,Factory A,2.2,Staff Shortage,Yes
+2023-03-20,Factory A,4.2,Staff Shortage,Yes
+2023-12-14,Factory C,5.2,Staff Shortage,No
+2022-03-16,Factory C,5.8,Staff Shortage,No
+2023-01-14,Factory D,15.5,Power Outage,Yes
+2022-07-03,Factory C,5.1,Scheduled Maintenance,Yes
+2022-08-05,Factory C,5.4,Raw Material Shortage,Yes
+2023-01-12,Factory C,1.7,Scheduled Maintenance,
+2023-05-06,Factory C,5.4,Equipment Failure,Yes
+2023-01-29,Factory E,3.8,Equipment Failure,Yes
+2022-01-24,Factory B,4.0,Raw Material Shortage,Yes
+2023-11-13,Factory A,3.9,Scheduled Maintenance,Yes
+2022-04-12,Factory B,7.5,Equipment Failure,No
+2023-03-18,Factory A,5.6,Scheduled Maintenance,No
+2022-10-30,Factory A,0.9,Scheduled Maintenance,No
+2023-10-08,Factory B,2.2,Scheduled Maintenance,No
+2023-07-05,Factory C,0.8,Equipment Failure,Yes
+2023-11-30,Factory E,0.5,Raw Material Shortage,
+2023-07-30,Factory B,4.3,Equipment Failure,Yes
+2022-12-14,Factory C,3.0,Staff Shortage,No
+2022-11-05,Factory A,2.0,Staff Shortage,
+2023-06-24,Factory E,3.5,Safety Incident,No
+2022-09-03,Factory A,3.8,Scheduled Maintenance,Yes
+2023-08-18,Factory A,1.6,Safety Incident,Yes
+2022-10-27,Factory A,2.2,Equipment Failure,No
+2023-06-02,Factory A,2.6,Scheduled Maintenance,No
+2023-09-29,Factory D,7.9,Equipment Failure,No
+2022-12-25,Factory C,5.8,Equipment Failure,Yes
+2023-07-11,Factory E,5.3,Scheduled Maintenance,Yes
+2023-09-13,Factory E,0.4,Power Outage,Yes
+,Factory E,5.2,Safety Incident,No
+2023-11-26,Factory C,4.9,Equipment Failure,
+2022-10-24,Factory D,8.0,Staff Shortage,
+2023-03-11,Factory D,5.4,Scheduled Maintenance,Yes
+2023-03-18,Factory E,4.3,Equipment Failure,No
+2023-03-10,Factory C,4.7,Scheduled Maintenance,Yes
+2023-10-19,Factory E,1.6,Raw Material Shortage,No
+2023-06-14,Factory D,6.3,Equipment Failure,No
+2022-03-27,Factory A,2.6,Power Outage,No
+2023-10-10,Factory C,2.6,Staff Shortage,Yes
+,Factory C,3.6,Raw Material Shortage,No
+2023-01-12,Factory C,4.4,Equipment Failure,No
+2023-10-05,Factory C,4.3,Power Outage,Yes
+2022-11-19,Factory C,4.6,Safety Incident,No
+2022-02-03,Factory C,1.8,Safety Incident,No
+2023-12-15,Factory E,0.3,Power Outage,
+2022-06-13,Factory D,10.3,Power Outage,Yes
+2022-03-22,Factory D,15.8,Power Outage,
+2022-04-02,Factory C,1.6,Scheduled Maintenance,Yes
+2023-07-24,Factory B,3.6,Scheduled Maintenance,Yes
+2022-10-06,Factory D,2.1,Safety Incident,Yes
+2022-01-08,Factory C,4.0,Scheduled Maintenance,No
+2023-08-26,Factory E,0.9,Staff Shortage,Yes
+2022-11-18,Factory E,0.9,Raw Material Shortage,No
+2022-02-28,Factory B,3.9,Staff Shortage,No
+2023-01-15,Factory C,1.8,Scheduled Maintenance,Yes
+2023-01-05,Factory C,0.6,Staff Shortage,Yes
+2023-12-05,Factory E,5.4,Scheduled Maintenance,
+2022-08-22,Factory D,17.8,Staff Shortage,Yes
+2022-11-06,Factory E,4.9,Equipment Failure,No
+2022-06-06,Factory A,4.8,Equipment Failure,No
+2023-11-19,Factory E,1.0,Raw Material Shortage,Yes
+2022-03-01,Factory B,7.0,Staff Shortage,Yes
+2022-06-21,Factory B,3.9,Equipment Failure,Yes
+2023-11-19,Factory E,1.6,Power Outage,Yes
+2022-08-17,Factory A,5.0,Safety Incident,Yes
+2023-08-17,Factory D,5.3,Safety Incident,Yes
+2022-06-08,Factory B,3.0,Power Outage,No
+2022-06-24,Factory A,5.7,Scheduled Maintenance,
+2022-05-10,Factory C,2.9,Scheduled Maintenance,Yes
+2022-08-01,Factory B,1.8,Equipment Failure,Yes
+2023-03-26,Factory D,8.1,Scheduled Maintenance,Yes
+,Factory D,3.6,Raw Material Shortage,Yes
+2022-11-13,Factory E,2.5,Equipment Failure,No
+2023-02-20,Factory B,3.3,Scheduled Maintenance,
+2022-05-23,Factory D,11.0,Raw Material Shortage,No
+2023-04-21,Factory C,5.6,Equipment Failure,No
+2022-04-08,Factory B,4.0,Scheduled Maintenance,No
+2022-03-23,Factory A,0.4,Scheduled Maintenance,No
+2022-04-04,Factory B,5.9,Safety Incident,Yes
+2022-05-01,Factory D,14.8,Equipment Failure,Yes
+2022-11-25,Factory A,5.5,Equipment Failure,No
+,Factory B,2.7,Safety Incident,No
+2023-04-03,Factory A,0.3,Equipment Failure,No
+2022-11-30,Factory E,3.3,Power Outage,Yes
+2023-05-13,Factory E,3.6,Staff Shortage,Yes
+2022-05-23,Factory B,3.1,Equipment Failure,No
+2023-02-12,Factory D,3.3,Equipment Failure,No
+2023-10-16,Factory B,2.6,Staff Shortage,No
+2023-02-08,Factory C,2.0,Equipment Failure,Yes
+2022-07-08,Factory A,1.6,Scheduled Maintenance,Yes
+2022-12-24,Factory A,0.6,Scheduled Maintenance,Yes
+2023-10-20,Factory C,3.8,Power Outage,Yes
+2022-12-04,Factory E,3.0,Equipment Failure,Yes
+2022-10-11,Factory C,0.7,Power Outage,No
+,Factory C,1.4,Scheduled Maintenance,Yes
+2023-11-12,Factory E,1.0,Raw Material Shortage,No
+2023-07-03,Factory D,7.2,Equipment Failure,
+2023-09-05,Factory D,14.6,Power Outage,No
+2022-10-21,Factory A,2.9,Staff Shortage,
+2023-01-08,Factory C,0.8,Safety Incident,
+2023-10-26,Factory B,4.6,Power Outage,Yes
+2023-06-28,Factory A,5.8,Staff Shortage,
+2023-11-17,Factory C,4.0,Scheduled Maintenance,
+2023-02-03,Factory E,4.8,Equipment Failure,No
+2022-01-16,Factory A,1.2,Scheduled Maintenance,Yes
+2023-01-12,Factory D,14.7,Equipment Failure,Yes
+2023-08-03,Factory A,4.0,Power Outage,Yes
+2023-12-30,Factory C,2.8,Staff Shortage,Yes
+2023-12-20,Factory B,6.5,Scheduled Maintenance,
+2023-03-01,Factory A,2.1,Safety Incident,Yes
+2023-12-09,Factory D,8.6,Equipment Failure,Yes
+2022-06-08,Factory E,3.9,Scheduled Maintenance,Yes
+2022-01-27,Factory B,5.9,Safety Incident,No
+2023-02-04,Factory C,3.0,Safety Incident,Yes
+2023-01-03,Factory C,5.4,Safety Incident,Yes
+,Factory E,5.1,Equipment Failure,Yes
+2022-08-30,Factory D,9.0,Scheduled Maintenance,Yes
+2023-10-27,Factory A,5.2,Safety Incident,No
+,Factory D,6.0,Power Outage,No
+2022-06-26,Factory A,0.3,Power Outage,Yes
+2022-02-27,Factory D,10.7,Scheduled Maintenance,No
+2023-01-01,Factory E,1.4,Staff Shortage,No
+2022-06-30,Factory D,1.5,Equipment Failure,Yes
+2023-03-18,Factory E,2.2,Power Outage,Yes
+2023-12-29,Factory B,4.6,Safety Incident,
+2023-12-06,Factory B,5.6,Equipment Failure,No
+2023-10-10,Factory A,6.0,Scheduled Maintenance,Yes
+2023-04-17,Factory C,0.7,Equipment Failure,No
+2023-08-29,Factory E,4.1,Scheduled Maintenance,Yes
+2022-07-05,Factory A,2.5,Scheduled Maintenance,No
+2023-07-28,Factory C,4.6,Scheduled Maintenance,No
+2023-03-04,Factory C,2.0,Scheduled Maintenance,Yes
+2023-05-05,Factory C,3.6,Safety Incident,Yes
+2022-04-03,Factory B,5.1,Raw Material Shortage,No
+2022-06-06,Factory E,1.9,Equipment Failure,No
+2023-01-08,Factory C,2.3,Equipment Failure,Yes
+2022-09-11,Factory A,5.0,Raw Material Shortage,Yes
+2022-12-17,Factory D,7.8,Equipment Failure,Yes
+2022-05-13,Factory C,0.5,Power Outage,Yes
+2023-10-31,Factory B,7.6,Scheduled Maintenance,
+2023-04-30,Factory D,1.9,Staff Shortage,No
+2022-06-29,Factory E,4.6,Scheduled Maintenance,No
+2023-05-12,Factory C,3.0,Scheduled Maintenance,Yes
+2022-02-26,Factory C,4.2,Raw Material Shortage,No
+2022-04-03,Factory C,4.4,Equipment Failure,Yes
+2023-05-21,Factory E,4.2,Equipment Failure,Yes
+2023-10-30,Factory E,0.4,Scheduled Maintenance,No
+2022-04-25,Factory A,5.2,Safety Incident,Yes
+2022-08-23,Factory E,1.4,Power Outage,No
+2022-03-18,Factory B,1.9,Raw Material Shortage,Yes
+2022-06-29,Factory E,1.5,Raw Material Shortage,Yes
+2022-01-16,Factory B,7.4,Raw Material Shortage,Yes
+2023-07-27,Factory E,1.9,Raw Material Shortage,
+2023-09-23,Factory C,2.5,Power Outage,Yes
+2023-12-22,Factory D,8.6,Equipment Failure,Yes
+2023-08-12,Factory C,5.5,Raw Material Shortage,No
+2022-10-06,Factory D,11.4,Scheduled Maintenance,No
+2023-08-16,Factory D,2.8,Raw Material Shortage,Yes
+2022-03-08,Factory C,1.6,Scheduled Maintenance,Yes
+2022-07-26,Factory E,1.9,Raw Material Shortage,
+2022-01-07,Factory C,1.4,Raw Material Shortage,Yes
+2022-07-30,Factory E,4.8,Raw Material Shortage,Yes
+2023-12-16,Factory E,2.4,Scheduled Maintenance,No
+2023-10-30,Factory D,15.6,Raw Material Shortage,Yes
+2023-11-18,Factory C,5.2,Equipment Failure,No
+2023-04-26,Factory A,3.9,Safety Incident,Yes
+,Factory A,1.2,Raw Material Shortage,
+2022-03-01,Factory E,2.2,Power Outage,
+2023-06-11,Factory D,3.2,Equipment Failure,
+2022-03-26,Factory E,0.3,Power Outage,Yes
+2022-06-29,Factory D,7.4,Raw Material Shortage,Yes
+2023-02-10,Factory B,3.5,Power Outage,Yes
+2023-03-11,Factory D,4.0,Power Outage,Yes
+2023-02-24,Factory A,5.6,Raw Material Shortage,
+2022-11-20,Factory B,1.5,Safety Incident,Yes
+2022-08-17,Factory B,6.5,Scheduled Maintenance,Yes
+2023-07-07,Factory D,7.9,Raw Material Shortage,Yes
+2022-01-13,Factory E,2.4,Safety Incident,No
+2023-12-07,Factory E,0.4,Power Outage,
+2023-11-19,Factory B,7.3,Power Outage,Yes
+2023-01-23,Factory A,2.6,Scheduled Maintenance,No
+2022-06-17,Factory D,3.4,Equipment Failure,Yes
+2022-11-10,Factory A,2.2,Equipment Failure,No
+,Factory D,11.6,Staff Shortage,Yes
+2023-01-17,Factory E,5.7,Scheduled Maintenance,Yes
+2022-02-13,Factory B,6.0,Staff Shortage,Yes
+2022-11-15,Factory B,5.8,Staff Shortage,Yes
+2022-07-14,Factory E,2.7,Scheduled Maintenance,
+2022-08-17,Factory B,3.3,Equipment Failure,Yes
+2023-05-02,Factory E,4.2,Raw Material Shortage,Yes
+2022-11-24,Factory A,5.4,Staff Shortage,Yes
+2023-04-02,Factory E,1.0,Power Outage,No
+2022-06-04,Factory D,15.9,Scheduled Maintenance,Yes
+2023-10-02,Factory D,9.1,Safety Incident,Yes
+2023-05-30,Factory D,14.8,Power Outage,Yes
+2023-09-08,Factory B,7.6,Power Outage,No
+2023-02-07,Factory E,5.1,Scheduled Maintenance,No
+2022-07-22,Factory E,3.7,Safety Incident,Yes
+2023-02-21,Factory A,1.9,Equipment Failure,No
+2023-08-09,Factory B,3.4,Scheduled Maintenance,No
+2022-07-11,Factory A,2.2,Scheduled Maintenance,No
+2022-02-12,Factory E,4.0,Equipment Failure,No
+2022-06-02,Factory E,3.0,Equipment Failure,Yes
+2022-01-31,Factory B,5.8,Raw Material Shortage,Yes
+2023-11-02,Factory C,0.9,Equipment Failure,Yes
+2023-01-10,Factory C,2.2,Equipment Failure,
+2022-12-18,Factory A,0.9,Safety Incident,
+2022-01-27,Factory B,4.4,Power Outage,No
+2022-01-05,Factory E,4.0,Scheduled Maintenance,Yes
+2023-06-21,Factory D,10.8,Equipment Failure,
+2022-12-27,Factory A,2.8,Raw Material Shortage,Yes
+2022-02-24,Factory C,2.2,Raw Material Shortage,No
+2022-11-14,Factory E,5.5,Staff Shortage,Yes
+2022-11-09,Factory D,5.8,Scheduled Maintenance,No
+2023-02-09,Factory B,4.1,Equipment Failure,No
+2023-02-21,Factory B,5.8,Safety Incident,No
+2023-03-01,Factory C,3.5,Scheduled Maintenance,
+2023-06-09,Factory E,5.5,Safety Incident,No
+2023-09-12,Factory C,1.1,Scheduled Maintenance,
+,Factory C,3.2,Staff Shortage,Yes
+2022-12-19,Factory B,5.2,Scheduled Maintenance,
+2022-03-18,Factory B,7.4,Raw Material Shortage,Yes
+2023-04-17,Factory A,0.4,Equipment Failure,
+2023-08-26,Factory D,2.7,Scheduled Maintenance,Yes
+2022-03-24,Factory C,2.7,Power Outage,No
+2022-03-07,Factory B,7.1,Scheduled Maintenance,Yes
+2023-11-21,Factory B,4.9,Scheduled Maintenance,No
+2023-04-27,Factory C,3.5,Equipment Failure,Yes
+2022-06-27,Factory D,7.7,Staff Shortage,No
+2023-09-19,Factory D,16.8,Staff Shortage,Yes
+2023-10-13,Factory E,5.4,Equipment Failure,Yes
+2022-06-20,Factory E,1.3,Scheduled Maintenance,Yes
+2022-12-26,Factory E,5.7,Raw Material Shortage,No
+2022-08-03,Factory E,5.5,Safety Incident,Yes
+2023-10-19,Factory E,5.1,Raw Material Shortage,Yes
+2023-07-17,Factory C,3.5,Safety Incident,Yes
+2023-01-15,Factory C,5.2,Equipment Failure,
+2023-04-08,Factory B,3.9,Scheduled Maintenance,
+2022-10-30,Factory E,2.2,Equipment Failure,No
+2022-03-21,Factory A,1.5,Equipment Failure,No
+2022-07-23,Factory C,2.6,Staff Shortage,Yes
+2023-12-31,Factory A,3.5,Scheduled Maintenance,No
+2022-06-17,Factory A,0.7,Equipment Failure,Yes
+2022-09-25,Factory A,5.5,Staff Shortage,No
+2023-09-17,Factory E,0.6,Safety Incident,No
+2023-08-14,Factory A,1.8,Scheduled Maintenance,Yes
+2023-01-30,Factory A,1.5,Scheduled Maintenance,Yes
+2022-04-22,Factory A,4.4,Equipment Failure,No
+2023-02-17,Factory B,5.0,Safety Incident,
+2023-04-29,Factory C,3.5,Equipment Failure,No
+2022-09-28,Factory D,13.7,Raw Material Shortage,No
+2023-10-18,Factory A,5.9,Safety Incident,No
+2022-12-15,Factory E,0.7,Power Outage,Yes
+2023-09-05,Factory C,3.5,Raw Material Shortage,No
+2023-11-14,Factory C,4.6,Raw Material Shortage,No
+2023-01-08,Factory D,11.6,Equipment Failure,No
+2022-08-19,Factory E,4.9,Safety Incident,No
+2022-05-04,Factory D,10.5,Staff Shortage,
+2023-03-24,Factory A,1.8,Staff Shortage,Yes
+2022-11-28,Factory D,12.0,Staff Shortage,
+2022-08-15,Factory E,1.6,Equipment Failure,Yes
+2022-08-03,Factory D,1.2,Staff Shortage,
+2022-06-03,Factory B,3.6,Safety Incident,Yes
+2023-05-31,Factory C,4.8,Power Outage,No
+2023-02-20,Factory A,0.4,Power Outage,Yes
+2023-05-12,Factory E,5.1,Power Outage,
+2022-04-12,Factory D,8.0,Equipment Failure,Yes
+2022-12-21,Factory C,5.7,Scheduled Maintenance,Yes
+2022-01-07,Factory E,0.7,Safety Incident,No
+,Factory A,2.4,Power Outage,No
+2023-03-03,Factory D,12.6,Scheduled Maintenance,Yes
+2023-04-21,Factory A,1.1,Staff Shortage,Yes
+2023-10-10,Factory C,1.5,Scheduled Maintenance,
+2023-08-23,Factory E,2.7,Raw Material Shortage,Yes
+2023-01-14,Factory A,1.8,Scheduled Maintenance,No
+2023-07-21,Factory E,2.9,Scheduled Maintenance,Yes
+2023-02-26,Factory A,5.9,Scheduled Maintenance,Yes
+2022-05-28,Factory D,4.4,Equipment Failure,
+2023-09-28,Factory C,4.9,Equipment Failure,
+2023-03-13,Factory A,4.7,Safety Incident,Yes
+2023-02-10,Factory E,4.8,Scheduled Maintenance,No
+2023-11-11,Factory A,2.0,Raw Material Shortage,Yes
+2022-11-19,Factory E,0.9,Safety Incident,Yes
+2022-12-28,Factory A,3.5,Scheduled Maintenance,Yes
+2022-03-18,Factory D,11.7,Scheduled Maintenance,
+2022-05-05,Factory C,1.0,Power Outage,Yes
+2023-02-05,Factory D,8.9,Equipment Failure,Yes
+2023-05-18,Factory B,1.3,Raw Material Shortage,No
+2023-09-26,Factory A,5.1,Scheduled Maintenance,Yes
+2022-02-10,Factory A,1.7,Scheduled Maintenance,Yes
+2022-02-21,Factory C,1.1,Equipment Failure,
+2023-07-02,Factory C,1.0,Raw Material Shortage,No
+2022-03-18,Factory B,1.4,Scheduled Maintenance,Yes
+,Factory C,4.5,Safety Incident,No
+2023-04-20,Factory B,3.3,Raw Material Shortage,Yes
+2022-03-15,Factory E,0.3,Staff Shortage,Yes
+,Factory B,7.5,Scheduled Maintenance,Yes
+2022-05-04,Factory C,1.9,Safety Incident,No
+2023-05-09,Factory B,5.4,Equipment Failure,Yes
+2022-12-20,Factory B,4.9,Raw Material Shortage,Yes
+2022-12-28,Factory A,0.8,Raw Material Shortage,No
+2022-11-24,Factory E,1.7,Safety Incident,Yes
+2022-03-16,Factory B,7.5,Equipment Failure,Yes
+2022-04-17,Factory A,2.8,Raw Material Shortage,No
+2023-09-24,Factory A,0.4,Safety Incident,No
+2022-03-17,Factory B,5.4,Equipment Failure,No
+2022-06-15,Factory A,3.1,Power Outage,Yes
+2022-06-23,Factory D,15.5,Raw Material Shortage,Yes
+2023-08-20,Factory C,0.6,Equipment Failure,Yes
+2022-07-04,Factory D,11.4,Power Outage,Yes
+2023-10-12,Factory A,5.1,Power Outage,No
