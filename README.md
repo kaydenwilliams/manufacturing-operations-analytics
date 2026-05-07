@@ -4,7 +4,7 @@
 A manufacturer exports data from three ERP systems — production logs, defect reports, and downtime incidents. The goal is to identify which factories underperform, what causes defects, and where production time is being lost.
 
 ## Tools
-Python, pandas, MySQL, Tableau
+Python, pandas, Tableau
 
 ## Dataset
 Three synthetic ERP export CSVs with intentional data quality issues:
